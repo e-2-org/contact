@@ -1,0 +1,117 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+
+<html>
+<head>
+	
+<title>Contact</title>
+	<LINK rel="stylesheet" type="text/css" href="contact.css">
+<script type="text/javascript" language="JavaScript">
+function openFullScreen(url) {
+  //Get available screen width (default to 800 x 572 for V3)
+	var aw = 800;
+	var ah = 572;
+  if (screen.width) {
+  	aw = screen.availWidth;
+  }
+  if (screen.height) {
+  	ah = screen.availHeight;
+  }
+  //Check browser
+  var isNav = (navigator.appName == "Netscape")?1:0;
+	var isIE = (navigator.appName.indexOf("Microsoft") != -1)?1:0;
+	//Check Platform
+	var isMac=(navigator.platform.indexOf("Mac")>-1)?1:0;
+	var isWin=(navigator.platform.indexOf("Win")>-1)?1:0;
+  //Set global window options
+  var opts = "toolbar=no,location=no,directories=no,status=no,scrollbars=no,resizeable=no,copyhistory=no,menubar=no"
+  //Set platform and browser specific options
+	if (isNav) {
+	  //Navigator windows have outerWidth and outerHeight properties
+		//use these to set window size to the available screen height and width
+	  opts = opts+",outerWidth="+aw+",outerHeight="+ah+",screenX=0,screenY=0";
+  } else if (isIE) {
+	  //IE has a "full-screen" option which can be used by setting this variable to true or false
+		var fullscreen = true;
+		if(fullscreen){opts=opts+",fullscreen=yes";}
+	  opts = opts+",left=0,top=0";
+		//To size the window (rather than open in fullscreen mode) we need to know the padding
+		//i.e. the space taken by the title bar and window edges. These values are subtracted
+		//from the available screen width and height (different for Macs). If the new window
+		//is opened with toolbars, status bar, etc. the values here should be changed to
+		//compensate for the new features.
+		if (isMac) {
+		  //this uses a value of 13 for the extra width and 32 for the extra height
+		  opts = opts+",width="+(screen.availWidth - 13)+",height="+(screen.availHeight - 32);
+		} else if (isWin) {
+		  //this uses a value of 12 for the extra width and 25 for the extra height
+		  opts = opts+",width="+(screen.availWidth - 12)+",height="+(screen.availHeight - 25);
+		} else {
+			opts = opts+",width="+screen.availWidth+",height="+screen.availHeight;
+		}
+	} else {
+	  return;
+	}
+  //Open a new window
+  var newWin = window.open(url,"NewWindow",opts);
+	//Move to 0,0 (JavaScript 1.2 - for Mac)
+	if (parseInt(navigator.appVersion) >= 4) {
+	  newWin.moveTo(0,0);
+	}
+}
+</script>
+</head>
+
+<body>
+
+
+
+
+<table cellspacing="2" cellpadding="2" border="0" align=left width=100%>
+<tr>
+    <td align="right" valign="bottom"><img src="white.gif" width=100 height=200 border=0 alt=""><a href="javascript:openFullScreen('sign.html');"><img src="contact2.gif" width=100 height=100 border=0 alt=""></a></td>
+    <td></td>
+</tr>
+<tr>
+    <td></td>
+    <td valign="top" >
+	
+	<table width="420" cellspacing="2" cellpadding="2" border="0">
+<tr>
+    <td style="font:1em arial,helvetica,sans-serif">
+	
+	<p><span style="font-size:1.5em;font-weight:bold">Contact</span><br />
+	by Amy Plant (November 2000)
+	</p>
+	
+<p>Requires: Internet Exp. 4 / Netscape 6 or above, QuickTime plugin and Flash 4 plugin</p>
+<p>Focusing on the public artworks and their audiences that comprised the North London Link, &lsquo;Contact&rsquo; contextualises art works by:</p>
+<p>Anna Best; Adam Chodzko; Christine and Irene Hohenb&uuml;chler; Anthony O&rsquo;Flaherty, Esther Sayers and Claudia Kappenberg; Felix Gonzalez-Torres; Orla Barry; Maurice O&rsquo;Connell</p>
+
+<p>technical collaborator: Peter Edwards<br />
+additional programming: Karen Martin</p>
+
+
+<p>Commissioned by: <a href="http://www.camdenartscentre.org/" target="_blank">Camden Arts Centre</a><br>
+Produced by: <a href="http://www.e-2.org">e-2</a></p>
+
+</td>
+</tr>
+</table>
+</td></tr>
+
+</table>
+<!-- analytics -->
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+try {
+var pageTracker = _gat._getTracker("UA-15939048-4");
+pageTracker._setDomainName(".e-2.org");
+pageTracker._trackPageview();
+} catch(err) {}</script>
+<!-- end analytics -->
+</body>
+</html>
+

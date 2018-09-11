@@ -1,0 +1,61 @@
+.body {
+font-family: arial,helvetica,sans-serif;
+font-size: 7pt;
+color: Black;
+}
+.bodywhite {
+font-family: arial,helvetica,sans-serif;
+font-size: 1pt;
+color: white;
+}
+.bodyblack {
+font-family: arial,helvetica,sans-serif;
+font-size: 9pt;
+color: black;
+}
+.bodysmall{
+font-family: arial,helvetica,sans-serif;
+font-size: 7pt;
+color: black;
+}
+A.red:link {
+font-family: arial,helvetica,sans-serif;
+font-size: 10pt;
+color: red;
+
+}
+A.red:hover {
+font-family: arial,helvetica,sans-serif;
+font-size: 10pt;
+color: green;
+
+}
+A.red:visited {
+font-family: arial,helvetica,sans-serif;
+font-size: 10pt;
+color: red;
+
+}
+
+A.chtwo:link {
+font-family: arial,helvetica,sans-serif;
+font-size: 14pt;
+color: red;
+
+
+}
+A.chtwo:hover {
+font-family: arial,helvetica,sans-serif;
+font-size: 14pt;
+color: green;
+
+
+}
+A.chtwo:visited {
+font-family: arial,helvetica,sans-serif;
+font-size: 14pt;
+color: red;
+
+
+}
+
