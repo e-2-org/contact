@@ -510,6 +510,7 @@
 	}
 
 	function closeIntro() {
+		if (intro.classList.contains('is-leaving')) return;
 		if (reduceMotion.matches) {
 			intro.close();
 			return;
@@ -521,12 +522,16 @@
 		}, 600);
 	}
 
-	document.getElementById('enter').addEventListener('click', function () {
-		enterFullscreen();
+	// a click anywhere on the intro closes it; the first time, it also goes full screen
+	var introFullscreen = true;
+	intro.addEventListener('click', function () {
+		if (introFullscreen) enterFullscreen();
+		introFullscreen = false;
 		closeIntro();
 	});
 	document.getElementById('about').addEventListener('click', function () {
 		stopScrolling();
+		introFullscreen = false;
 		intro.showModal();
 	});
 	intro.addEventListener('close', requestUpdate);

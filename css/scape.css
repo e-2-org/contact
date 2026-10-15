@@ -338,6 +338,7 @@ a.box {
 	background: transparent;
 	overflow: auto;
 	opacity: 1;
+	cursor: pointer;
 	transition: opacity .6s var(--ease);
 }
 .intro::backdrop {
