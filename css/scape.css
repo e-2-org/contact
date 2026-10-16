@@ -285,15 +285,6 @@ a.box {
 	position: relative;
 	overflow: hidden;
 }
-.win-body iframe {
-	position: absolute;
-	left: 0;
-	top: 0;
-	border: 0;
-	background: #cccccc;
-	transform-origin: 0 0;
-}
-
 .win-link {
 	padding: 16px 18px;
 	font: 15px/1.4 Arial, Helvetica, sans-serif;

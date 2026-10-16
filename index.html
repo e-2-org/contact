@@ -1,3 +1,5 @@
+---
+---
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -32,6 +34,21 @@
 		.about {
 			grid-row: 2;
 			grid-column: 2;
+			ul {
+				display: block;
+				list-style: none;
+				padding: 0;
+				margin: 1em 0;
+				li {
+					display: inline;
+					&:after {
+						content: "; ";
+					}
+					&:last-child:after {
+						content: "";
+					}
+				}
+			}
 		}
 		h1 {
 			margin: 0;
@@ -51,15 +68,23 @@
 			}
 		}
 	</style>
+{% include icons.html %}
 </head>
 <body>
-	<a class="enter" href="contact.html"><img src="contact2.gif" width="100" height="100" alt="Enter Contact"></a>
+	<a class="enter" href="contact.html"><img src="media/contact2.gif" width="100" height="100" alt="Enter Contact"></a>
 	<main class="about">
 		<h1>Contact</h1>
 		<p>by Amy Plant (November 2000)</p>
-		<p>Requires: Internet Exp. 4 / Netscape 6 or above, QuickTime plugin and Flash 4 plugin</p>
 		<p>Focusing on the public artworks and their audiences that comprised the North London Link, &lsquo;Contact&rsquo; contextualises art works by:</p>
-		<p>Anna Best; Adam Chodzko; Christine and Irene Hohenb&uuml;chler; Anthony O&rsquo;Flaherty, Esther Sayers and Claudia Kappenberg; Felix Gonzalez-Torres; Orla Barry; Maurice O&rsquo;Connell</p>
+		<ul>
+			<li>Anna Best</li>
+			<li>Adam Chodzko</li>
+			<li>Christine and Irene Hohenb&uuml;chler</li>
+			<li>Anthony O&rsquo;Flaherty, Esther Sayers and Claudia Kappenberg</li>
+			<li>Felix Gonzalez-Torres</li>
+			<li>Orla Barry</li>
+			<li>Maurice O&rsquo;Connell</li>
+		</ul>
 		<p>technical collaborator: Peter Edwards<br>
 		additional programming: Karen Martin</p>
 		<p>Commissioned by: <a href="http://www.camdenartscentre.org/">Camden Arts Centre</a><br>

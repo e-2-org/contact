@@ -1,0 +1,24 @@
+# Contact (Amy Plant, November 2000) - Jekyll site for GitHub Pages
+#
+# The scape, the names bar and the windows are built from the files in _data:
+#   themes.json   theme headings on the scape
+#   boxes.json    the 393 boxes ("voices"); "window" opens an entry from windows.json,
+#                 "link" opens the link window for an archived website
+#   names.json    the artists in the names bar
+#   windows.json  the content of every window; published as /windows.json
+# Images and videos are in media/, one folder per theme.
+#
+# All links are relative, so the site works at any base URL.
+
+title: Contact
+description: >-
+  Focusing on the public artworks and their audiences that comprised the
+  North London Link, 'Contact' contextualises art works by: Anna Best;
+  Adam Chodzko; Christine and Irene Hohenbüchler; Anthony O'Flaherty,
+  Esther Sayers and Claudia Kappenberg; Felix Gonzalez-Torres; Orla Barry;
+  Maurice O'Connell
+url: https://e-2-org.github.io
+baseurl: "/contact"
+exclude:
+  - README.md
+

@@ -1,0 +1,2322 @@
+{
+	"f01": {
+		"title": "Mecca",
+		"media": [
+			{"src": "media/fear/f01.jpg", "width": 500, "height": 329}
+		],
+		"caption": [
+			{"class": "caption", "html": "Anna Best <em>Mecca</em>"},
+			{"class": "credit", "html": "<em>Talking Mecca</em> by Karen Stripp<br>photo: Anna Best"}
+		]
+	},
+	"f04": {
+		"title": "Mecca",
+		"media": [
+			{"src": "media/fear/f04.jpg", "width": 300, "height": 196}
+		],
+		"caption": [
+			{"class": "caption", "html": "Anna Best <em>Mecca</em>"},
+			{"class": "credit", "html": "<em>Eyes Down</em> by Karen Stripp &amp; Anna Best<br>part of Anna Best's residency at Camden Arts Centre<br>photo: Anna Best"}
+		]
+	},
+	"f12": {
+		"title": "Across an Open Space",
+		"media": [
+			{"src": "media/fear/f12.jpg", "width": 495, "height": 279}
+		],
+		"caption": [
+			{"class": "caption", "html": "<em>Contact</em> response from <em>This is Your Page</em>"},
+			{"class": "credit", "html": "in <em>Refugees</em> by Orla Barry"}
+		]
+	},
+	"f13": {
+		"title": "Across an Open Space",
+		"media": [
+			{"src": "media/fear/f13.jpg", "width": 500, "height": 358}
+		],
+		"caption": [
+			{"class": "caption", "html": "Orla Barry<em>Across an Open Space</em>"},
+			{"class": "credit", "html": "vandalised sign"}
+		]
+	},
+	"f18": {
+		"media": [
+			{"src": "media/fear/f18.jpg", "width": 300, "height": 196}
+		],
+		"caption": [
+			{"class": "caption", "html": "<em>Contact </em>audience research on Lymington Road"},
+			{"class": "credit", "html": "during <em>Untitled (America)</em> 1994/5 by Felix Gonzalez-Torres<br>photo: Sophie Hope"}
+		]
+	},
+	"f24": {
+		"title": "Better Scenery",
+		"media": [
+			{"src": "media/fear/f24.jpg", "width": 300, "height": 304}
+		],
+		"caption": [
+			{"class": "caption", "html": "Adam Chodzko <em>Better Scenery</em>"},
+			{"class": "credit", "html": "photo: Andrew Whittuck"}
+		]
+	},
+	"f27a": {
+		"title": "Journeys",
+		"class": "inset",
+		"mediaClass": "media center middle",
+		"media": [
+			{"src": "media/fear/f27a.mp4", "width": 320, "height": 240, "framed": true}
+		],
+		"caption": [
+			{"class": "credit", "html": "<em>Home to Home</em> by Patsy Palmer"}
+		]
+	},
+	"f31": {
+		"title": "We all peel the onions",
+		"media": [
+			{"src": "media/fear/f31.jpg", "width": 300, "height": 430}
+		],
+		"caption": [
+			{"class": "caption", "html": "<em>Contact</em> audience research at Camden Arts Centre"},
+			{"class": "credit", "html": "during <em>We all peel the onions</em> by Christine &amp; Irene Hohenbüchler<br>with participants from the Day Hospital<br>photo: Sophie Hope"}
+		]
+	},
+	"f32": {
+		"title": "We all peel the onions",
+		"media": [
+			{"src": "media/fear/f32.jpg", "width": 300, "height": 454}
+		],
+		"caption": [
+			{"class": "caption", "html": "Christine &amp; Irene Hohenbuchler<br>with participants from the Day Hospital<br><em>We all peel the onions</em>"},
+			{"class": "credit", "html": "photo: Christine &amp; Irene Hohenbüchler"}
+		]
+	},
+	"f33": {
+		"title": "We all peel the onions",
+		"media": [
+			{"src": "media/fear/f33.jpg", "width": 500, "height": 336}
+		],
+		"caption": [
+			{"class": "caption", "html": "<em>Contact</em> audience research at Camden Arts Centre"},
+			{"class": "credit", "html": "during <em>We all peel the onions</em> by Christine &amp; Irene Hohenbüchler with participants from the Day Hospital<br>photo: Sophie Hope"}
+		]
+	},
+	"f35": {
+		"title": "We all peel the onions",
+		"media": [
+			{"src": "media/fear/f35.jpg", "width": 500, "height": 331}
+		],
+		"caption": [
+			{"class": "caption", "html": "Christine &amp; Irene Hohenbüchler with participants from Day Hospital<br><em>We all peel the onions</em>"},
+			{"class": "credit", "html": "photo: Christine &amp; Irene Hohenbüchler"}
+		]
+	},
+	"f37": {
+		"title": "On Finchley Road",
+		"media": [
+			{"src": "media/fear/f37.jpg", "width": 300, "height": 199}
+		],
+		"caption": [
+			{"class": "caption", "html": "Maurice O'Connell<br><em>On Finchley Road - For Three Days Only</em>"},
+			{"class": "credit", "html": "photo: Andrew Whittuck"}
+		]
+	},
+	"f42": {
+		"title": "On Finchley Road",
+		"media": [
+			{"src": "media/fear/f42.jpg", "width": 300, "height": 200}
+		],
+		"caption": [
+			{"class": "caption", "html": "view of Frognal Court, Finchley Road"},
+			{"class": "credit", "html": "photo: Sophie Hope"}
+		]
+	},
+	"f43": {
+		"title": "On Finchley Road",
+		"media": [
+			{"src": "media/fear/f43.jpg", "width": 300, "height": 373}
+		],
+		"caption": [
+			{"class": "caption", "html": "the O<sub>2</sub> Centre"},
+			{"class": "credit", "html": "photo: Wide Eye Photographic"}
+		]
+	},
+	"anna_bike": {
+		"title": "Journeys",
+		"class": "inset",
+		"mediaClass": "media center middle",
+		"media": [
+			{"src": "media/sacred/anna_bike.jpg", "width": 320, "height": 240, "framed": true}
+		],
+		"caption": [
+			{"html": "Anna Muir <em>My House</em> video still"}
+		]
+	},
+	"s01": {
+		"title": "Mecca",
+		"media": [
+			{"src": "media/sacred/s01.jpg", "width": 300, "height": 449}
+		],
+		"caption": [
+			{"class": "caption", "html": "Anna Best <em>Mecca</em>"},
+			{"class": "credit", "html": "photo: Anna Best"}
+		]
+	},
+	"s02": {
+		"title": "Mecca",
+		"media": [
+			{"src": "media/sacred/s02.jpg", "width": 500, "height": 325}
+		],
+		"caption": [
+			{"class": "caption", "html": "Anna Best <em>Mecca</em>"},
+			{"class": "credit", "html": "photo: Anna Best"}
+		]
+	},
+	"s03": {
+		"title": "Mecca",
+		"media": [
+			{"src": "media/sacred/s03.jpg", "width": 500, "height": 353}
+		],
+		"caption": [
+			{"class": "caption", "html": "Anna Best <em>Mecca</em>"},
+			{"class": "credit", "html": "projection image"}
+		]
+	},
+	"s04": {
+		"title": "Mecca",
+		"media": [
+			{"src": "media/sacred/s04.jpg", "width": 300, "height": 220}
+		],
+		"caption": [
+			{"class": "caption", "html": "Anna Best <em>Mecca</em>"},
+			{"class": "credit", "html": "projection image"}
+		]
+	},
+	"s05": {
+		"title": "Mecca",
+		"media": [
+			{"src": "media/sacred/s05.jpg", "width": 300, "height": 457}
+		],
+		"caption": [
+			{"class": "caption", "html": "Mecca State Bingo Hall, Kilburn"},
+			{"class": "credit", "html": "photo: Anna Best"}
+		]
+	},
+	"s06": {
+		"title": "Mecca",
+		"media": [
+			{"src": "media/sacred/s06.jpg", "width": 300, "height": 418}
+		],
+		"caption": [
+			{"class": "caption", "html": "Anna Best <em>Mecca</em>"},
+			{"class": "credit", "html": "promotional material<br>design: Marcus Bastel/Anna Best<br>original photo: David Neal"}
+		]
+	},
+	"s07": {
+		"title": "Mecca",
+		"media": [
+			{"src": "media/sacred/s07.jpg", "width": 298, "height": 329}
+		],
+		"caption": [
+			{"class": "caption", "html": "Anna Best <em>Mecca</em>"},
+			{"class": "credit", "html": "Anna Best &amp; Karen Stripp <em>Eyes Down</em><br>part of Anna Best's residency at Camden Arts Centre<br>photo: Anna Best"}
+		]
+	},
+	"s08": {
+		"title": "Mecca",
+		"media": [
+			{"src": "media/sacred/s08.jpg", "width": 500, "height": 328}
+		],
+		"caption": [
+			{"class": "caption", "html": "Anna Best <em>Mecca</em>"},
+			{"class": "credit", "html": "projection image"}
+		]
+	},
+	"s09": {
+		"title": "Mecca",
+		"media": [
+			{"src": "media/sacred/s09.jpg", "width": 300, "height": 462}
+		],
+		"caption": [
+			{"class": "credit", "html": "photo: Amy Plant"}
+		]
+	},
+	"s11": {
+		"title": "Across an Open Space",
+		"media": [
+			{"src": "media/sacred/s11.jpg", "width": 300, "height": 399}
+		],
+		"caption": [
+			{"class": "caption", "html": "Dave Brookes, The Green Man"},
+			{"class": "credit", "html": "bagpiper at the launch of <em>Across an Open Space</em> by Orla Barry"}
+		]
+	},
+	"s12": {
+		"title": "Across an Open Space",
+		"media": [
+			{"src": "media/sacred/s12.jpg", "width": 500, "height": 440}
+		],
+		"caption": [
+			{"class": "caption", "html": "<em>Contact</em> response by Jane Wisner from <em>This is Your Page</em>"},
+			{"class": "credit", "html": "in <em>Refugees</em> by Orla Barry"}
+		]
+	},
+	"s13": {
+		"title": "Across an Open Space",
+		"media": [
+			{"src": "media/sacred/s13.jpg", "width": 300, "height": 435}
+		],
+		"caption": [
+			{"class": "caption", "html": "<em>Contact</em> audience research<br>at South End Green Street Party"},
+			{"class": "credit", "html": "during <em>Across an Open Space</em> by Orla Barry"}
+		]
+	},
+	"s14": {
+		"title": "Across an Open Space",
+		"media": [
+			{"src": "media/sacred/s14.jpg", "width": 300, "height": 465}
+		],
+		"caption": [
+			{"class": "caption", "html": "Malvina Cheek <em>Wild Night</em>"},
+			{"class": "credit", "html": "from <em>Refugees</em> by Orla Barry"}
+		]
+	},
+	"s18": {
+		"title": "Across an Open Space",
+		"media": [
+			{"src": "media/sacred/s18.jpg", "width": 300, "height": 575}
+		],
+		"caption": [
+			{"class": "credit", "html": "'It has been said that the Green Man came back from the dead. He is beyond the reach of powers that be and is therefore connected with the idea of freedom and common land. He used to practice his pipes in the open air until the air couldn't deal with him anymore. Now his tunes delight nieghbours, who have been known to break the windows at his house to hear the music better.'<br>from <em>Refugees</em> by Orla Barry"}
+		]
+	},
+	"s19": {
+		"title": "Across an Open Space",
+		"media": [
+			{"src": "media/sacred/s19.jpg", "width": 300, "height": 456}
+		],
+		"caption": [
+			{"class": "caption", "html": "Hampstead Bathing Ponds"}
+		]
+	},
+	"s20": {
+		"title": "Across an Open Space",
+		"media": [
+			{"src": "media/sacred/s20.jpg", "width": 500, "height": 314}
+		],
+		"caption": [
+			{"class": "caption", "html": "Orla Barry <em>Across an Open Space</em>"},
+			{"class": "credit", "html": "vandalised sign"}
+		]
+	},
+	"s21": {
+		"title": "Across an Open Space",
+		"mediaClass": "media",
+		"media": [
+			{"src": "media/sacred/s21.jpg", "width": 250, "height": 435},
+			{"src": "media/sacred/s21b.jpg", "width": 250, "height": 435}
+		],
+		"caption": [
+			{"class": "credit", "html": "'Heath Hands is a new volunteer organisation created to help the Corporation of London make Hampstead Heath even greener and to give everyone who enjoys the Heath an opportunity to make a difference.'"}
+		]
+	},
+	"s23": {
+		"title": "Across an Open Space",
+		"media": [
+			{"src": "media/sacred/s23.jpg", "width": 300, "height": 461}
+		],
+		"caption": [
+			{"class": "caption", "html": "Orla Barry"},
+			{"class": "credit", "html": "<em>Refugees</em> magazine cover"}
+		]
+	},
+	"s24": {
+		"title": "Across an Open Space",
+		"media": [
+			{"src": "media/sacred/s24.jpg", "width": 300, "height": 448}
+		],
+		"caption": [
+			{"class": "caption", "html": "Orla Barry <em>Across an Open Space</em>"},
+			{"class": "credit", "html": "from <em>Refugees</em>"}
+		]
+	},
+	"s25": {
+		"title": "Across an Open Space",
+		"media": [
+			{"src": "media/sacred/s25.jpg", "width": 300, "height": 163}
+		],
+		"caption": [
+			{"class": "caption", "html": "Bathing Ponds"},
+			{"class": "credit", "html": "'Please note that the Hampstead, Highgate and Kenwood Ponds are intended for competent swimmers only. The attendant may require any person who is not, in his or her opinion, a competent swimmer, to leave the enclosure. There is no admission to the three bathing ponds. Telephone 020 7485 3873'"}
+		]
+	},
+	"s26": {
+		"title": "Better Scenery",
+		"media": [
+			{"src": "media/sacred/s26.jpg", "width": 300, "height": 433}
+		],
+		"caption": [
+			{"class": "caption", "html": "<em>Contact</em> audience research at the O2 Centre, Finchley Road"},
+			{"class": "credit", "html": "during <em>Better Scenery</em> by Adam Chodzko<br>photo: Andrew Whittuck"}
+		]
+	},
+	"s27": {
+		"title": "Better Scenery",
+		"media": [
+			{"src": "media/sacred/s27.jpg", "width": 500, "height": 491}
+		],
+		"caption": [
+			{"class": "caption", "html": "Adam Chodzko <em>Better Scenery</em>"},
+			{"class": "credit", "html": "photo: Andrew Whittuck"}
+		]
+	},
+	"s28": {
+		"title": "Better Scenery",
+		"media": [
+			{"src": "media/sacred/s28.jpg", "width": 300, "height": 424}
+		]
+	},
+	"s30": {
+		"title": "Better Scenery",
+		"media": [
+			{"src": "media/sacred/s30.jpg", "width": 300, "height": 302}
+		],
+		"caption": [
+			{"class": "caption", "html": "Adam Chodzko <em>Better Scenery</em>"},
+			{"class": "credit", "html": "photo: Andrew Whittuck"}
+		]
+	},
+	"s32": {
+		"title": "Better Scenery",
+		"media": [
+			{"src": "media/sacred/s32.jpg", "width": 300, "height": 373}
+		],
+		"caption": [
+			{"class": "caption", "html": "The O<sub>2</sub> Centre, Finchley Road"},
+			{"class": "credit", "html": "photo: Wide Eye Photographic"}
+		]
+	},
+	"s34": {
+		"title": "Journeys",
+		"class": "inset",
+		"mediaClass": "media center middle",
+		"media": [
+			{"src": "media/sacred/s34.mov", "width": 320, "height": 240, "framed": true}
+		],
+		"caption": [
+			{"class": "credit", "html": "by Vikas"}
+		]
+	},
+	"s36": {
+		"title": "Journeys",
+		"class": "inset",
+		"mediaClass": "media center middle",
+		"media": [
+			{"src": "media/sacred/s36.mp4", "width": 320, "height": 240, "framed": true}
+		],
+		"caption": [
+			{"class": "credit", "html": "<em>Trip to the Library with Abigail</em> by John Palmer"}
+		]
+	},
+	"s37": {
+		"title": "We all peel the onions",
+		"media": [
+			{"src": "media/sacred/s37.jpg", "width": 500, "height": 330}
+		],
+		"caption": [
+			{"class": "caption", "html": "<em>Contact</em> audience research at Camden Arts Centre"},
+			{"class": "credit", "html": "during <em>We all peel the onions</em> by Christine &amp; Irene Hohenbüchler<br>with partcipants from the Day Hospital<br>photo: Sophie Hope"}
+		]
+	},
+	"s39": {
+		"title": "We all peel the onions",
+		"media": [
+			{"src": "media/sacred/s39.jpg", "width": 300, "height": 209}
+		],
+		"caption": [
+			{"class": "caption", "html": "Christine &amp; Irene Hohenbüchler<br>with partcipants from the Day Hospital<br><em>We all peel the onions</em>"},
+			{"class": "credit", "html": "the garden at the Day Hospital<br>photo: participant from the Day Hospital<br>(taken for <em>Victorya</em> by Grant Watson)"}
+		]
+	},
+	"s40": {
+		"title": "We all peel the onions",
+		"class": "narrow f4",
+		"text": [
+			"<p><strong>Conversation between <em>We all peel the onions</em> participants, Paul Danvers (art therapist) and Amy Plant in the art room at the Day Hospital.</strong></p>",
+			"<p><strong>Extract 2</strong></p>",
+			"<p><strong>M:</strong> ...in actual fact, to me it was a loss that the art therapy wasn't continuing as usual, certainly at the beginning, apparently it went on and I didn't know about it until later on. So we have a sort of support system where we meet and we support each other and that was missing.</p>",
+			"<p><strong>K:</strong> That's probably the main thing, that the support was missing. People are ill so...I think, I think...how long were they here for, four weeks?</p>",
+			"<p><strong>Paul:</strong> It was a bit more than that.</p>",
+			"<p><strong>Amy:</strong> About five I think.</p>",
+			"<p><strong>K:</strong> I think if it's a new thing, maybe it should have been a bit shorter. Because it was like, a whole new thing.</p>",
+			"<p><strong>B:</strong> Like one day a week or something? Because they were here everyday. I mean we weren't here everyday.</p>",
+			"<p><strong>M:</strong> And incredibly, even in this talk afterwards they moaned about how the patients weren't consistently involved in the project. This place has got lots of other things going on and people have to be in other groups.</p>",
+			"<p><strong>Margaret:</strong> Plus they're out-patients...</p>",
+			"<p><strong>K:</strong> People come and go anyway, that's the trend here.</p>",
+			"<p><strong>M:</strong> Well, that too, that too. But the fact is that over a week, there are masses and masses of other groups that people go to normally. So it isn't a matter of people being difficult because they're not, you know, knuckling under all the time. I felt we weren't given a voice. I think we were treated overall, quite disrespectfully. That's me, feeling really disappointed and somewhat trodden upon.<br><strong>K:</strong> You're much calmer about it now.</p>",
+			"<p><strong>M:</strong> Well, it was a long time ago now. But at the time I was nearly in tears.</p>",
+			"<p><strong>Amy:</strong> You say you were disappointed. What were your expectations of the project? <strong>M:</strong> Well, collaboration to me meant input from us as well as from them and some sort of meeting in the middle and some sort of negotiation and a sort of joint process of working towards something.<br><strong>Amy:</strong> A common goal.<br><strong>M:</strong> Yes, and it was very unclear from the beginning what sorts of things were expected. We got a series of assignments, doing masks or doing clothes which didn't necessarily fit everybody who was there. Some people didn't want to be doing the project at all, some people didn't want to be doing masks, some people didn't want to be doing things that would bring them down to nursery school level. And in any case, there wasn't...I mean, I wasn't here for whatever consultation there was. But there doesn't appear to have been very much consultation with the patients about what would be a good sort of shape for this to take, such as how much time a week, who wanted to be there, you know all that kind of thing doesn't appear to have been chewed over.</p>",
+			"<p><strong>K:</strong> If they do another project here in the future, I'd like it to be with work that we just do day-to-day.</p>",
+			"<p><strong>Margaret:</strong> No, because part of me was very excited about the possibility of working with artists because I've done work with groups before. Well, it's all been highly organised when we've had a big group. You know, we were all going to do a massive picture all together and we've been assigned this and it's been on a feeling level too, so I hoped that they would be well organised and respectful and sensitive of our opinions, that it would be all talked through in a group.</p>",
+			"<p><strong>M:</strong> Yes, there needed to be some sort of communication going backwards and forwards.</p>",
+			"<p><strong>K:</strong> During the project, at the time, there were a lot of people who weren't happy while it was going on.</p>",
+			"<p><strong>M:</strong> Well some people voted with their feet.</p>",
+			"<p><strong>K:</strong> What do you mean?</p>",
+			"<p><strong>M:</strong> Well, some people weren't there because they didn't want to be doing masks or whatever and they didn't stay in the art room.</p>",
+			"<p><strong>Margaret:</strong> Well they did. People like J and A both stayed.</p>",
+			"<p><strong>Paul:</strong> Some people stayed but carried on with their own work.</p>",
+			"<p><strong>M:</strong> Yes, that's true.</p>",
+			"<p><strong>Margaret:</strong> I tried doing that, and I felt torn because I was aware of being exploited by the Hohenbüchler sisters. At the same time it felt exciting being part of a group project, especially one that was going to be exhibited at the Camden Arts Centre. So I sort of sat there and joined in half heartedly and I actually made a mask and they took it away and I let them.</p>"
+		]
+	},
+	"s42": {
+		"title": "We all peel the onions",
+		"class": "narrow f4",
+		"text": [
+			"<p><strong>Conversation between <em>We all peel the onions</em> participants, Paul Danvers (art therapist) and Amy Plant in the art room at the Day Hospital.</strong></p>",
+			"<p><strong>Extract 5</strong></p>",
+			"<p><strong>M:</strong> It shows that people didn't know what they were looking at anyway because people thought it was part of an art therapy class, but it's very far from what we do in art therapy, it's a million miles away from what we do in art therapy. No wonder they were surprised because what we do in art therapy is much more likely to show the pain and the torment.</p>",
+			"<p><strong>Amy:</strong> I think it should have been made clearer that it was in the context of an art therapy group...</p>",
+			"<p><strong>Margaret:</strong> No it wasn't.</p>",
+			"<p><strong>M:</strong> You see, even now, even now.</p>",
+			"<p><strong>Margaret:</strong> For the first two weeks art therapy went by the board.</p>",
+			"<p><strong>Paul:</strong> It was quite outside of the art therapy. That was quite clear. In fact what the Hohenbüchlers said, they made it quite clear that what they were doing definitely wasn't art therapy, but they also said that, 'What we do goes beyond therapy'.</p>",
+			"<p><strong>M:</strong> That's a bit cheeky isn't it?</p>",
+			"<p><strong>Paul:</strong> I thought that it sounded exciting, beyond therapy. And it was for a public space, so this is a complete antithesis to what we normally do. There was a big difference in direction.</p>",
+			"<p><strong>M:</strong> I agree, in therapy people are close together and there's a trust, a bond of trust, there's terrific sensitivity so people are aware of each other's feelings.</p>",
+			"<p><strong>Amy:</strong> So when you were making the work what did you feel at the time that you were getting out of it?</p>",
+			"<p><strong>Margaret:</strong> I felt resentful and irritated nearly all the time and torn between not joining in like A and J, being on the outside and not wanting to be on the outside. I wanted to join in what seemed to be...people seemed to be enjoying themselves...</p>",
+			"<p><strong>M:</strong> Oh, I was enthusiastic, quite enthusiastic about using some of the materials some of the time. It was fun to be able to use sequins, not so much the beads. But I didn't want that to be the only thing I did.</p>",
+			"<p><strong>Margaret:</strong> Well, I felt torn between the whole thing and then I had a breakdown towards the end, I got really bad actually. They were quite kind to me then. Most of the time I felt torn between joining in and staying out.</p>",
+			"<p><strong>Amy:</strong> If they had introduced something which was even more removed from what normally happens in this room, for instance if it had been a video project which would have happened one day a week or something like that, do you feel that would have been more appropriate? If it was something really far away, really different, do think that would have made a difference?</p>",
+			"<p><strong>Margaret:</strong> I think if it had been one day a week...I actually thought it was going to be something totally different, I was looking forward to trying something new.</p>",
+			"<p><strong>C:</strong> I was here and I thought it was excellent. I liked all the materials, something different, and I suppose from my point of view that I wasn't pressurised into doing anything. I did enjoy everything.</p>",
+			"<p><strong>Amy:</strong> So were you involved in the project at all?</p>",
+			"<p><strong>N:</strong> No I wasn't. Not in one single way. I didn't stick a single sequin on a single piece of paper.</p>",
+			"<p><strong>Paul:</strong> But you were here.</p>",
+			"<p><strong>N:</strong> I wasn't here, I was in Thailand for three months, how could I have been here?</p>",
+			"<p><strong>C:</strong> How did you know they had sequins then?</p>",
+			"<p><strong>N:</strong> Well, you can't really avoid the sequins. No, I saw it sort of start off and then I went away for three months and I came back and it was all over.</p>",
+			"<p><strong>C:</strong> Did you go away because of the project?</p>",
+			"<p><strong>N:</strong> I'd like to say yes, but I just went away for my own sanity. But I wasn't... I didn't move any tables, dismantle any walls....</p>",
+			"<p><strong>Paul:</strong> But you did comment.</p>",
+			"<p><strong>N:</strong> Yes, but that's because I'm a manic depressive, and I can't shut up sometimes. I was here when they arrived and I was very unresponsive not due to anything...I was going away, I'd booked my air ticket.</p>",
+			"<p><strong>Amy:</strong> So it wasn't worth you getting involved in something new.</p>",
+			"<p><strong>N:</strong> Worth, I don't know. No, I probably wouldn't have got involved at that stage. I probably wouldn't have come to art as much as I'd like to. But who knows? That's in another universe, a parallel dimension.</p>",
+			"<p><strong>M:</strong> Oh this bit rings a bell.</p>",
+			"<p><strong>Amy:</strong> What's that?</p>",
+			"<p><strong>M:</strong> 'There's probably a lot of ignorance on the artist's part of what mental illness actually is.' And the next one, 'That's often the problem with community arts, you go in and you work with groups and it's hard to be really sensitive to each client group's needs. You go and you don't know enough about that group of people.' That puts it in a nutshell.</p>"
+		]
+	},
+	"s43": {
+		"title": "We all peel the onions",
+		"media": [
+			{"src": "media/sacred/s43.jpg", "width": 500, "height": 334}
+		],
+		"caption": [
+			{"class": "caption", "html": "Christine &amp; Irene Hohenbüchler with partcipants from the Day Hospital<br><em>We all peel the onions</em>"},
+			{"class": "credit", "html": "work in progress<br>photo: participant from the Day Hospital<br>(taken for <em>Victorya</em> by Grant Watson)"}
+		]
+	},
+	"s44": {
+		"title": "We all peel the onions",
+		"media": [
+			{"src": "media/sacred/s44.jpg", "width": 500, "height": 330}
+		],
+		"caption": [
+			{"class": "caption", "html": "Christine &amp; Irene Hohenbüchler with participants from the Day Hospital <br><em>We all peel the onions</em>"},
+			{"class": "credit", "html": "photo: Christine &amp; Irene Hohenbüchler"}
+		]
+	},
+	"s45": {
+		"title": "We all peel the onions",
+		"media": [
+			{"src": "media/sacred/s45.jpg", "width": 500, "height": 380}
+		],
+		"caption": [
+			{"class": "caption", "html": "Christine &amp; Irene Hohenbüchler with partcipants from the Day Hospital<em> <br>We all peel the onions</em>"},
+			{"class": "credit", "html": "photo: participant from the Day Hospital (taken for <em>Victorya</em> by Grant Watson)"}
+		]
+	},
+	"s46": {
+		"title": "On Finchley Road",
+		"media": [
+			{"src": "media/sacred/s46.jpg", "width": 300, "height": 218}
+		],
+		"caption": [
+			{"class": "caption", "html": "Maurice O'Connell<br><em>On Finchley Road - For Three Days Only</em>"},
+			{"class": "credit", "html": "photo: Andrew Whittuck"}
+		]
+	},
+	"s52": {
+		"title": "On Finchley Road",
+		"media": [
+			{"src": "media/sacred/s52.jpg", "width": 300, "height": 218}
+		],
+		"caption": [
+			{"class": "caption", "html": "Maurice O'Connell<br><em>On Finchley Road - For Three Days Only</em>"},
+			{"class": "credit", "html": "photo: Andrew Whittuck"}
+		]
+	},
+	"s53": {
+		"title": "On Finchley Road",
+		"media": [
+			{"src": "media/sacred/s53a.jpg", "width": 500, "height": 177}
+		],
+		"caption": [
+			{"class": "caption", "html": "Maurice O'Connell <em>On Finchley Road - For Three Days Only</em>"},
+			{"class": "credit", "html": "leaflet detail"}
+		]
+	},
+	"p01": {
+		"title": "Mecca",
+		"media": [
+			{"src": "media/people/p01.jpg", "width": 300, "height": 459}
+		],
+		"caption": [
+			{"class": "caption", "html": "Anna Best <em>Mecca</em>"},
+			{"class": "credit", "html": "projection image"}
+		]
+	},
+	"p02": {
+		"title": "Mecca",
+		"class": "narrow f4",
+		"text": [
+			"<h1><em>Mecca</em> Anna Best</h1>",
+			"<p>The State Mecca Bingo Hall, Kilburn, London, NW6<br>1-30 June 1999</p>",
+			"<p>Between October 1998 and June 1999, Anna Best worked at the State Mecca Bingo Hall in Kilburn, once one of Europe's largest cinemas and a concert venue, researching connections between gambling and religion based on a series of conversations with artists, academics, dedicated 'believers', bingo players and staff at Mecca, about connections between gambling and religion, addictions and superstition, luck, hopes, dreams and miracles. The resulting images, film clips, lucky charms and numbers were projected like apparitions around the building, one image for each day, throughout the month of June. A special bingo game took place, called by artist Karen Stripp, featuring a duet between the Random Number Generator and the Wurlitzer organ, with music assembled and played by composer Paul Whitty.</p>",
+			"<p>A website, www.eyes-down.com edited by Anna Best and Karen Stripp, is the third part of <em>Mecca</em>. It archives and highlights the various elements of the project which took place at Camden Arts Centre and the State Mecca Bingo Hall and can be found online at <em>www.eyes-down.com</em>.</p>",
+			"<p>Anna Best is based in London, and has made and exhibited work extensively in Britain and abroad, including projects, exhibitions and collaborations at Grizedale, Ambleside, Cumbria, 2000; Artsway, New Forest, 2000; The Liverpool Biennial, 1999, and <em>The Wedding Project</em> with Tate Modern, 1998.</p>",
+			"<p>Supported by members of staff at The State Mecca Bingo Hall, Kilburn, insight lighting, Loot Newspaper, the Rank Group and the Ronald Grant Archive.</p>"
+		]
+	},
+	"p03": {
+		"title": "Across an Open Space",
+		"media": [
+			{"src": "media/people/p03.jpg", "width": 300, "height": 179}
+		],
+		"caption": [
+			{"class": "caption", "html": "Orla Barry <em>Across an Open Space</em>"},
+			{"class": "credit", "html": "from <em>Refugees</em> by Orla Barry"}
+		]
+	},
+	"p05": {
+		"title": "Across an Open Space",
+		"media": [
+			{"src": "media/people/p05.jpg", "width": 500, "height": 316}
+		],
+		"caption": [
+			{"class": "credit", "html": "Camden New Journal 2 March 2000"}
+		]
+	},
+	"p07": {
+		"title": "Across an Open Space",
+		"media": [
+			{"src": "media/people/p07.jpg", "width": 491, "height": 329}
+		],
+		"caption": [
+			{"class": "caption", "html": "photo: Ruth Corney"},
+			{"class": "credit", "html": "'Ruth Corney has been photographing the ponds and the people who use them for the last two years.<br>She has remarkably penetrated a private space without being voyeristic or intrusive.'<br>from <em>Refugees</em> by Orla Barry"}
+		]
+	},
+	"p11": {
+		"title": "Contact",
+		"class": "narrow f4",
+		"text": [
+			"<h1>Conversation between Grant Watson and Amy Plant</h1>",
+			"<p>Grant: We were talking last time about this idea of me interviewing you and how it was important to have your views amoungst all those voices.</p>",
+			"<p>Amy: Yes, that's an issue that's run all through, whilst I've been doing this project really...how much of me do I put in...and I think it was Anna Best actually, who said to me 'what you're doing, getting other people's responses, is you.' Which was quite interesting.</p>",
+			"<p>Grant: It's your material.</p>",
+			"<p>Amy: It's my material, but I think she also meant that she saw that as a way of working...</p>",
+			"<p>Grant: A working practice.</p>",
+			"<p>Amy: Yes, in a similar way to other projects I've done which have been about going out and making a platform for other people's expression. So creating that space is a practice.</p>",
+			"<p>Grant: I guess there's a kind of broader thing about it being your practice, but then a slightly narrower issue is in terms of your opinions and whether your voice in particular comes across and your opinion of the project actually is stated somewhere.</p>",
+			"<p>Amy: Yes, I think that is important, because otherwise, it's kind of unfair, to leave my side of it out. But I think as well, my opinions have been very informed by the conversations I've had with people. I suppose when you do that research that's what you're doing, you're trying to see what affect it's had, or how it's worked for other people. So I think now there's no way that my opinions can't be informed by that. And so, I think if I hadn't done that my opinions might be quite different, in terms of the specific projects. So what are my opinions?</p>",
+			"<p>Grant: Well, I was thinking whether you were looking at it as a whole programme and if you have a general opinion, and also the specific projects, some that you maybe feel positive about and others that you feel less positive about.</p>",
+			"<p>Amy: Well, I think because I've been trying to draw the threads of the different projects together to see what does link them...different things...I suppose one of the concerns has been about different roles and I feel after talking to someone else it was interesting because sometimes that person was coming from a viewpoint of art as outreaching, or art in public working as an outreaching strategy for the gallery, and if it would help to encourage more people to come into the gallery and see the exhibitions there, and I suppose I haven't been looking at in that way at all.</p>",
+			"<p>Grant: It's a very practical way of looking at it...</p>",
+			"<p>Amy: Yes, how does it function for the gallery and also for the funders, all those agendas that come into play? But for me I was interested in it from an angle of 'what can it tell us about this area, what can it tell us about the people who live here and what's going on here?' And in a way I thought that would be a much more useful approach for the Centre in terms of...</p>",
+			"<p>Grant: A research tool.</p>",
+			"<p>Amy: Yes, exactly. In terms of a resource, maybe for artists in the future who are working with Camden, but outside, if they are going to continue with public art projects. And then for me it was about looking at what sort of roles can artists play when they go outside. Because for the artist, that idea of attracting a new audience for a gallery space, that's not their agenda, do you know what I mean?</p>",
+			"<p>Grant: But it's very important for the gallery to be making noticeable efforts in that direction, isn't it?</p>",
+			"<p>Amy: Yes it is, it's important for the gallery, it's important for their funders and so on. But in a way they took risks because, like you said before, that's one of the quotes I've put in, 'it's not actually about making people happy in the public'. It has made a presence but things haven't always worked, it hasn't always been a smooth process.</p>",
+			"<p>Grant: There has to be the space for failure within that.</p>",
+			"<p>Amy: Exactly.</p>",
+			"<p>Grant: Because I think sometimes there's probably a culture of everything has to be successful and when you do your evaluation at the end, you want lots of smiling faces who think it's great, but that's not the reality of working with the public, if people come along and say they didn't enjoy it, that's a kind of valid response, it doesn't invalidate that project.</p>",
+			"<p>Amy: Not at all.</p>",
+			"<p>Grant: Like the problems with the Hohenbüchler project, it still maintains credibility on a lot of levels despite that.</p>",
+			"<p>Amy: Absolutely. I think the main thing is to learn from these things, and to learn from the audiences really, because they are your clients in a way and you're going out there to offer something to them and I think it does get confused with what's going on in the art world as well and keeping a presence with that for the Centre. The Centre obviously feels that with the projects they do outside, you know, they've worked with fairly big name artists, who have international profiles...</p>",
+			"<p>Grant: Because for example, some of the Hohenbüchler group would be really happy with...well some of them said they were really happy working in their pottery groups outside of the Day Hospital and that what was they wanted in terms of an art process, but then that wouldn't have any relevance for the Centre.</p>",
+			"<p>Amy: No, not in terms of its art world position, not at all. So I've think you've got to be careful about what's appropriate with a different group and how important is that art world status when you're dealing with... I mean that's something I'm questioning I think, but you know, one of the participants I spoke to... I said, 'do you feel, because of the way that things went, do you feel that these two worlds shouldn't meet?' And she said 'no, I think that they should, just as long as it's done sympathetically.' So in a way, it doesn't have to be a problem, it just has to be done very carefully. You can't suddenly transpose things onto an audience like that or into a space, any of the spaces that have been investigated, just taking the formulas that are used in the close confines of the art world and how that functions. It's difficult, you almost have to forget certain formulas and ways of doing things.</p>",
+			"<p>Grant: Value systems.</p>",
+			"<p>Amy: Yes, but on the other hand, with 'Journeys' I think that worked really well at combining a group of people who aren't professional artists with artists and coming up with something that was quite sleek as well.</p>",
+			"<p>Grant: And very interesting to go and see and really nicely displayed in the library.</p>",
+			"<p>Amy: Yes it was. And there hasn't been any controversy over that one so in that sense it hasn't been so much to sink one's teeth into, do you know what I mean, it's just been very smooth....</p>",
+			"<p>Grant: I think one of the other things is timing, there were so many artists doing so many things in such a short space of time and perhaps those communities need more careful long-term...rather that these experimental, short term, quick things.</p>",
+			"<p>Amy: Definately. I totally agree. I think they would have been better off having say four projects, I think seven was too many.</p>",
+			"<p>Grant: Even though the Adam Chodzko one was fairly simple to do.</p>",
+			"<p>Amy: Yes I suppose so and that one didn't involve any participation.</p>",
+			"<p>Grant: It was just in public space.</p>",
+			"<p>Amy: That's right...I think that one worked in the sense that it dealt with the surroundings so people could relate to it because it was about where they are or where they could be...</p>",
+			"<p>Grant: In a way maybe it was less challenging in terms of the feedback, I don't know, you're the one who knows, it would be less rich in a way, not like the Hampstead Heath project.</p>",
+			"<p>Amy: Yes you get a sense of how that space is used and how people feel about that. It's very clear. Whereas a car park is a totally different situation anyway. They don't claim it, they don't say 'this is my space'. It's quite a safe place really a car park, and people appreciated something...</p>",
+			"<p>Grant: ...brightening up a fairly boring car park.</p>",
+			"<p>Amy: Absolutely.</p>",
+			"<p>Grant: And another highly controversial space is the therapy room really.</p>",
+			"<p>Amy: Yes I think that the ponds and the therapy room are more private spaces that public spaces, perhaps.</p>",
+			"<p>Grant: Because the ponds are about privacy...it's about getting away from the city isn't it?</p>",
+			"<p>Amy: Yes, and also a common ground, the therapy room is a place where people share private thoughts.</p>",
+			"<p>Grant: And another thing about it is that it is a confidential space and the project was going completely against that and making it public.</p>",
+			"<p>Amy: Yes that's right.</p>",
+			"<p>Grant: Which is O.K. because they knew that at the beginning.</p>",
+			"<p>Amy: Yes, but I think that those people wanted to use it as an opportunity to have a platform and to educate people about mental illness in general. But I don't think it was really the Hohenbuchler's agenda to explore that because for them it was more about the joy of making.</p>",
+			"<p>Grant: They weren't particularly talkative about their agenda but what they did say was that they would like to make these private spaces public and in a way I think the participants had a slightly more political agenda which was to talk about their concerns, about their issues and maybe those things didn't match up.</p>",
+			"<p>Amy: Perhaps that had a lot to with time as well. Because maybe if they had had more time in the beginning and had got to know them... maybe there should have been more development in the beginning and they could voice those things straight away.</p>",
+			"<p>Grant: One of the problems was that the participants, the group actually changed quite a lot and the make-up of the group changed and the original discussions were held with other people who had already left by the time the sisters had arrived. Then other people arrived who hadn't been in the discussions, so that was a problem, timing... the different time scales that people work on. The Hohenbuchlers are working on a project for a certain amount of time and then they go, the participants can maybe be there for two years or something.</p>",
+			"<p>Amy: That's quite difficult to deal with unless you work with people on a one-to-one basis and I'm imagining that a lot of that was taking place within that space anyway.</p>",
+			"<p>Grant: There was. I think the participants would have liked it if the Hohenbüchlers had said right at the beginning of the first session, 'what would you like to do with this opportunity?' And what happened was, they presented them with this idea of making masks and body parts and I think that the participants didn't really understand what that was all about, what was being communicated with this idea of masks and also I think they felt that perhaps it clashed with their voices being clear and direct, and yet they were being asked to make these things which created a complication of what they were trying to say. I think that was a bit problematic.</p>",
+			"<p>Amy: Definitely, yeah. I mean one of them said that it would have been brilliant to have the material that you generated through the magazine, more visible in the exhibition and if there had been... I think as well there was that problem of them not being able to be involved in the installation of it. One of them was upset because some of her work wasn't included and she had made that work specifically about an issue that she had, and she felt that it hadn't been included because it wasn't 'carnival' enough. That it didn't fit in to that mood and aesthetic. Because some of the visitors to the exhibition were quite shocked... about the idea that the work had been made within a therapy context and I think there was a bit of confusion because some of them thought that it was therapy, and the patients and Paul Danvers, the art therapist, were quite adamant that it wasn't therapy, 'this isn't what we normally do'.</p>",
+			"<p>Grant: That was all very, very unclear. One of the interesting things is though, I think that artists are often happy to make ambiguous objects and place them in spaces to be read by the public and I think that's something that the participants weren't so comfortable with, the way their work was delivered was in a very ambiguous way and not being artists they probably weren't very comfortable with that so...perhaps they wanted something more direct and a bit more easy to read.</p>",
+			"<p>Amy: When I was talking to the art therapist at the day hospital and I was talking about the specific elements of the installation, and saying 'well I can see conceptually how maybe that worked', like the hut in the exhibition for instance, what that stood for. And he said, 'well I don't think that the participants really...they didn't really get into that side of it', and in a way, they shouldn't be expected to. Throughout the whole project the idea has come up about education or art education and how... making things for people who don't have an art education background, because it's something that we in the art world tend to forget, we've all got some knowledge of a context to put it in.</p>",
+			"<p>Grant: Some of those people had been art trained in that group.</p>",
+			"<p>Amy: They had? Right.</p>",
+			"<p>Grant: But you're right, the context wasn't so familiar to them.</p>",
+			"<p>Amy: But also within the whole project, across the board. Interpretation. How much interpretation do you give people, for instance. So with the Felix Gonzalez-Torres piece on Lymington Road, there was no signage, no leafleting and people didn't know it was an artwork unless somebody told them, but that generated a whole discussion down that street and there were rumours going round...'when is the street party going to happen?' and in a way for me that's really part of the work, for me that's sort of...</p>",
+			"<p>Grant: Going back to that ambiguity.</p>",
+			"<p>Amy: The ambiguity and what affect it has on people, what it does make you think of, and the fact it made them think of the possibility of a street party, and then talking to people and finding out what it's like to live down that street a little bit, what kind of community atmosphere is there and finding out things like, 'well actually we tried to have a community barbecue here once but some of the residents stopped it.' And the fact that there is animosity between the two sides of the street. That project worked as a kind of catalyst in a way and it didn't involve any participation from the beginning apart from, I don't know, a meeting with the Tenants Association, or what ever to say 'is it O.K. if we string these light bulbs up?' I think in the beginning I thought that project was the least interesting for me because it didn't...</p>",
+			"<p>Grant: It was an existing piece of work...</p>",
+			"<p>Amy: Exactly and it was plonked, you know, it didn't involve any consultation, any development with anyone or anything and it actually worked amazingly well...</p>",
+			"<p>Grant:...because of it's simplicity somehow.</p>",
+			"<p>Amy: Very simple.</p>",
+			"<p>Grant: It's even much simpler than the Chodzko piece, it's the most simple piece in a way.</p>",
+			"<p>Amy: Yes, you can't go wrong, and the artist isn't even alive so you can't.... and that was a real learning thing for me in a way. I'm not saying that I think this whole process of consultation and participation is a bad idea, but I think if you do go down that road, you've got to be really careful. Because you make promises and sometimes you can't fulfil them and people's expectations get more and more and more. The more you give, the more people want.</p>",
+			"<p>Grant: And with the Hohenbüchler project, not only were you going directly into their therapy space, but you were also involving them in an exhibition which was going to happen in an art gallery. So their expectations must have been sky high in a way.</p>",
+			"<p>Amy: Yes, that's right. And I don't think it's a bad thing to do, I think it's a great thing...</p>",
+			"<p>Grant: It's a kind of audacious thing to do in a way.</p>",
+			"<p>Amy: Isn't it? But I think you've got to be really careful, you've got to be really sensitive and really listen....</p>",
+			"<p>Grant: And maybe give it slightly more time.</p>",
+			"<p>Amy: Definitely. Peter Cross (curator) was talking before about a lot of practical things to do with that project, not enough time to work out that involvement in the installation and it being Christmas in between, all those things were factors.</p>",
+			"<p>Grant: Exactly, I mean that project would have been ideal if they would have had three weeks in the therapy room and then three weeks in the gallery, making the show together, I mean that would have been a perfect solution.</p>",
+			"<p>Amy: I think the way that 'Journeys' worked, the participants spent a lot of time in workshops at the Centre. That was a kind of reversal. The workshops took place within the Centre and the exhibition took place in a public space. That seemed to work very well.</p>",
+			"<p>Grant: I must say when the participants came to the Centre the seemed like they weren't really at home there.</p>",
+			"<p>Amy: Yes, I got that impression from them.</p>",
+			"<p>Grant: They came for a few visits and then they came to the opening, you know, they weren't there actually as part of what was going on, they were definately there as visitors.</p>",
+			"<p>Amy: That definately had an affect on their perception of Camden Arts Centre as well.</p>",
+			"<p>Grant: It would have been really nice if they could have been in and out of that place, using it comfortably and then feeling really at home with the installation and then that would have been a really successful completion of what that project set out to do.</p>",
+			"<p>Amy: Definitaly. So the Centre has learnt alot from that one.</p>",
+			"<p>Grant: But it's an enormously kind of brave project to put on in a way, for everybody.</p>",
+			"<p>Amy: Oh definately! Yes, it was. So again, it's great to take these risks, and if everything goes smoothly and successfully, it's a bit boring really isn't it! It can bring out a lot of other issues as well. And I think that's an interesting thing about the projects...what other issues have come out of them that are aside from the art issues, the kind of curatorial issues that we're all interested in. And I think I told you before about putting newspaper articles in the web site.</p>",
+			"<p>Grant: Yes I think it's really nice to have that, to extend the range, yes.</p>",
+			"<p>Amy: And I've decided against newspapers now, hopefully, it's going to be a few links to web site pages from the BBC News Online, if that works, because I think the BBC is a bit more neutral that newspapers...</p>",
+			"<p>Grant: Perhaps!</p>",
+			"<p>Amy: In a way! Television in general is a bit more neutral... well, this is another interesting thing, I couldn't just put articles from the Guardian in, that would be my newspaper and it's not for everybody, so... I suppose what I'm trying to do is to look at what the projects have sparked off in people's minds and then you do find out a little bit about what is going on, what people's real concerns are and I think in a way, for me, that's a starting point if you're doing participatory projects, you've got to work with things that those people are already concerned with, or already...</p>",
+			"<p>Grant: Which is maybe the problem with the Hampstead Heath project, people weren't necessarily interested in her imaginative life.</p>",
+			"<p>Amy: I know. Although a lot of people really related to the magazine. They wrote and they said 'you've really summed up how I feel about the Heath.' Which is great. And she did try to get participation, she put an ad in the local paper inviting...</p>",
+			"<p>Grant: She was just working with a very feisty group.</p>",
+			"<p>Amy: Yes, and the consultation problem with the pond users, that could have been avoided. There are probably loads of things going on, on the Heath, to make something a bit more active, do you know what I mean, not necessarily a campaign or a protest...</p>",
+			"<p>Grant: Like an event on the Heath that people could participate in?</p>",
+			"<p>Amy: No, a bit more... well one of the things that's interesting, I think, is that all of these projects have been temporary...</p>",
+			"<p>Grant: Which is nice, I think that's the good thing about them.</p>",
+			"<p>Amy: It is good, but I think that you can move them through and you can use those temporary things as research for then doing something which can be more permanent in the future, and I'm not talking about a sculpture or a statue, something like that, I'm talking about something which does have a use-value, perhaps.</p>",
+			"<p>Grant: Like some system on the Heath, yes, O.K.</p>",
+			"<p>Amy: Yes, or even a regular magazine about Hampstead Heath, that can then be taken over by people who use Hampstead Heath who maybe want to sustain something themselves.</p>",
+			"<p>Grant: So the artist would actually be going there and identifying needs rather than projecting their practice onto those situations.</p>",
+			"<p>Amy: Exactly. But that's just my kind of personal... that's what I like.</p>",
+			"<p>Grant: Useful art.</p>",
+			"<p>Amy: Yes I like my art to have a function.</p>",
+			"<p>Grant: That's interesting actually. That's good.</p>",
+			"<p>Amy: And that way you are really giving something to people as well and that way people can warm to artists as well...</p>",
+			"<p>Grant: You have to offer them something... people do have a sort of sense of barter, don't they?</p>",
+			"<p>Amy: And why shouldn't they? Because they also get really suspicious, 'you're an artist, what do you want from me?' It can be really like that. And I think, actually one of the good things about the projects is that it didn't actually... I don't think any of the projects actually used people to create artworks. Maybe mine! Maybe I've really used people, I've taken their comments and made this thing! But yes, I think you've got to be really careful with that too... I'm sounding really moralistic, aren't I! You've got to be really nice to everyone! I mean sometimes things can get too nice. But you don't necessarily have to deal with nice things, there's lots of nasty things going on...</p>",
+			"<p>Grant: But there has to be something in it for them.</p>",
+			"<p>Amy: Absolutely, because if they're not interested in art...</p>",
+			"<p>Grant: Because the artists get something out of it, they're making work and getting to have an audience for their work...</p>",
+			"<p>Amy: That's right.</p>",
+			"<p>Grant: Yes, and I think there needs to be something in it for those people that are participating. And actually when you watched the 'Journeys' film, you could see that they had got something out of it, those kids had really enjoyed that project.</p>",
+			"<p>Amy: Yes it was very evident. And being able to use new video cameras... I mean how exciting, I wish I was able to do that when I was a kid, I would have loved it. And I think that they were also able to put in that personal expression as well and that was really insightful for hearing people who don't know very much about Deaf issues to see that from a very humanistic point of view. The only adult in the group actually, she decided to film her daily, almost domestic life, and that was great... she specifically filmed the television with the subtitles on it, using the minicom, things like that, how the door bell worked in her house, because she felt, 'I want to use this as a way of showing people, this is how a Deaf person lives.' So it was great that they were able to take that in their own direction. If they wanted to do something fantasy... one of them did a little horror film with a dog running through the woods, or if they wanted to talk about their holidays, then they could...</p>",
+			"<p>Grant: They could direct it, they were in control, weren't they?</p>",
+			"<p>Amy: They were, but with a lot of facilitation as well. To be able to realise it in the best way.</p>",
+			"<p>Grant: And what about you in terms of doing this project? Has it really changed throughout the time, or...</p>",
+			"<p>Amy: You mean the process that I've been going through? I think it was fairly simple really, in terms of a way of talking to people.</p>",
+			"<p>Grant: So you had a sort of plan that you put into practice and it hasn't radically shifted or...</p>",
+			"<p>Amy: No it hasn't radically shifted, the methods that I used to engage people in conversations seemed to work. Not all of them did. I don't know if I told you, the shopping bag...</p>",
+			"<p>Grant: The shopping bag technique?</p>",
+			"<p>Amy: Yes. I offered to carry people's shopping to their cars so that we could talk about Adam Chodzko's sign on the way! And I was really naive in that respect, but it was something that I just wanted to try, you know. So I ended up giving away little cacti and people got into it, something tangible.</p>",
+			"<p>Grant: Oh, that's sweet.</p>",
+			"<p>Amy: Yes, they were all a bit like that really.</p>",
+			"<p>Grant: So you had a table?</p>",
+			"<p>Amy: Yes, like a stall.</p>",
+			"<p>Grant: So that kind of bartering thing came back into play, yes.</p>",
+			"<p>Amy: One thing... I was talking to Paul Collett about this as well. I often thought that I was adding to urban pollution in a way...</p>",
+			"<p>Grant: Oh, that's interesting.</p>",
+			"<p>Amy: ...by being one of those people that stops you on the street.</p>",
+			"<p>Grant: You could say that about the whole project, it could run the risk of...</p>",
+			"<p>Amy: It could run the risk, yes exactly and in a way it's about highlighting those things. There's one whole section on the web site... one of the themes is about living in the city, it's very broad but it's come up so much, I think it would do, it's only natural. But I don't think you can go too wrong if you're asking people for their opinions.</p>",
+			"<p>Grant: No because everyone loves to give that. And the Hohenbuchler project was rich with opinions as well as the Hampstead Heath project, that's what you got back.</p>",
+			"<p>Amy: Yes lots of very strong opinions, which is what we like, so that's great. And I think in terms of offering, I feel as though I've offered a platform... it's not a huge platform, but it's a little platform for some of those opinions to actually become published and hopefully it will generate more discussions and the discussions will keep on going... forever!</p>",
+			"<p>Grant: Scary!</p>",
+			"<p>Amy: Yes, but I'll be out of it, I won't need to hear about it anymore!</p>"
+		]
+	},
+	"p12": {
+		"title": "Across an Open Space",
+		"media": [
+			{"src": "media/people/p12.jpg", "width": 500, "height": 360}
+		],
+		"caption": [
+			{"class": "caption", "html": "Orla Barry <em>Across an Open Space</em>"},
+			{"class": "credit", "html": "vandalised sign"}
+		]
+	},
+	"p14": {
+		"media": [
+			{"src": "media/people/p14.jpg", "width": 300, "height": 358}
+		],
+		"caption": [
+			{"class": "caption", "html": "Felix Gonzalez-Torres <em>Untitled (America)</em> 1994/5"},
+			{"class": "credit", "html": "photo: Amy Plant"}
+		]
+	},
+	"p16": {
+		"title": "Journeys",
+		"media": [
+			{"src": "media/people/p16.jpg", "width": 500, "height": 342}
+		],
+		"caption": [
+			{"class": "caption", "html": "Anthony O'Flaherty, Esther Sayers &amp; Claudia Kappenberg<br>with members of the Deaf community"},
+			{"class": "credit", "html": "workshops at Camden Arts Centre"}
+		]
+	},
+	"p18": {
+		"title": "Journeys",
+		"class": "inset",
+		"mediaClass": "media center middle",
+		"media": [
+			{"src": "media/people/p18.mp4", "width": 320, "height": 240, "framed": true}
+		],
+		"caption": [
+			{"class": "credit", "html": "<em>Home to Home</em> by Patsy Palmer"}
+		]
+	},
+	"p21": {
+		"title": "We all peel the onions",
+		"media": [
+			{"src": "media/people/p21.jpg", "width": 300, "height": 454}
+		],
+		"caption": [
+			{"class": "caption", "html": "<em>Contact</em> audience research at Camden Arts Centre"},
+			{"class": "credit", "html": "during <em>We all peel the onions</em> by Christine &amp; Irene Hohenbüchler<br>with participants from the Day Centre<br>photo: Amy Plant"}
+		]
+	},
+	"p23": {
+		"title": "We all peel the onions",
+		"media": [
+			{"src": "media/people/p23.jpg", "width": 300, "height": 202}
+		],
+		"caption": [
+			{"class": "caption", "html": "Christine &amp; Irene Hohenbüchler with<br>participants from the Day Centre <em>We all peel the onions</em>"},
+			{"class": "credit", "html": "photo: participant from the Day Centre<br>(taken for <em>Victorya</em> by Grant Watson)"}
+		]
+	},
+	"p24": {
+		"title": "We all peel the onions",
+		"class": "narrow f4",
+		"text": [
+			"<p><strong>With the help of Paul Danvers, the art therapist, all participants of <em>We all peel the onions</em> were invited to a discussion with me in the art room at the Day Hospital (part of the Royal Free NHS Trust). A small number of participants attended and the group members fluctuated throughout the afternoon, typical of the drop-in nature of Wednesday art sessions at the Day Hospital. This followed the formal evaluations carried out by Camden Arts Centre in consultation with the participants and was intended purely as an opportunity for their voices to appear on <em>Contact</em>. <em>We all peel the onions</em> raised many important issues and problems for all involved and the following extracts represent only several perspectives. (I was asked by Camden Arts Centre to omit various comments). One participant wished to be named, the others preferred to be represented anonymously.</strong></p>",
+			"<p><strong>Extract 1</strong></p>",
+			"<p><strong>M:</strong> I'm not ashamed of my art, but I'm trying to pass in the outside world, so I don't want my name around, it's a very distinctive name.</p>",
+			"<p><strong>Margaret:</strong> Well I hate that too, because I know when I invited some friends for my bonfire party and they said, 'Oh, mental health patients, guess who they were', K was there and...they all went, 'What? They're normal people!'</p>",
+			"<p><strong>B:</strong> Well it's lucky they didn't say anything like that to me, because they would have got a mouthful!</p>",
+			"<p><strong>Margaret:</strong> Well they didn't say anything...</p>",
+			"<p><strong>B:</strong> There were some people who weren't mental health patients that need some social skills training, you know.</p>",
+			"<p><strong>Margaret:</strong> The image the ordinary public have...</p>",
+			"<p><strong>B:</strong> ...I know, I know...</p>",
+			"<p><strong>Margaret:</strong> When I said that I come here on a Wednesday, a friend of mine said, 'Oh, do you have people to help you?' I mean, she knows me! I don't see what's the harm in saying to people...I wish I could be free enough to say that, which I do sometimes.</p>",
+			"<p><strong>M:</strong> I think it's my choice, who I tell, what is my own private business and that includes what conditions I have. I have a lot of other conditions that I don't want anyone to know about as well, physical ones, you know. At the time of the exhibition I would have put my name on to it, had everyone else done too.</p>",
+			"<p><strong>B:</strong> We weren't asked were we?</p>",
+			"<p><strong>M:</strong> No.</p>",
+			"<p><strong>Amy:</strong> But you said that there was a discussion, there's a bit of an argument going on here.</p>",
+			"<p><strong>K:</strong> I don't think everyone was here but...</p>",
+			"<p><strong>Paul:</strong> ...it wasn't done by committee or anything.</p>",
+			"<p><strong>K:</strong> It wasn't done by committee but there were quite a few people who said that they didn't want their names put, I don't know if we sorted out numbers or anything like that but I think they decided not to put names on because that's what some people wanted.</p>"
+		]
+	},
+	"p25": {
+		"title": "We all peel the onions",
+		"media": [
+			{"src": "media/people/p25.jpg", "width": 300, "height": 450}
+		],
+		"caption": [
+			{"class": "caption", "html": "<em>Contact</em> audience research at Camden Arts Centre"},
+			{"class": "credit", "html": "during <em>We all peel the onions</em> by Christine &amp; Irene<br>Hohenbüchler with participants from the Day Centre <br>photo: Sophie Hope"}
+		]
+	},
+	"p26": {
+		"title": "We all peel the onions",
+		"class": "narrow f4",
+		"text": [
+			"<p>In reference to Freud's \"Interpretation of Dreams\" we wanted to depict our own \"finding\" of an artistic idea. As far as we can remember our inspiration has often happened during the state of waking up or by falling asleep. A condition when the intense thinking of the day, the looking for metaphors, dissolves into oscillation between consciousness and dreaming. It happens, that we come up with a result in the morning, the imagination had engraved it's way while sleeping, the night was working for us. During the day conclusions can be found by an associative way, connecting one thought with another, alertness is needed after the associative linkage of images - to place the work in our own and the artistic context, to refer to a social, sociological \"meaning\".</p>",
+			"<p>We would name our attitude towards art as a \"daydream\" connecting the aesthetic with ethical contents, an utopic wish dream of a fairer society, of more equality between different individuals .... We have been following this way for years - neither knowing when it will end nor what will be the result of it. There is constant movement, change by referring to incidents in time and space, in connection to other individuals and groups ... private needs and tasks like raising our own kids, interferes with professional life ....</p>",
+			"<p>Working in \"multiple authorship\"</p>",
+			"<p>as an attempt to connect different individuals in visual expression. When we work with groups one can compare our position to conductors or film directors - guiding the process and the form of presentation.</p>",
+			"<p>When we start a process we have an idea in the back of our head, we try to organise material which is different to what people are used to working with, to make the start more interesting, to invite people to come along with us during the working-period. Here, in the North London Link project, the introduction of sequins was maybe a shock to the people, because they were not used to the material. On the other hand we had the impression, that some participants had been very enthusiastic about the \"glittery\" stuff. For us it was meant as a way to get in contact with the participants through their interest in the unfamiliar substance. We tell the co-workers what we think of the work, the exhibition space and how the piece could look. It is mostly a quiet, but in spite of this, still exciting beginning. We all have to get into contact with each other. Nobody really knows directly, how the process will develop. Because it depends so much on the people, especially because the handicapped people and the psychiatric patients have their own rhythm and time-schedule. So it is an experiment for the whole group. We think, everybody is curious, as to how it will turn out in the end. Some participants are shy, but some immediately communicate - so a lot functions over verbal and non-verbal conversation. We start to draw, we do work in front of the participants, using the room as a common studio. Maybe they start to take a pencil or paint. Often we sit side by side, we tell about our life, about what it means being an artist in our society, answering questions. It can happen, that participants are telling their whole story of their lives while they are drawing or painting. So this working together has somehow a revealing character.</p>",
+			"<p>After some time the working room gets full with drawings and paintings and all this influences the working atmosphere and creates a special energy. There is a big influence of one to another. Maybe one can compare the action to a visual dialogue between participants.</p>",
+			"<p>Often the groups we work with, have a naive and uneducated approach towards contemporary art. We try to convey the joy of doing, if one is allowing oneself the freedom of fantasy. We also try to mediate: art is able to cause a strong impact to one's life. It is much more than two hours of art-therapy a week. Making art needs time and energy to get to a result, also to reach this point of satisfaction out of one's own creation. It is a big success for us, if a few people are able to have these experiences, feelings. There are always some participants who are developing a great love towards their own paintings. This is a touching process to watch. But we are never able to motivate all of them. So we are in the position of guiding, observing and trying to help in certain situations.</p>",
+			"<p>It can happen, that participants are not able to connect with our way of working, which happened here at the Day Hospital. There was a lot of misunderstanding and misinterpretation of \"what we want them to do\". Some participants felt forced into a situation, they did not feel invited. But it has also a lot to do with their personalities, with their way of perceiving their world around them, taking in the position of victims. They were used to their safe space in the art therapy room and some felt invaded, intruded by our presence. It was hard for them to deal with change in their daily routine. We did not have the intention to disturb their intimate relationship with their art therapist. If there would not have been any participants liking the process, we would have stopped the project. But, as also Paul Danvers tried to explain it to the group, it was a kind of diversion to what was normally going on. And this brings the risk of failure, of rejection, or it could be perceived as an enrichment of every-day life.</p>",
+			"<p>During the whole project the atmosphere was very tense and there was an ambivalence. For us it was very difficult to react to the people, because there was nearly a hostile radiation, which could also quickly change into an enthusiastic, friendly atmosphere. Unfortunately the expectation of some people towards art, their own production, was very high. This can also take away the spontaneous expression and the joy of creation.</p>",
+			"<p>So Irene has already brought the text together, and I will also try to respond to all these arguments and quite negative statements from the participants and also the visitors.</p>",
+			"<p>As I look at all the photographs lying here in black and white, I have to say I still like the work as a whole. Of course it spreads out joyfulness, of course it does not show so much the pain, the colours are very bright, the pearls and sequins are sparkling in the light, especially when it is getting dark, in the change of daylight.</p>",
+			"<p>In a lot of statements there is remembrance of school-kids or nursery work. I think it has more to do with this fear of showing up a kind of nativity in the work, in an art-piece. I have to say, we are not afraid of naivity because it also brings you back to a kind of origin in thoughts or wishes. The demand of creating a masterpiece can also kill your creative-process and is a big trap to fall into, very dangerous to all life expectations. Perhaps it's better to be humble and to learn by doing and working. I have also to discuss the big diversion between the verbal expression and the visual state, as it is also mentioned. People can identify much more with their interviews in Victorya then with their own visual work. I find this a pity, because we spent time together creating something and I have to say, that in between, also big laughs and fun arose. Of course there had been also a kind of worry and sadness in between, and if you look closer you can find it. For example the \"lovetrees\" of one man, they're showing this incredible loneliness. Others worked more on what they wished to be, a glamorous person, a ballet-dancer, a princess. The people had been very well educated, as we learned from all the conversations. We had a lot of discussions about making masks or not, which was for us just the starting point and not the ongoing theme. We wanted to spread it out, but the motivation was very hard. Some really tried to fight against us without an attempt to get involved. Perhaps it had been the hardest time in a collaboration work. We had different experiences before.</p>",
+			"<p>We also asked several times, if the participants wanted to be named, but as it is with group work: some didn't like this idea and it was the majority. So we thought it would be better without naming. In the psychiatric field naming is a sensitive subject anyway, as is showing, the presentation in public. So I wondered that they had been so free in their interviews. Often things are going to be told, but not for the public, it's more a secret you take with you. But the people are used to having intimate conversations, maybe it was similar to a therapeutic setting. I'm glad that all together they were at least satisfied with the title of the show, which arose after a brain-storming afternoon. Unfortunately the participants had been very unsatisfied with the presentation. We know that some wanted to have their own work represented in frames on white gallery walls. Perhaps we made a mistake because we didn't fulfil this wish. But this was of course also a financial question, to make for every different sized piece a frame, which would have been like a vitrine. Because of all the material glued onto the work it became more like a relief. It would have been an unrealistic demand. We knew that. Also the space was hard to work with, with the mamy windows and the structured walls. But we did not mind the situation, in the presentation we reacted to the exhibition facilities. They wanted to show up more their own personality. And because we put everything in one room-piece they can't find themselves anymore. I still can see the individuals. But for a person who just peeps in for a moment, the work becomes one thing. Perhaps this is also a failure, but I'm not sure about it, because it had been a kind of group-process and also working and helping together. For us the harmony in the space is very important, and of course this is then more our interpretation of the work.</p>",
+			"<p>We often state, that we're not curators, picking out some work and putting it together in a kind of group-show. It's another approach. We still have the feeling that the spectator is able to get the kind of energy which arose during the process, and we regret that it seems now as we used people or wanted to put them into one direction. I hope we never forced somebody or put the \"nose\" onto a subject. We believe that it had been a more open process, otherwise we would feel like big monsters.</p>",
+			"<p>All we can say now in the end, it was not meant to put three persons work on display, there were more participants involved and it is hard to keep a balance between the single indivdual, so that nobody feels overlooked or disrespected. It still seems as if it did not function this time. We're glad that some people took their work home to put it in their living-rooms, so the project makes sense for us. All these negative arguments and disappointments are also a result of a group-process and it's energy. We want to take more the positive side away from it. In our remembering it is much more the joy of doing something together, the small room getting fuller and fuller of all these colours and sparkling stuff, looking out of the big windows into the green grass of the garden on a grey November afternoon .....</p>",
+			"<p>Irene &amp; Christine Hohenbüchler, November 2000</p>"
+		]
+	},
+	"p27": {
+		"title": "We all peel the onions",
+		"media": [
+			{"src": "media/people/p34.jpg", "width": 300, "height": 440}
+		],
+		"caption": [
+			{"class": "caption", "html": "Christine &amp; Irene Hohenbüchler with<br>participants from the Day Hospital<br><em>We all peel the onions</em>"},
+			{"class": "credit", "html": "photo: Christine &amp; Irene Hohenbüchler"}
+		]
+	},
+	"p29": {
+		"title": "We all peel the onions",
+		"class": "narrow f4",
+		"text": [
+			"<p><strong>Conversation between <em>We all peel the onions</em> participants, Paul Danvers (art therapist) and Amy Plant in the art room at the Day Hospital.</strong></p>",
+			"<p><strong>Extract 3</strong></p>",
+			"<p><strong>Margaret:</strong> It was appalling that people with mental health problems were treated like that. You know the chance for people with mental health problems to gain more confidence. It says about that in here (the transcript of conversations with visitors to the exhibition).</p>",
+			"<p><strong>M:</strong> I did actually feel quite satisfied with some of the work I did while they were here and I've taken it away and I've got it on my bedroom wall. But that doesn't mean to say that I felt satisfied with the fact that the work was, as I put it earlier, that it was a carnivalisation of our work and our feelings. And for people who are sometimes suffering from enormous emotional pain, that's not the whole picture. It was a skewed view of us and our art. There was a lot more art that if we had the choice, we would have put in. It would have given a much fuller picture of what we're able to produce, as artists and also as people expressing pain. And maybe that's not allowed. Maybe they can't face that.</p>",
+			"<p><strong>Amy:</strong> It sounds like you were interested in this idea of having an opportunity to have a platform...</p>",
+			"<p><strong>M:</strong> Yes, very much so.</p>",
+			"<p><strong>Amy:</strong> ...for the wider public. And I think that a lot of people who came...it was divided, mixed feelings, in a way, from the visitors. On the one hand people were very excited about the materials and the colours and it gave them a joyous feeling and on the other hand they were quite surprised to find out where the work had come from...some people were...and they were trying to look for the pain, if you know what I mean.</p>",
+			"<p><strong>K:</strong> It's such a specific thing going on here, being in the mental health system that, it seems like, I don't know...it should have more about freedom of expression and showing what was going on in the hospital. I felt that the work produced could have been organised by a school or something like that. I suppose that's what it is, it's making a collection and it's from a psychiatric hospital. I don't know, it was just a trial, a try-out to see what it was like. But a lot of people felt that it interfered with the day-to-day work that they were doing here. Some people did like it...</p>",
+			"<p><strong>M:</strong> Well, I liked it some of the time, but not all of the time and I certainly didn't like the way it was displayed and organised without any kind of consultation with us. It was as if they were saying to the world, 'Look what we can do, even in a mental hospital, we can make everything jolly, bright and carnival like. Even in a psychiatric hospital, look what we can do, it's so jolly.'</p>"
+		]
+	},
+	"p30": {
+		"title": "We all peel the onions",
+		"media": [
+			{"src": "media/people/p30.jpg", "width": 500, "height": 326}
+		],
+		"caption": [
+			{"class": "caption", "html": "Christine &amp; Irene Hohenbüchler with<br>participants from the Day Hospital <em>We all peel the onions</em>"},
+			{"class": "credit", "html": "photo: participant from the Day Hospital<br>(taken for <em>Victorya</em> by Grant Watson)"}
+		]
+	},
+	"p39": {
+		"title": "We all peel the onions",
+		"media": [
+			{"src": "media/people/p39.jpg", "width": 500, "height": 422}
+		],
+		"caption": [
+			{"class": "caption", "html": "Christine &amp; Irene Hohenbüchler with<br>participants from the Day Hospital <em>We all peel the onions</em>"},
+			{"class": "credit", "html": "photo: Sophie Hope"}
+		]
+	},
+	"p40": {
+		"title": "We all peel the onions",
+		"media": [
+			{"src": "media/people/p40.jpg", "width": 500, "height": 322}
+		],
+		"caption": [
+			{"class": "caption", "html": "<em>We all peel the onions</em> by Christine &amp; Irene Hohenbüchler<br>with participants from the Day Hospital"},
+			{"class": "credit", "html": "work in progress<br>photo: Christine &amp; Irene Hohenbüchler"}
+		]
+	},
+	"p45": {
+		"title": "We all peel the onions",
+		"media": [
+			{"src": "media/people/p45.jpg", "width": 300, "height": 197}
+		],
+		"caption": [
+			{"class": "caption", "html": "<em>Contact</em> audience research at Camden Arts Centre"},
+			{"class": "credit", "html": "during <em>We all peel the onions</em> by Christine &amp; Irene Hohenbüchler<br>with participants from the Day Hospital<br>photo: Amy Plant"}
+		]
+	},
+	"p46": {
+		"title": "We all peel the onions",
+		"media": [
+			{"src": "media/people/p46.jpg", "width": 300, "height": 200}
+		],
+		"caption": [
+			{"class": "caption", "html": "Christine &amp; Irene Hohenbüchler<br>with participants from the Day Hospital<br><em>We all peel the onions</em>"},
+			{"class": "credit", "html": "photo: Christine &amp; Irene Hohenbüchler"}
+		]
+	},
+	"p47": {
+		"title": "On Finchley Road",
+		"media": [
+			{"src": "media/people/p47.jpg", "width": 300, "height": 454}
+		],
+		"caption": [
+			{"class": "caption", "html": "Maurice O'Connell <em>On Finchley Road - For Three Days Only</em>"},
+			{"class": "credit", "html": "John Crociani, Sophie Hope, Maurice O'Connell, Peter Cross and John<br>photo: Andrew Whittuck"}
+		]
+	},
+	"p50": {
+		"title": "On Finchley Road",
+		"media": [
+			{"src": "media/people/p50.jpg", "width": 300, "height": 462}
+		],
+		"caption": [
+			{"class": "caption", "html": "Midland Crescent, Finchley Road"},
+			{"class": "credit", "html": "photo: Sophie Hope"}
+		]
+	},
+	"p51": {
+		"title": "On Finchley Road",
+		"media": [
+			{"src": "media/people/p51.jpg", "width": 300, "height": 197}
+		],
+		"caption": [
+			{"class": "caption", "html": "Maurice O'Connell <em>On Finchley Road</em>"},
+			{"class": "credit", "html": "<em>A Stroll Down Finchley Road</em> <br>part of Maurice O'Connell's residency at Camden Arts Centre<br>photo: Sophie Hope"}
+		]
+	},
+	"p53": {
+		"title": "On Finchley Road",
+		"media": [
+			{"src": "media/people/p53b.jpg", "width": 500, "height": 132}
+		],
+		"caption": [
+			{"class": "caption", "html": "Maurice O'Connell <em>On Finchley Road - For Three Days Only</em>"},
+			{"class": "credit", "html": "leaflet detail"}
+		]
+	},
+	"p54": {
+		"title": "On Finchley Road",
+		"media": [
+			{"src": "media/people/p54.jpg", "width": 300, "height": 341}
+		],
+		"caption": [
+			{"class": "caption", "html": "Maurice O'Connell <em>On Finchley Road - For Three Days Only</em>"},
+			{"class": "credit", "html": "local resident, John makes a speech<br>photo: Andrew Whittuck"}
+		]
+	},
+	"patsy_tv": {
+		"title": "Journeys",
+		"class": "inset",
+		"mediaClass": "media center middle",
+		"media": [
+			{"src": "media/people/patsy_tv.jpg", "width": 320, "height": 240, "framed": true}
+		],
+		"caption": [
+			{"html": "Patsy Palmer <em>Home to Home</em> video still"}
+		]
+	},
+	"a01": {
+		"title": "Mecca",
+		"media": [
+			{"src": "media/art/a01.jpg", "width": 500, "height": 406}
+		],
+		"caption": [
+			{"class": "caption", "html": "Anna Best <em>Mecca</em>"},
+			{"class": "credit", "html": "<em>Talking Mecca</em> by Karen Stripp<br>questionaire<br>the proposed booklet became <em>eyes-down.com</em>"}
+		]
+	},
+	"a02": {
+		"title": "Mecca",
+		"media": [
+			{"src": "media/art/a02.jpg", "width": 300, "height": 205}
+		],
+		"caption": [
+			{"class": "caption", "html": "Anna Best <em>Mecca</em>"},
+			{"class": "credit", "html": "photo: Anna Best"}
+		]
+	},
+	"a03": {
+		"title": "Mecca",
+		"media": [
+			{"src": "media/art/a03.jpg", "width": 300, "height": 206}
+		],
+		"caption": [
+			{"class": "caption", "html": "Anna Best <em>Mecca</em>"},
+			{"class": "credit", "html": "projection image"}
+		]
+	},
+	"a04": {
+		"title": "Mecca",
+		"media": [
+			{"src": "media/art/a04.jpg", "width": 300, "height": 213}
+		],
+		"caption": [
+			{"class": "caption", "html": "Anna Best <em>Mecca</em>"},
+			{"class": "credit", "html": "photo: Anna Best"}
+		]
+	},
+	"a05": {
+		"title": "Mecca",
+		"media": [
+			{"src": "media/art/a05.jpg", "width": 500, "height": 331}
+		],
+		"caption": [
+			{"class": "caption", "html": "Anna Best <em>Mecca</em>"},
+			{"class": "credit", "html": "photo: Esther Sayers"}
+		]
+	},
+	"a06": {
+		"title": "Mecca",
+		"media": [
+			{"src": "media/art/a06.jpg", "width": 500, "height": 262}
+		]
+	},
+	"a07": {
+		"title": "Onions",
+		"class": "narrow f4",
+		"text": [
+			"<h1><em>Across an Open Space</em> Orla Barry</h1>",
+			"<p>A public art work on Hampstead Heath<br>27 July - 26 September 2000</p>",
+			"<p>From September 1999, Orla Barry researched Hampstead Heath and the people who use it through the cycle of the seasons. Concentrating on the Heath's public Bathing Ponds and the Lido at Gospel Oak, her research comprised diary entries, notes, overheard snatches of conversation and photographs, plus contributions from people familiar with the Heath. The work resulting from Barry's research comprised signs featuring short pieces of poetic text that appeared in the wild patches on the edges of the ponds, and a free magazine, <em>Refugees</em>, was made in collaboration with users of the Heath and included photographs by Ruth Corney and poetry and drawings by Malvina Cheek. The project was launched at the Parliament Hill Bandstand on July 25 with 'The Green Man', a performer who provided a musical offering, and an Irish ballad singer who performed <em>My Pheasant Lady</em>, written by Orla Barry. However, over the weekend that the signs were installed, a group of Heath users felt the work was inappropriate and reacted to the project by removing and vandalising the signs. No signs now exist and the installation of signs in the Lido had to be cancelled. <em>Refugees</em> was distributed until the end of the summer by volunteers on the Heath.</p>",
+			"<p>Orla Barry was born in Ireland and now lives and works in Belgium and Ireland. She studied in Dublin, Belfast, and at De Ateliers, Amsterdam. Solo exhibitions include <em>The Scavenger's Daughter</em> at Shed im Eisenwek, Frauenveld, Switzerland, 1999 and <em>A Barmaids Notebook</em> 1991-98 at Gasworks Gallery, London 1999. Her work has been prominent in numerous group shows including <em>Manifesta</em>, Luxembourg, 1997 and <em>Linguistic Islands</em>, Watou 2000, Belgium, curated by Jan Hoet.</p>",
+			"<p>Project supported by the Corporation of London.</p>"
+		]
+	},
+	"a08": {
+		"title": "Across an Open Space",
+		"media": [
+			{"src": "media/art/a08.jpg", "width": 500, "height": 423}
+		],
+		"caption": [
+			{"class": "caption", "html": "<em>Contact</em> response from <em>This is Your Page</em>"},
+			{"class": "credit", "html": "in <em>Refugees</em> by Orla Barry"}
+		]
+	},
+	"a09": {
+		"title": "Across an Open Space",
+		"media": [
+			{"src": "media/art/a09.jpg", "width": 300, "height": 132}
+		],
+		"caption": [
+			{"class": "caption", "html": "<em>Contact</em> response from <em>This is Your Page</em>"},
+			{"class": "credit", "html": "in <em>Refugees</em> by Orla Barry"}
+		]
+	},
+	"a11": {
+		"title": "Across an Open Space",
+		"media": [
+			{"src": "media/art/a11.jpg", "width": 300, "height": 197}
+		],
+		"caption": [
+			{"class": "caption", "html": "Orla Barry <em>Across an Open Space</em>"},
+			{"class": "credit", "html": "installation"}
+		]
+	},
+	"a13": {
+		"title": "Across an Open Space",
+		"media": [
+			{"src": "media/art/a13.jpg", "width": 300, "height": 196}
+		],
+		"caption": [
+			{"class": "caption", "html": "Orla Barry<em>Across an Open Space</em>"},
+			{"class": "credit", "html": "installation"}
+		]
+	},
+	"a15": {
+		"title": "Mecca",
+		"class": "narrow f4",
+		"text": [
+			"<h1><em>Untitled (America)</em> 1994/95 Felix Gonzalez-Torres</h1>",
+			"<p>Lymington Road, London NW3<br>19 May - 16 July 2000</p>",
+			"<p><em>Untitled (America)</em> 1994/95 comprised garlands of lights installed across a street opposite the Centre. Like all Gonzalez-Torres' work, the piece is on one level concerned with the intersecting dialogues between the realms of public and private, social and personal. Its intention is also as a decorative and celebratory piece. Gonzalez-Torres died in 1996 and a large exhibition of his work took place at the Serpentine Gallery, with other satellite projects through the duration of this project.</p>",
+			"<p>Gonzalez-Torres exhibited widely in America and Europe and showed alongside Ad Reinhardt and Joseph Kosuth in <em>Symptoms of Interference, Conditions of Possibility</em> at Camden Arts Centre in 1994.</p>",
+			"<p>Organised by Camden Arts Centre in partnership with the Serpentine Gallery. Supported by Edwin Cohen and Andrea Rosen.</p>"
+		]
+	},
+	"a18": {
+		"title": "Contact",
+		"class": "narrow f4",
+		"text": [
+			"<p><strong>Conversation between Paul Collett, Arts Development Officer from Camden Council (Camden Arts &amp; Tourism) and Amy Plant</strong></p>",
+			"<p>Paul: I don't really have an overall image of the project to take away. I kind of had one when it began because it was originally going to be centred around the North London Line and that became very, very difficult... just because of the relationships with Railtrack and the people that run the line. It was difficult to pin them down to the timetable, so Peter Cross (the curator) had to re-think it, and it became more about the communities that live along that route, and did not directly use the stations. It was a pity because that was a tangible thread between those communities, and I think something was lost...that physical thread, that physical angle. So to my mind they became a bit too disparate perhaps as projects. Again, that's my perception coming from the outside. I was involved in the beginning, working with Camden Arts Centre in coming up with the project. I would later occasionally hear about some of the problems or...I would get the publicity and I would come to the events and I would get updates at trustees meetings, things like that... so I've got this fractured perspective which isn't good or bad, it's just a different perspective.</p>",
+			"<p>Amy: And also, how long have you been working in this department?</p>",
+			"<p>Paul: I've been at Camden for years and years. And I suppose in the public art area, working seriously for about ten.</p>",
+			"<p>Amy: So you've got a good experience then of this area and...</p>",
+			"<p>Paul: I suppose so. I'm aware of what the pitfalls are likely to be and sometimes I'm not surprised when things do go awry and sometimes with the nature of these projects you have to work with those problems and those opportunities and tease out solutions ... it's easier with some of the participants than with others.</p>",
+			"<p>Amy: I think it's important in public art projects to remain very flexible because you are negotiating with people who don't necessarily have an interest or an involvement in contemporary art.</p>",
+			"<p>Paul: Yes, you are often introducing them to new practices, new ways of working. Often they don't have the context in which to frame it themselves. So in a way Peter did really well when he rescued the project because it could have seriously floundered when the stations pulled out, and he was able to re-structure it. I've tried to identify common themes. Have you identified any common themes within the projects?</p>",
+			"<p>Amy: Well that's what my website is about, in fact. That's how I've focused. From the beginning, when I was asked to do this, I thought, 'O.K., It's supposed to be about some kind of links and it's not about the rail line any more,' so I thought, 'Maybe it would be interesting at the end of the projects to see what links have actually emerged' and so rather than the website being structured project by project, it's actually structured thematically. I've fixed on seven themes, because there are seven projects, so that's a kind of random number.</p>",
+			"<p>They've ended up being quite broad themes and they've not come from me looking at the projects, they've come from the reactions I've had from the audiences. So it's been a bit like qualitative research. So I go out and try and find out what's going on and then from that I assess it and categorise. So it's been a process of going through these conversations, picking out quotes and trying to see the overall threads. I think what's been interesting about the projects, when you talk to the audiences, is how they work as catalysts for the audiences to think about things which are happening in their local area or things that are happening in their lives generally and that for me... I found that the interesting outcome of going and talking to people. Because it almost gives another dimension to the work... it's read on a different level.</p>",
+			"<p>Paul: I think Peter's been quite clever in the way that he's selected the artists to work on it. Their artistic practice shares these concerns, it's not going in with something fixed, it's about whatever comes out of the conversation they have with that group of people.</p>",
+			"<p>Amy: In most cases. I think some of the projects had more direct involvement and were more engaging with people than others.</p>",
+			"<p>Paul: Can you name them all? I'm wondering if I can.</p>",
+			"<p>Amy: Seven is actually a really hard amount to remember. The first project was Anna Best's Mecca at the Kilburn Bingo Hall.</p>",
+			"<p>Paul: Yes, I saw that one.</p>",
+			"<p>Amy: The next one, I think, was the project with Christine and Irene Hohenbüchler.</p>",
+			"<p>Paul: I saw the outcome of that.</p>",
+			"<p>Amy: You saw the exhibition at Camden Arts Centre? What did you think of that?</p>",
+			"<p>Paul: I think there was an attempt to make more of the material than was actually there. I wasn't sure that an exhibition was the appropriate format for that work. The magazine was better. And from what I gathered, the project had been very problematic in terms of establishing a relationship with the user s. Obviously they're going to be suspicious, 'What are you doing with us? And what are youdoing with our material?' The difficulty of re-presenting it in an artspace. And I think perhaps it looked too much like an exhibition for an art space than...that I found quite difficult ... the way it was exhibited stopped people from seeing the work, which I thought was an issue.</p>",
+			"<p>Amy: Normally how those artists work is that they get the participants to be very much involved in the process of the installation. And it really fell down in that respect. And I think that's partly to do with timing and not having enough time to allow for the flexibility that's needed when it's not a conventional exhibition.</p>",
+			"<p>Paul: That is also reflected in the Orla Barry project. I think again, because you can't control environments in the public domain and you have more control in the white cube. Certainly more than you have on Hampstead Heath or in an art therapy class for example. That's why I think these opportunities are really exciting. Perhaps sometimes they are constrained by exhibition timetables, or the traditional framework of doing things ...it doesn't have to follow an exhibition format. And projects should be allowed, in fact, to go off in other directions. But it's incredibly difficult to achieve, because you've got to keep everyone on board, you've got to keep your staff on board, you've got to keep the funders on board... At the end of the day everyone wants an outcome, they want something tangible. And often you have to simply guess what these tangible outcomes could be... and the Centre in this instance wanted an exhibition and perhaps it wasn't appropriate. It's difficult. But I think you're right, I think it's been a real eye opener...to be directly involved in those issues. They took on a lot, you know.</p>",
+			"<p>Amy: I thought that seven projects was too ambitious. If they had done less the artists could have been better resourced and supported. And what about what Maurice did? I was very interested in his approach...he was very intangible I thought, or could be seen as that way. 'Are we going to get any results?!' Lots of ideas, but nothing's confirmed yet. And for Maurice, that really wasn't a problem... the idea of the project for him was that he was working all the time...</p>",
+			"<p>Paul: I actually thought he was a good choice. I would love to work with him within the Council, but it would possibly be the last project that I ever work on because it could go anywhere. He's fantastic and I like what he does, I like him as an individual. Again, I'm not sure about the outcome for this project. I know that there were parts that weren't realised probably because they ran out of time... something was going to happen at the O2 Centre and something on the estate opposite...</p>",
+			"<p>The event he did on the Finchley Road was curious, it was surreal. I don't know, I'm a bit wary about people standing around in this context with glasses of wine... it was a close to becoming a bit of a freak show. And I don't like that. I've just been reading Sarah Kent (art critic) talking about the Gillian å Wearing private view at the Serpentine... apparently it was horrible. Why didn't the Serpentine re-think it? Why didn't they do something more in keeping? You don't have to have drinks there, have them elsewhere, or have tea and coffee, I don't know, make some allowance for the work...</p>",
+			"<p>Amy: Does it always have to be an art-style private view?</p>",
+			"<p>Paul: Exactly, the work isn't about that ... there's a jarring of conventions... so I wasn't totally convinced by what Maurice did. But I suppose I feel like that about many of the projects really.</p>",
+			"<p>Amy: The conventions... like you say, that are happening in galleries are suddenly brought out into the public arena...</p>",
+			"<p>Paul: Yes, and you cannot transpose the conventions of an art gallery onto the outside... but that is learned through experience. There are no rules. Most curators who work outside have been bred within the gallery context. I think they always get a shock on leaving it. I think it's probably good for them. But I wish that someone would take it back into the gallery, you know.</p>",
+			"<p>Amy: Yes, that's a very good point.</p>",
+			"<p>Paul: I don't think there should be rigid divisions, I think that's stupid. If you want to work with artists, you want to expose their practise, you want to get a wider audience... well, some artists are interested in that and others aren't. It's not a case of right or wrong, it's just how they work. I think the Centre genuinely believed that the project would enable them to reach new audiences and bring some of those audiences back into the Centre. Whether that has happened, whether someone has attempted to evaluate that...</p>",
+			"<p>Amy: I don't know actually....I mean how do you do that as well?... It's very hard to please everybody. I think the Journey's project worked brilliantly in terms of creating a close relationship with the participants.</p>",
+			"<p>Paul: Yes, and the library was a good setting for it. The realisation of it was very good and I think it was good for the library to see how â that kind of work can be presented professionally. I think that was one of the more successful of the projects.</p>",
+			"<p>Amy: And I think the participants gained a lot from it. There's no bad feelings left after that one, if you see what I mean. But on the other hand, the projects that have back-fired slightly have been massive learning curves and it's important to think of them in a positive way.</p>",
+			"<p>Paul: Which do you think were the more successful?</p>",
+			"<p>Amy: I think it's hard to gauge, because I think success in these kind of projects... someone said... ages ago, I read it in a book...that success is like the weather, it's subject to change. So it depends on what angle you look at it. Is it about making people happy? Or is it about learning something about that community or different parts of the community. And I think with the projects that have backfired, the success can maybe come later, if that's been taken on board.</p>",
+			"<p>Paul: Yes, it would be nice to think that with the Orla Barry one... again if there was someone around to do it...it would be painful, but you know, relations could be re-established with these people. I think Orla's words, the concept was fine...it just struck me afterwards, thinking about it, that people were probably taken aback by the physical signs ... they do look like estate agents' boards. Maybe it could have taken another form, something wrapped around the trees, I don't know, it could have said the same thing and it would have got the message across. The message didn't get across at all because they weren't up there long enough for people to see them, quite frankly...by all accounts they were down within twenty four hours. But it does show you the strength of feeling and people began writing to the local paper. Something obviously went wrong in the run up to it.</p>",
+			"<p>Amy: I think that was a big lack of communication. Assuming that the Corporation of London were dealing with the Pond Associations and they let them down. I mean, Orla said afterwards that she never would have put those signs up if she knew the reactions would have been as they were. So again, that's one of those things where you've got a sort of triangle going on and there's not enough communication between the different parties.</p>",
+			"<p>Paul: But it would be nice to think that the Centre would consider doing another project on the Heath and that they would learn form this experience. But it's difficult getting those relationships right because you're going in with hardly anything and you're calling on people's time, they're not being paid and you're asking them to become an active participant in a project that they don't know anything about and are little interested in. You've got to get them interested and that just takes time. I think when it does work it can be very exciting and rewarding for everyone involved.</p>",
+			"<p>Amy: Yes, and with the ponds as well...it obviously does say a lot about how people feel about that space and how it w Ðorks...it's obviously very intimate, and one person that I spoke to who's used the ponds for years... he was saying that one of the reasons people go there is to get away from the commercial signs and all that bombardment of...</p>",
+			"<p>Paul: The words were not commercial at all, but I think the format was, that's what grated with them, so a more subtle approach, not so 'in your face', something more intriguing coudl have been better. It's a pity though, it should have been a really nice project. It is strange how people have these perceptions of space. Hampstead Heath is public space open to anyone. The objectors do not have any legal claim on that land yet people are very territorial.</p>",
+			"<p>Amy: Absolutely, it's a sort of colonisation of a place isn't it?</p>",
+			"<p>Paul: Yes, people who come in are outsiders.</p>",
+			"<p>Amy: Even when I went down there I felt like an outsider, going down to the Women's Pond, and I did feel,'Oh, I shouldn't really be here'. That was interesting, yes. I di Ødn't go swimming though, it's too deep for me. I think it's also to do with people getting to know each other in a particular space as well and communities aren't necessarily defined geographically either, especially the ponds, people come from all over the place to use those. Lots of issues like that have come up through doing this project and through this process of talking to people, and one of the themes that has come out...the title for it is 'Sacred Places'... about these places where people maybe even have a spiritual connection with, especially natural environments and also in the Bingo Hall, Anna made a lot of connections between religion and gambling and that's come out as well.</p>",
+			"<p>Paul: I thought that was an interesting project. Again some of the finish could have been better. I think they could have had a better screen put in. Anna also used a couple of slide projectors in the foyer, and I think more could have been made of that. It was too discreet. I know s Ùhe wanted to create the illusion that these things were transient, almost magical... but people aren't used to encountering such things in that environment so you've got to be bolder. I quite liked Adam Chodzko's, I think there's something spiritual there in a way. I like the idea that you have to make an imaginative leap across continents. It was a simple yet strong idea.</p>",
+			"<p>Amy: And another one of the themes is about dreaming and escaping because it's all very much an escapist...</p>",
+			"<p>Paul: Yes, yes, and that ties in with Anna's.</p>",
+			"<p>Amy: Yes, it's also about escaping from boredom, I thought that's why people do go there to get away from the harsh realities of their own lives and dreaming perhaps about winning money and all the possibilities that come through that. The same with Maurice, there were a lot of dreams about the future of the Finchley Road, 'What we would like, how we would like it to be improved', that kind of thing. And the people I talked to about Adam's work, Ö most people really loved it actually, they really appreciated...I think it's worked and in a way it's a very traditional piece of public art in the sense that it's been plonked into a space but it hasn't been given a monumental-ness to it at all. Unless you notice it you would think it was the same as the other signs in the car park.</p>",
+			"<p>Paul: How did the Arizona connection come about? I mean with a lot of the things he does it's an act of faith isn't it? Like the material he has extracted from newspapers - has he made them up? Are we to believe that there is something out there in the desert?</p>",
+			"<p>Amy: Yes, I wasn't sure if it really was, but it was put there and it still should be there. If nothing's happened to it. And in fact some people are going there...they went to Arizona to do something and they went to look for the sign and I actually met some people who are moving to Arizona as well, so you never know, they might send me a picture! I met them at the O2 Centre w Ühile I was giving out cacti. Cacti, deserts, a very simple idea, but it worked. It's amazing how many people I spoke to had actually been to a desert. There must be another one we haven't talked about... let me see... Journeys...</p>",
+			"<p>Paul: Wasn't there one before...</p>",
+			"<p>Amy: Oh, Felix Gonzalez Torres! The light bulbs. I thought that worked too. Rumours had started to spread about what the lights were for and everyone was trying to guess. And all these different ideas were coming out. Some people thought it was because of the Queen Mother's birthday or the mayor getting in, all those kind of things.</p>",
+			"<p>Paul: Do you think that it mattered that they didn't twig it was an art work?</p>",
+			"<p>Amy: No, I thought that gave it a very nice dimension and I think that's partly what the artist would have wanted anyway. The idea was that if you see something like that, what does it make you think of? For me it brought up this notion of collective conscious, if you like, lots of people thinking the s áame thing at the same time, like 'Where's the street party?' It's an associative thing, to see lights like that. And I think what happened was that once I told people it was by an artist and it was to do with Camden Arts Centre, they said 'Well, if it's art, you need to explain that, if it's just light bulbs, you think of carnival, or whatever.' And then I explained to them that the artist may have wanted them to have an idea and to use their imaginations as to what it might be, and then I think they understood that, but some people felt that it would have been nice to know, maybe after they'd been up for six weeks or something, to then find out it's an artwork. I think maybe you need a balance in a situation like that. Maybe if people knew from the beginning that it was art work, all those rumours spreading maybe wouldn't happen, or they would have a different nature about them. But maybe if no one does go out there and talks to people... well maybe that's fine for it to happen å in an invisible way, absolutely. It was very interesting for me anyway...</p>",
+			"<p>Paul: It's important if you want to evaluate the worth of the project... the effect of the project on those people, but without actually doing this kind of qualitative assessment... and it's so time consuming.</p>",
+			"<p>Amy: Oh yes, it is!</p>",
+			"<p>Paul: I think one of the big issues with public art, because we are bombarded with so much visaul information, is how do you look at it? OK we see those lights and we've seen the Christmas lights in Regent Street, it's inevitably going to conjure those associations. I imagine that the artist still wanted to get his message across. To get people to shift their perceptions of the world through experiencing this particular physical manifestation. You want them to do that, I suppose that's what Peter wanted them to do...create the circumstances where that perceptual shift is possible. You don't want to ram it down people's throats but at the same time...it's a difficult balance to Ûstrike because of all the advertising and visual pollution you're competing with. I know that sometimes people say, 'I can't read that in the same way that I read an advert, it's not as instantaneous', but how do you encourage people to stay with it? I think that artists also have to take that on board, I think they have to make more of an allowance when they're working outside of the white cube... Another thing is scale. You know when someone's got it wrong because it just looks diminutive and you know it's not, that it has a big idea contained but somehow it's lost. But that's not to say you can't have a small object with a big impact.</p>",
+			"<p>Amy: In a way the light bulbs...</p>",
+			"<p>Paul: That worked, it was a great setting the way the road...</p>",
+			"<p>Amy: The gradient.</p>",
+			"<p>Paul: And the way it had a physical link to the Centre as well.</p>",
+			"<p>Amy: And it linked the two sides of the street, which was very interesting because people talked about the differences that are going on down that street, on the one hand you've got a housing estate which has lots of elderly people and people on low incomes and on the other side you've got this posh cricket club which is used by people who don't necessarily live down that street. Some of the people I spoke to there actually came from Southgate. And even when I was there, I had a camera stolen, there were police going down the road because someone was trying to commit suicide, in one of the flats and at the same time you've got this lovely sunny day and this lovely cricket game going on in the background.</p>",
+			"<p>Paul: Again, everything is crushed up against each other a mix of cultures, class, knowledge, education, expectations...</p>",
+			"<p>Amy: Definitely. In a way that project revealed that tiny area and what was going on and the animosity there and it's like a kind of microcosm in a way and I'm hoping that the website will... because I've gone into the details, very much so, individual experiences, and what's come out of that will have a global resonance, I hope.</p>",
+			"<p>Paul: So how many people have you spoken to?</p>",
+			"<p>Amy: It's between one and two hundred.</p>",
+			"<p>Paul: That's a lot. Did anyone turn you down? Were there places that you couldn't access?</p>",
+			"<p>Amy: No, only the life guards at the ponds, they wouldn't talk to me. Well she wouldn't let me record it, you see. She said that I would have to get permission from the Corporation of London.</p>",
+			"<p>Paul: Did you speak to them?</p>",
+			"<p>Amy: To the Corporation? I haven't. I haven't really gone down that road so much, I'll have a link to their website so it'll give an idea of...I had to limit myself because it could become really huge and sprawling. Paul: They are supposed to be stake holders and they weren't in the end. It would be interesting to know what they felt...I'm sure you're right, it was about lack of communication or expectations not being met on both sides. But it would be good for them actually, to take some responsibility for what happened. Amy: What do you think about the fact that a lot of people came from abroad as well? Orla was popping over from Brussels... quite sporadically.</p>",
+			"<p>Paul: I don't know really.</p>",
+			"<p>Amy: I mean my view on it, is that it's quite a luxury to have these international artists coming in and on the other hand it's, 'Well, OK, what is their relationship with this area?'</p>",
+			"<p>Paul: Perhaps it was too much of a leap. Maybe the Centre should have had more local artists, or a mix and then the next step would be to introduce... I don't know, it's easy to say in retrospect. Projects I've worked on have experienced similar pitfalls, ...sometimes you think you've sorted it out but you're still surprised by the reaction of people. Maybe it's just too ambitious, maybe it's just trying to achieve too much.</p>",
+			"<p>Amy: And what about the future?</p>",
+			"<p>Paul: I know the Centre is still keen to develop these kind of projects. There is going to be a period of time when the building is inaccessible during its renovation. I át will be physically closed, so again that's an opportunity to use the site, or sites nearby. Maybe they should think about doing a project that has two halves to it. One half that is defined by not knowing what the outcomes might be and the other where outcomes are more predictable ... so you keep the funders happy, you've got the press, profile, artistic credibility assured and you have this other project working in the shadows, which can take more risks. May be you get someone like Maurice who spends eighteen months there with no pressure for him to deliver an exhibition at the end.</p>",
+			"<p>Amy: Absolutely.</p>",
+			"<p>Paul: I would want them to produce something but I think it has to be something which is appropriate to the way they are working and the changing circumstances that they find themselves in over that period of time. That's your ideal project really, but it's very difficult to get that funded.</p>",
+			"<p>Amy: Absolutely. I have that problem. It's always the same. That's how I like to wor àk as well, but everybody wants proposals, right from the start and there isn't that room for the research. But they do residency programmes at Camden Arts Centre and I think that worked well, how they combined...some of the artists actually did residencies at the Centre. I think Anna Best used her residency also for keeping a foot in the art world, because it can be very isolating as well for artists working in different contexts.</p>",
+			"<p>Paul: Yes absolutely, they begin to lose their focus.</p>",
+			"<p>Amy: But she also brought some of her audience from Mecca into the Centre as well, she actually organised a Bingo game in the Centre. I didn't go to that unfortunately, so I'm not sure how that went, it sounded like it went very well, but I thought that was quite strange, I remember thinking at the time...I suppose it was just an exchange process, and then you had it happening in the other way as well, especially at the end of Anna's project, she had the final event at the end of the month and lots of people came from the art world, suddenly into that situation and that, I find quite an interesting...</p>",
+			"<p>Paul: It's interesting but can also be awkward.</p>",
+			"<p>Amy: Very awkward. It's awkward from both sides.</p>",
+			"<p>Paul: Yes, because if we're not careful we become voyeurs, that's the other way of looking at it.</p>",
+			"<p>Amy: Absolutely, and a lot of the art audience probably felt, 'Well, what am I doing here?', you know.</p>",
+			"<p>Paul: We can all go round and admire the building and admire the Wurlitzer organ but we might not associate with the people that patronise the place.</p>",
+			"<p>Amy: But maybe those kinds of tensions are quite useful and informative anyway.</p>",
+			"<p>Paul: Yes. That's the content of the work isn't it, in some way. It's just about how you involve people, again it's what's appropriate. Maybe the art world has to be on better behaviour when it's going out to...</p>",
+			"<p>Amy: The public, absolutely.</p>",
+			"<p>Paul: It can't appropriate places for ten minutes and then just walk out. It just ca ÿn't. One thing that annoys me is that you do a project in a particular place and it becomes tainted by association so you can't go back for more funding to do a further project there. OK, so Anna Best has done a project at the Kilburn State Bingo Hall, so why can't it be followed by other artists' projects.</p>",
+			"<p>Amy: Because it's already been done.</p>",
+			"<p>Paul: But that's about building and nurturing your audience. Why can't we expose these people to lots of different ways of working? That's how you build confidence by comparing and contrasting. And then you might get them then to start thinking about going to the gallery. That is interesting. I haven't fathomed out how best to do that yet.</p>",
+			"<p>I think the residency thing is very interesting in terms of the public art debate. The very nature of residency means that you've got someone, although not necessarily physically based in a particualr place, who has to keep going back and encountering people more than just once. And hopefully you get a conversation developing and from that that you make work that has already establsihed an audience. That's what many of these projects attempted to do. Peter had identified key audiences so I don't think the approach was wrong at all.</p>",
+			"<p>Amy: Someone else said to me that the work they have done has been like field work in a sense, it has kind of skimmed over things. It hasn't gone into anything very deeply but it has helped to identify the audience.</p>",
+			"<p>Paul: So maybe where they should go next is to identify a site and really build a long term relationshi p with that site and the communities around it. Say 'Look, we're going to work with that group or groups for the next three years, maybe just do one project a year', and then you may get those people coming to the Centre on a regular basis. It is more than just a marketing exercise, you could be very cynical and say this is just a marketing exercise, but it was never conceived as that, it was and is much more.</p>",
+			"<p>Amy: And even with this website, I was quite wary at times, you know, 'Am I just providing more PR for them by doing this?' and it's quite important for me and for the Centre, I think, that it's not going in that direction. Although it's not going to go into the bureaucratic details or the curatorial problems, it's supposed to be interesting for the local audience.</p>"
+		]
+	},
+	"a19": {
+		"media": [
+			{"src": "media/art/a19.jpg", "width": 300, "height": 455}
+		],
+		"caption": [
+			{"class": "caption", "html": "Felix Gonzalez-Torres <em>Untitled America</em> 1994/5<br>Lymington Road"},
+			{"class": "credit", "html": "photo: Amy Plant"}
+		]
+	},
+	"a20": {
+		"media": [
+			{"src": "media/art/a20.jpg", "width": 300, "height": 256}
+		],
+		"caption": [
+			{"class": "caption", "html": "<em>Contact</em> audience research on Lymington Road <br>during Felix Gonzalez-Torres <em>Untitled America</em> 1994/5"},
+			{"class": "credit", "html": "photo: Sophie Hope"}
+		]
+	},
+	"a24": {
+		"media": [
+			{"src": "media/art/a24.jpg", "width": 500, "height": 400}
+		],
+		"caption": [
+			{"class": "caption", "html": "Felix Gonzalez-Torres <em>Untitled (America)</em> 1994/5<br>Lymington Road"},
+			{"class": "credit", "html": "photo: Amy Plant"}
+		]
+	},
+	"a26": {
+		"title": "Better Scenery",
+		"class": "narrow f4",
+		"text": [
+			"<h1><em>Better Scenery</em> Adam Chodzko</h1>",
+			"<p>Car park and lower lobby, O2 Centre, Finchley Road, London NW3<br>17 December 1999 - 27 August 2000</p>",
+			"<p><em>Better Scenery</em> was an escapist proposition which connected the Arizona Desert, USA, and Finchley Road, London. In each location, a sign gave written directions to the other place. Together they suggested the possibility of travelling from the Painted Desert, in the middle of nowhere, to the urban car park of the O2 leisure centre and vice-versa. Photographs of both signs in situ were displayed in the lower lobby of the O2. Though thousands of miles apart, the signs signified an imaginary space, reflected in the backdrop of imitation rocks, water features and tropical sounds of the O2 leisure centre.</p>",
+			"<p>Adam Chodzko's installation continued his exploration of transitional states. He has previously conducted searches for people who think they look like God within the pages of Loot newspaper, and the 'murdered' adolescents in Pasolini's film <em>Salu</em>; and asked lighting technicians to stage their version of the appearance of heaven. Chodzko has exhibited widely in Britain and internationally, including the Ikon Gallery, Birmingham 1999, in <em>Dream Machines</em> at Camden Arts Centre and touring, 2000, and the British Academy, Rome 2000.</p>"
+		]
+	},
+	"a27": {
+		"title": "Better Scenery",
+		"media": [
+			{"src": "media/art/a27.jpg", "width": 300, "height": 451}
+		],
+		"caption": [
+			{"class": "caption", "html": "Adam Chodzko <em>Better Scenery</em>"},
+			{"class": "credit", "html": "photo: Amy Plant"}
+		]
+	},
+	"a35": {
+		"title": "Journeys",
+		"class": "narrow f4",
+		"text": [
+			"<p><strong><em>Journeys</em> Esther Sayers, Anthony O'Flaherty, Claudia Kappenberg </strong><br><strong>with members of the Deaf community</strong></p>",
+			"<p>Swiss Cottage Central Library, London NW6<br>29 November 1999 - 30 January 2000</p>",
+			"<p><em>Journeys </em>is a video work which follows eight individuals on their travels - real and imaginary. A collaborative project, this travelogue began as a series of practical workshops with members of the deaf community. Working together with the artists, each participant filmed and edited their own individual journey. Two commentaries act as guides; one signed by each participant in British Sign Language and another spoken. <em>Journeys</em> presents new ideas about conditions of access for deaf or hard of hearing people, placing them at the centre of their own experience and giving them the choice of what to communicate to a hearing audience.</p>",
+			"<p>Esther Sayers, Anthony O'Flaherty and Claudia Kappenberg work extensively both as artists and within art education, and are all based in London. Their individual practices include video, printmaking, photography and glasswork.</p>",
+			"<p><em>Journeys </em>was funded by the Arts Council of England <em>Artists in Sites for Learning</em> Scheme and Camden Libraries and Information Services.</p>"
+		]
+	},
+	"a37": {
+		"title": "Journeys",
+		"media": [
+			{"src": "media/art/a37.jpg", "width": 500, "height": 327}
+		],
+		"caption": [
+			{"class": "caption", "html": "Anthony O'Flagherty, Esther Sayers &amp; Claudia Kappenberg<br>with members of the Deaf community<br><em>Journeys</em>"},
+			{"class": "credit", "html": "photo: Esther Sayers"}
+		]
+	},
+	"a38": {
+		"title": "Journeys",
+		"media": [
+			{"src": "media/art/a38.jpg", "width": 300, "height": 425}
+		],
+		"caption": [
+			{"class": "caption", "html": "Anthony O'Flagherty, Esther Sayers &amp; Claudia Kappenberg<br>with members of the Deaf community <em>Journeys</em>"},
+			{"class": "credit", "html": "promotional material"}
+		]
+	},
+	"a41": {
+		"title": "Journeys",
+		"class": "inset",
+		"mediaClass": "media center middle",
+		"media": [
+			{"src": "media/art/a41.mp4", "width": 320, "height": 240, "framed": true}
+		],
+		"caption": [
+			{"class": "credit", "html": "<em>Trip to the Library with Abigail</em> by John Palmer"}
+		]
+	},
+	"a44": {
+		"title": "Journeys",
+		"class": "inset",
+		"mediaClass": "media center middle",
+		"media": [
+			{"src": "media/art/a44.mp4", "width": 320, "height": 240, "framed": true}
+		],
+		"caption": [
+			{"class": "credit", "html": "<em>Shop</em> by Alice Muir"}
+		]
+	},
+	"a46": {
+		"title": "Journeys",
+		"media": [
+			{"src": "media/art/a46.jpg", "width": 500, "height": 334}
+		],
+		"caption": [
+			{"class": "caption", "html": "Anthony O'Flagherty, Esther Sayers &amp; Claudia Kappenberg<br>with members of the Deaf community <em>Journeys</em>"},
+			{"class": "credit", "html": "photo: Esther Sayers"}
+		]
+	},
+	"a47": {
+		"title": "Journeys",
+		"media": [
+			{"src": "media/art/a47.jpg", "width": 500, "height": 361}
+		],
+		"caption": [
+			{"class": "caption", "html": "Anthony O'Flagherty, Esther Sayers &amp; Claudia Kappenberg<br>with members of the Deaf community <em>Journeys</em>"},
+			{"class": "credit", "html": "workshops at Camden Arts Centre"}
+		]
+	},
+	"a48": {
+		"title": "Journeys",
+		"class": "inset",
+		"mediaClass": "media center middle",
+		"media": [
+			{"src": "media/art/a48.mp4", "width": 320, "height": 240, "framed": true}
+		],
+		"caption": [
+			{"class": "credit", "html": "<em>My Sister's Body</em> by Jaker Kahn"}
+		]
+	},
+	"a50": {
+		"title": "On Finchley Road",
+		"media": [
+			{"src": "media/art/a50.jpg", "width": 300, "height": 452}
+		],
+		"caption": [
+			{"class": "caption", "html": "Maurice O'Connell<br><em>On Finchley Road - For Three Days Only</em>"},
+			{"class": "credit", "html": "Midland Crescent 'make-over' in progress<br>photo: Andrew Whittuck"}
+		]
+	},
+	"a51": {
+		"title": "On Finchley Road",
+		"class": "narrow f4",
+		"text": [
+			"<h1><em>On Finchley Road</em> Maurice O'Connell</h1>",
+			"<p>Midland Crescent, Finchley Road, London NW3<br>15-17 September 2000</p>",
+			"<p>In consultation and conversation with local businesses, shopkeepers and communities, Maurice O'Connell began researching possibilities for change on the Finchley Road during his residency at Camden Arts Centre in April 2000. O'Connell proposed interventions in various locations to highlight the history and development of the Finchley Road. The project itself was shaped by the artist's method of consultation with local people. These dialogues focused on Midland Crescent, a faded, mysterious gateway leading away from the incessant traffic of Finchley Road, where a gala celebration took place over a weekend, highlighting the area with bunting, strings of lights and newly painted walls. Passers by were invited to join the celebration and asked to reveal their attitudes about and ambitions for the area. The project is a starting point for future consultation and collaborative work between specific communities along Finchley Road and Camden Arts Centre.</p>",
+			"<p>Maurice O'Connell's work has been presented in museums, galleries and a wide range of non-gallery spaces in Ireland, the UK, Europe, South America and the USA. Notable projects include <em>Conversations at the Castle</em>, Atlanta, 1995; <em>The Handpainted O</em>, CCA, Glasgow, 1996; <em>Tranzit</em>, a major public art programme in Ventspil, Latvia in 1998 and in the same year, an audience development project for the Sao Paulo Biennale.</p>"
+		]
+	},
+	"a52": {
+		"title": "On Finchley Road",
+		"media": [
+			{"src": "media/art/a52.jpg", "width": 300, "height": 451}
+		],
+		"caption": [
+			{"class": "caption", "html": "Maurice O'Connell<br><em>On Finchley Road - For Three Days Only</em>"},
+			{"class": "credit", "html": "Midland Crescent 'make-over' in progress<br>photo: Andrew Whittuck"}
+		]
+	},
+	"a54": {
+		"title": "On Finchley Road",
+		"media": [
+			{"src": "media/art/a54.jpg", "width": 500, "height": 367}
+		],
+		"caption": [
+			{"class": "caption", "html": "Maurice O'Connell<br><em>On Finchley Road - For Three Days Only</em>"},
+			{"class": "credit", "html": "photo: Andrew Whittuck"}
+		]
+	},
+	"a55": {
+		"title": "On Finchley Road",
+		"media": [
+			{"src": "media/art/a55.jpg", "width": 300, "height": 200}
+		],
+		"caption": [
+			{"class": "caption", "html": "Maurice O'Connell<br><em>On Finchley Road - For Three Days Only</em>"},
+			{"class": "credit", "html": "photo: Andrew Whittuck"}
+		]
+	},
+	"a56": {
+		"title": "On Finchley Road",
+		"media": [
+			{"src": "media/art/a56.jpg", "width": 500, "height": 358}
+		],
+		"caption": [
+			{"class": "caption", "html": "Maurice O'Connell<em>On Finchley Road</em>"},
+			{"class": "credit", "html": "introduction card"}
+		]
+	},
+	"a57": {
+		"title": "On Finchley Road",
+		"media": [
+			{"src": "media/art/a57.jpg", "width": 500, "height": 327}
+		],
+		"caption": [
+			{"class": "caption", "html": "Maurice O'Connell <em>On Finchley Road - For Three Days Only</em>"},
+			{"class": "credit", "html": "photo: Andrew Whittuck"}
+		]
+	},
+	"a58": {
+		"title": "On Finchley Road",
+		"media": [
+			{"src": "media/art/a58.jpg", "width": 300, "height": 421}
+		],
+		"caption": [
+			{"class": "caption", "html": "Maurice O'Connell<br><em>On Finchley Road - For Three Days Only</em>"},
+			{"class": "credit", "html": "information leaflet"}
+		]
+	},
+	"a61": {
+		"title": "On Finchley Road",
+		"media": [
+			{"src": "media/art/a61.jpg", "width": 300, "height": 230}
+		],
+		"caption": [
+			{"class": "caption", "html": "Maurice O'Connell<br><em>On Finchley Road - For Three Days Only</em>"},
+			{"class": "credit", "html": "photo: Andrew Whittuck"}
+		]
+	},
+	"a62": {
+		"title": "We all peel the onions",
+		"media": [
+			{"src": "media/art/a62.jpg", "width": 500, "height": 331}
+		],
+		"caption": [
+			{"class": "caption", "html": "Christine &amp; Irene Hohenbüchler with participants from the Day Hospital <br><em>We all peel the onions</em>"},
+			{"class": "credit", "html": "photo: participant from the Day Hospital (taken for <em>Victorya</em> by Grant Watson)"}
+		]
+	},
+	"a63": {
+		"title": "We all peel the onions",
+		"media": [
+			{"src": "media/art/a63.jpg", "width": 500, "height": 335}
+		],
+		"caption": [
+			{"class": "caption", "html": "Christine &amp; Irene Hohenbüchler with participants from the Day Hospital <br><em>We all peel the onions</em>"},
+			{"class": "credit", "html": "photo: Christine &amp; Irene Hohenbüchler"}
+		]
+	},
+	"a65": {
+		"title": "We all peel the onions",
+		"media": [
+			{"src": "media/art/a65.jpg", "width": 500, "height": 329}
+		],
+		"caption": [
+			{"class": "caption", "html": "Christine &amp; Irene Hohenbüchler with participants from the Day Hospital <br><em>We all peel the onions</em>"},
+			{"class": "credit", "html": "photo: Christine &amp; Irene Hohenbüchler"}
+		]
+	},
+	"a66": {
+		"title": "We all peel the onions",
+		"class": "narrow f4",
+		"text": [
+			"<p><strong>Conversation between <em>We all peel the onions</em> participants, Paul Danvers (art therapist) and Amy Plant in the art room at the Day Hospital.</strong></p>",
+			"<p><strong>Extract 6</strong></p>",
+			"<p><strong>E:</strong> I was an out-patient and it was different for me, but if you were coming everyday to the day hospital you would have felt that your space had been taken in a way, because they were always in here. But I only came in on the Wednesday afternoons and a Thursday. Originally I think they expected us to be spontaneous and join in which I think was a problem for everyone. But I did sort of get into it. Although after coming in every Wednesday and Thursday, they were just making masks and at one point I wanted to get all these labels and write terms of mental illness on them to title them, because I didn't feel it expressed anything.</p>",
+			"<p>So when we went to the exhibition...some of my friends thought it was a primary school exhibition because there was no individuality and Grant's magazine, which to me was...it just didn't match up with the work, it was like two separate things. And also that they had come into a day hospital and there was no expression, I don't feel, about mental illness, it was really about masks...I suppose it was quite symbolic in a way, like putting a mask on...but...so yes, there was disappointment there.</p>",
+			"<p>I mean, people felt that they had been used for the project, I didn't feel that, I thought, 'They're artists and they've got to earn a crust', do you know what I mean? And that was it, I didn't mind doing it...I've been coming here for four years and to me it was something different, it was a change and it was only something that lasted so many weeks, and they were OK. There were a few misunderstandings but that could have just been language and culture.</p>",
+			"<p>I think it was an experience, it's just a shame that we couldn't do something that matched the magazine. Because Grant was asking all these questions about mental illness and that's bringing up stuff for us, so you're bringing up all this stuff and you're telling him and it's all printed in this magazine and then you've got this exhibition of primary school beads. There was such a huge contrast I can't imagine, people outside, what they would have made of that.</p>",
+			"<p>We had to hear how the twins were really vulnerable, they're in a different country, OK fair enough, but they need to realise that we too were vulnerable people coming into a day hospital, people with mental illness...moan, moan, moan, moan!</p>",
+			"<p><strong>Amy:</strong> What do you think about these two different worlds meeting? Because it brings up all those questions really, should they meet, or should it just be kept separate, or...</p>",
+			"<p><strong>E:</strong> I don't think it's wrong for them to meet but I think if there was more understanding about it...I just think it could have been a better experience, I don't think they shouldn't meet. But I mean there were nice things. The twins were OK. It was an odd thing to do.</p>"
+		]
+	},
+	"a67": {
+		"title": "We all peel the onions",
+		"class": "narrow f4",
+		"text": [
+			"<p><strong><em>We all peel the onions</em> Christine and Irene Hohenbüchler</strong> <br><strong>with participants from a Day Hospital<br>linked to the Royal Free Hospital NHS Trust</strong></p>",
+			"<p>Camden Arts Centre, London NW3<br>4 February - 26 March 2000</p>",
+			"<p>From November through December 1999, Christine and Irene Hohenbüchler made collaborative works of art with a group of psychiatric patients at a Day Hospital linked to the Royal Free Hospital NHS Trust. They developed projects and activities that challenged and explored expectations and approaches to art and therapy, by choosing unusual materials and asking participants to produce images relating to their personal experiences. The results of these collaborations were exhibited by the Hohenbüchler sisters at Camden Arts Centre. The debate and analysis that accompanied the project resulted in a special edition of the publication <em>Victorya</em>, curated by Grant Watson.</p>",
+			"<p>The Hohenbüchler sisters have been working both together and independently for ten years, and their practice regularly extends to collaboration on multiple authorship projects, working with people living in or attending medical treatment centres (particularly in the area of mental health), educational groups or penal institutions. Recent exhibitions include Documenta X, Kassel 1997 and the Venice Biennale 1999.</p>",
+			"<p>The project was possible thanks to the assistance of Anthony Auerbach at the Austrian Cultural Institute, Grant Watson, Paul Danvers, Kay Thompson and the Royal Free NHS Trust.</p>"
+		]
+	},
+	"alice_reindeer": {
+		"title": "Journeys",
+		"class": "inset",
+		"mediaClass": "media center middle",
+		"media": [
+			{"src": "media/art/alice_reindeer.jpg", "width": 320, "height": 240, "framed": true}
+		],
+		"caption": [
+			{"html": "Alice Muir <em>Shop</em> video still"}
+		]
+	},
+	"seval_newspaper": {
+		"title": "Journeys",
+		"class": "inset",
+		"mediaClass": "media center middle",
+		"media": [
+			{"src": "media/art/seval_newspaper.jpg", "width": 320, "height": 240, "framed": true}
+		],
+		"caption": [
+			{"html": "Seval <em>I Love Books</em> video still"}
+		]
+	},
+	"c01": {
+		"title": "On Finchley Road",
+		"media": [
+			{"src": "media/city/c01.jpg", "width": 500, "height": 350}
+		]
+	},
+	"c02": {
+		"title": "On Finchley Road",
+		"media": [
+			{"src": "media/city/c02.jpg", "width": 500, "height": 363}
+		],
+		"caption": [
+			{"class": "caption", "html": "Maurice O'Connell <em>On Finchley Road - For Three Days Only</em>"},
+			{"class": "credit", "html": "proposal"}
+		]
+	},
+	"c07": {
+		"title": "On Finchley Road",
+		"media": [
+			{"src": "media/city/c07.jpg", "width": 300, "height": 176}
+		],
+		"caption": [
+			{"class": "caption", "html": "Maurice O'Connell<br><em>On Finchley Road - For Three Days Only</em>"},
+			{"class": "credit", "html": "Midland Crescent 'make-over' in progress<br>photo: Andrew Whittuck"}
+		]
+	},
+	"c08": {
+		"title": "On Finchley Road",
+		"media": [
+			{"src": "media/city/c08.jpg", "width": 500, "height": 332}
+		],
+		"caption": [
+			{"class": "caption", "html": "Midland Crescent"},
+			{"class": "credit", "html": "photo: Sophie Hope"}
+		]
+	},
+	"c10": {
+		"title": "On Finchley Road",
+		"media": [
+			{"src": "media/city/c10.jpg", "width": 500, "height": 193}
+		],
+		"caption": [
+			{"class": "caption", "html": "Maurice O'Connell <em>On Finchley Road - For Three Days Only</em>"},
+			{"class": "credit", "html": "leaflet detail"}
+		]
+	},
+	"c12": {
+		"title": "On Finchley Road",
+		"media": [
+			{"src": "media/city/c12.jpg", "width": 500, "height": 312}
+		],
+		"caption": [
+			{"class": "caption", "html": "Maurice O'Connell <em>On Finchley Road - For Three Days Only</em>"},
+			{"class": "credit", "html": "photo: Andrew Whittuck"}
+		]
+	},
+	"c15": {
+		"title": "Mecca",
+		"media": [
+			{"src": "media/city/c15.jpg", "width": 500, "height": 335}
+		],
+		"caption": [
+			{"class": "caption", "html": "Anna Best <em>Mecca</em>"},
+			{"class": "credit", "html": "photo: Anna Best"}
+		]
+	},
+	"c18": {
+		"title": "Mecca",
+		"media": [
+			{"src": "media/city/c18.jpg", "width": 300, "height": 459}
+		],
+		"caption": [
+			{"class": "caption", "html": "Anna Best <em>Mecca</em> Special Event"},
+			{"class": "credit", "html": "photo: Esther Sayers"}
+		]
+	},
+	"c19": {
+		"title": "Mecca",
+		"media": [
+			{"src": "media/city/c19.jpg", "width": 500, "height": 329}
+		],
+		"caption": [
+			{"class": "caption", "html": "Anna Best <em>Mecca</em>"},
+			{"class": "credit", "html": "photo: Anna Best"}
+		]
+	},
+	"c20": {
+		"title": "Mecca",
+		"media": [
+			{"src": "media/city/c20.jpg", "width": 500, "height": 233}
+		],
+		"caption": [
+			{"class": "caption", "html": "Anna Best <em>Mecca</em>"},
+			{"class": "credit", "html": "research questionaire"}
+		]
+	},
+	"c21": {
+		"title": "Mecca",
+		"media": [
+			{"src": "media/city/c21.jpg", "width": 300, "height": 361}
+		],
+		"caption": [
+			{"class": "credit", "html": "an advert for <em>Mecca</em> appeared everyday in Loot<br>during the month of June 1999"}
+		]
+	},
+	"c26": {
+		"title": "Across an Open Space",
+		"media": [
+			{"src": "media/city/c26.jpg", "width": 500, "height": 377}
+		],
+		"caption": [
+			{"class": "caption", "html": "Orla Barry <em>Across an Open Space</em>"},
+			{"class": "credit", "html": "vandalised sign"}
+		]
+	},
+	"c27": {
+		"title": "Across an Open Space",
+		"media": [
+			{"src": "media/city/c27.jpg", "width": 300, "height": 357}
+		],
+		"caption": [
+			{"class": "caption", "html": "<em>Contact</em> audience research<br>at South End Green Street Party"},
+			{"class": "credit", "html": "during <em>Across an Open Space</em> by Orla Barry<br>photo: Amy Plant"}
+		]
+	},
+	"c28": {
+		"title": "Across an Open Space",
+		"media": [
+			{"src": "media/city/c28.jpg", "width": 300, "height": 459}
+		],
+		"caption": [
+			{"class": "caption", "html": "Orla Barry <em>Across an Open Space</em>"},
+			{"class": "credit", "html": "from <em>Refugees</em> by Orla Barry<br>photo: Orla Barry"}
+		]
+	},
+	"c33": {
+		"media": [
+			{"src": "media/city/c33b.jpg", "width": 393, "height": 255}
+		],
+		"caption": [
+			{"class": "caption", "html": "<em>Contact</em> audience research on Lymington Road"},
+			{"class": "credit", "html": "during <em>Untitled (America)</em>1994/5 by Felix Gonzalez-Torres <br>photo: Sophie Hope"}
+		]
+	},
+	"c34": {
+		"media": [
+			{"src": "media/city/c34.jpg", "width": 500, "height": 318}
+		],
+		"caption": [
+			{"class": "caption", "html": "<em>Contact</em> audience research on Lymington Road"},
+			{"class": "credit", "html": "during <em>Untitled (America)</em> 1994/5 by Felix Gonzalez-Torres<br>photo: Sophie Hope"}
+		]
+	},
+	"c35": {
+		"media": [
+			{"src": "media/city/c35.jpg", "width": 300, "height": 410}
+		],
+		"caption": [
+			{"class": "caption", "html": "Felix Gonzalez-Torres<br><em>Untitled (America)</em> 1994/5 Lymington Road"},
+			{"class": "credit", "html": "photo: Ahlburg Keate Photography"}
+		]
+	},
+	"c38": {
+		"media": [
+			{"src": "media/city/c38.jpg", "width": 300, "height": 190}
+		],
+		"caption": [
+			{"class": "caption", "html": "<em>Contact</em> audience research on Lymington Road"},
+			{"class": "credit", "html": "during <em>Untitled (America)</em> 1994/5 by Felix Gonzalez-Torres<br>photo: Sophie Hope"}
+		]
+	},
+	"c39": {
+		"media": [
+			{"src": "media/city/c39.jpg", "width": 500, "height": 327}
+		],
+		"caption": [
+			{"class": "caption", "html": "Lymington Road"},
+			{"class": "credit", "html": "photo: Amy Plant"}
+		]
+	},
+	"c43": {
+		"title": "Better Scenery",
+		"media": [
+			{"src": "media/city/c43.jpg", "width": 300, "height": 189}
+		],
+		"caption": [
+			{"class": "credit", "html": "photo: Amy Plant"}
+		]
+	},
+	"c46": {
+		"title": "Better Scenery",
+		"media": [
+			{"src": "media/city/c46.jpg", "width": 500, "height": 343}
+		],
+		"caption": [
+			{"class": "caption", "html": "<em>Contact</em> audience research at the 0<sub>2</sub> Centre, Finchley Road"},
+			{"class": "credit", "html": "during <em>Better Scenery</em> by Adam Chodzko<br>photo: passer by"}
+		]
+	},
+	"c49": {
+		"title": "Better Scenery",
+		"media": [
+			{"src": "media/city/c49.jpg", "width": 500, "height": 342}
+		],
+		"caption": [
+			{"class": "caption", "html": "<em>Contact</em> audience research at the 02 Centre, Finchley Road"},
+			{"class": "credit", "html": "during <em>Better Scenery</em> by Adam Chodzko"}
+		]
+	},
+	"c51": {
+		"title": "We all peel the onions",
+		"class": "narrow f4",
+		"text": [
+			"<p><strong>Conversation between <em>We all peel the onions</em> participants, Paul Danvers (art therapist) and Amy Plant in the art room at the Day Hospital.</strong></p>",
+			"<p><strong>Extract 4</strong></p>",
+			"<p><strong>Margaret:</strong> But people are marginalised like us and I think they're more marginalised because of the whole thing.</p>",
+			"<p><strong>M:</strong> Yes, we've been made anonymous and we've been reduced.</p>",
+			"<p><strong>Margaret:</strong> Which is what happens with people with mental health problems. It's exacerbated the problem.</p>",
+			"<p><strong>M:</strong> And people probably do think that you do things like nursery school in places like this, well I mean people do tend to make assumptions about people with mental health problems which is that they are somehow backward.</p>",
+			"<p><strong>K:</strong> That project is not at all a fair representation of the day-to-day work, it's completely different from the work that we do, isn't it?</p>",
+			"<p><strong>M:</strong> As the only representation.</p>",
+			"<p><strong>K:</strong> Yes, that's the only exhibition we've had since I've been here, a year and it's not like what goes on everyday.</p>",
+			"<p><strong>Amy:</strong> And what about the magazine, Victorya, how did you feel about that?</p>",
+			"<p><strong>M:</strong> I thought that was better than the exhibition.</p>",
+			"<p><strong>Amy:</strong> I mean, I personally felt that it was a really good insight into...People obviously trusted Grant quite a lot, to be so lucid about their experiences, that's what I thought anyway. Reading that I found it fascinating. Not in a voyeuristic way, but I found it very honest and I got the sense that Grant had a very good presence here, simply because...</p>",
+			"<p><strong>M:</strong> The interviews do show that people felt they trusted him, I think you're right about that.</p>",
+			"<p><strong>K:</strong> I found the interviews good. I liked the interviews. Because you felt like you could cover your illness and all that happened. You went into a separate room and talked about the history of yourself.</p>",
+			"<p><strong>Margaret:</strong> What they should have done, was make this huge, inbetween all the frippery stuff, they should have reproduced all those interviews with really big letters inbetween to show that these were grown-up people who did this, with ideas, imaginations, personalities. A human being, one that you should respect, with a lot of talent.</p>",
+			"<p><strong>K:</strong> I think that people found it difficult because it's meant to be therapeutic so obviously if people weren't enjoying a task set it was continued with. It wasn't changed or altered or stopped or anything like that. So people felt that they had to go along with something that they weren't terribly into and if at the end they (the artists and organisers) were disappointed with the attitude of people here... From what I've heard... it just sounded like they were angry or upset that they'd taken trouble to do this in the art room and they hadn't had the response they wanted and they shouldn't have been expecting any specific response.</p>",
+			"<p><strong>M:</strong> They didn't listen to what people were saying around them. People were saying, 'I'm not sure if I feel like doing masks' or whatever.</p>",
+			"<p><strong>Paul:</strong> It was an experiment wasn't it?</p>",
+			"<p><strong>K:</strong> Yes, it was an experiment.</p>",
+			"<p><strong>Margaret:</strong> That's no excuse, it was an experiment! An experiment on vulnerable human beings!</p>",
+			"<p><strong>Paul:</strong> What I'm saying is it's a diversion from what normally goes on here, something entirely new.</p>",
+			"<p><strong>M:</strong> Well diversion's a lot nicer than the word experiment. People did feel experimented on...the people who are here were finding it very difficult to get in the door, let alone to paint something or be told to paint something and what with. I mean some people were suffering. We wouldn't be here otherwise, it's not sort of like, you know...it's not an art school.</p>",
+			"<p><strong>K:</strong> That's what I mean, if it's an art school, that's fair enough. But it's not an art school.</p>",
+			"<p><strong>Paul:</strong> It's not an art school, but there's a lot of creative energy here.</p>",
+			"<p><strong>M:</strong> Yes, but it poses the question, are you allowed to show your suffering or are you only allowed to present to the public a happy face?</p>",
+			"<p><strong>Paul:</strong> There was one guy who went to the show and said something about...and he said he really enjoyed the show and from his point of view the other show presented psychosis, the Marlene Dumas.</p>",
+			"<p><strong>K:</strong> Really?</p>",
+			"<p><strong>Paul:</strong> And that your bit had a sort of energy...</p>",
+			"<p><strong>K:</strong> Marlene Dumas, she's not psychotic though.</p>",
+			"<p><strong>Margaret:</strong> How do you know?</p>"
+		]
+	},
+	"e01": {
+		"title": "Mecca",
+		"media": [
+			{"src": "media/escape/e01.jpg", "width": 300, "height": 212}
+		],
+		"caption": [
+			{"class": "credit", "html": "Mecca logo"}
+		]
+	},
+	"e02": {
+		"title": "Mecca",
+		"media": [
+			{"src": "media/escape/e02.jpg", "width": 500, "height": 328}
+		],
+		"caption": [
+			{"class": "caption", "html": "Anna Best <em>Mecca</em>"},
+			{"class": "credit", "html": "<em>Eyes Down</em> by Karen Stripp &amp; Anna Best<br>part of Anna Best's residency at Camden Arts Centre"}
+		]
+	},
+	"e06": {
+		"title": "Mecca",
+		"media": [
+			{"src": "media/escape/e06.jpg", "width": 500, "height": 344}
+		],
+		"caption": [
+			{"class": "caption", "html": "Anna Best <em>Mecca</em>"},
+			{"class": "credit", "html": "projection image"}
+		]
+	},
+	"e09": {
+		"title": "Mecca",
+		"media": [
+			{"src": "media/escape/e09.jpg", "width": 300, "height": 438}
+		]
+	},
+	"e13": {
+		"title": "Mecca",
+		"media": [
+			{"src": "media/escape/e13.jpg", "width": 300, "height": 361}
+		],
+		"caption": [
+			{"class": "caption", "html": "Anna Best <em>Mecca</em>"},
+			{"class": "credit", "html": "photo: Anna Best"}
+		]
+	},
+	"e15": {
+		"title": "Across an Open Space",
+		"media": [
+			{"src": "media/escape/e15.jpg", "width": 500, "height": 360}
+		],
+		"caption": [
+			{"class": "caption", "html": "Orla Barry <em>Across an Open Space</em>"},
+			{"class": "credit", "html": "installation"}
+		]
+	},
+	"e22": {
+		"class": "bg-pink serif f2",
+		"text": [
+			"<p class=\"center\">ON THE BEACH</p>",
+			"<p>Insouciance is one of those words you save up, waiting for exactly the right time to use it.</p>",
+			"<p>Eureka! My first summer in northern climes far removed from London's beloved Heath and there it was - abandoned in sand dunes along with naughty remnants of a tryst - it's colourful covers clashing with the hot golden sand and title 'REFUGEES' screaming out 'Read Me'!</p>",
+			"<p>Northumbria, least populated area of England, justifiably boasts miles of stunning beaches punctuated with dunes sporting wild grasses, pretty Tufted Pink Sea Thrift, Red Campion and Sea Asters.</p>",
+			"<p>Unique to this area, the Durham Argos butterfly may not be the only unexpected find to the inquisitive exploring adventurer in search of something 'to fill one's void'.</p>",
+			"<p>Travel changes your sky but not your mind............ Fast-forwarding through the pages of REFUGEES which, like a good book, provided instant optical instrument to take one away from oneself, sweet memories of invigorating days and steamy nights flooded back - faster than the incoming tide!<br>Oh to be on Hampstead!</p>",
+			"<p>I settled on the sand, shaded by tall marram grass and re-read the contents with more deliberation.</p>",
+			"<p>The sweetness of seclusion in such peaceful environs was shattered by a distant nearby giggle.</p>",
+			"<p>At 'see level' on my knees, peeping over the dune, I spotted two interacting heavenly bodies part concealed by grass, as snug as two spoons in a silver tray. Spellbound, I stared from a safe, noncommittal distance and was about to do what my conscience dictated when the couple disengaged from friendly assault and rolled apart to reveal 'Adam &amp; Steve' as nature intended. If clothing makes a statement, such masculine nudity left me lost for words. The one with zero crop and tackle to die for smiled on seeing me before returning his attentions to the blonde 6th Former who looked like he had been reared on wild strawberries, asparagus tips, perrier water and diet dental floss! For one devoted to a religion of Eros, a devotee of Bacchus and professor of desire, here was quality eye candy - the original 'bubble-butt boy'!</p>",
+			"<p>A frisson of expectation wafted across the dunes like the gentle sea breeze, heralding my surprise discovery that I had chanced upon Blyth's answer to Hampstead heath or the Pere-Lachaise cemetery in Paris (where Oscar Wilde.... 'the only way to get rid of temptation is to yield to it'.......rests in his heaven).</p>",
+			"<p>In later conversation with another chance encounter and the assistance of my filed glasses, my findings were confirmed! - Not only Ross Gulls (that follow fishing boats from the Arctic back to the Tyne), majestic Fulmars or Puffins, but much, much more for the beach-wise adventurer to see and do.</p>",
+			"<p>..............a bit like the Heath, minus dendrophiles!</p>",
+			"<p>On my next visit to this sandy oasis away from the sounds and sights of the inhabited world, I shall assume the station of an outcast REFUGEE, devoted beyond the confines of the other world in this lonely and enchanting penance.</p>",
+			"<p>Who knows? I may even get picked up!</p>",
+			"<p>Tom Graham&nbsp;&nbsp;&nbsp;&nbsp;August 2000</p>"
+		]
+	},
+	"e23": {
+		"title": "Across an Open Space",
+		"media": [
+			{"src": "media/escape/e23.jpg", "width": 400, "height": 409}
+		],
+		"caption": [
+			{"class": "caption", "html": "<em>Contact</em> response from <em>This is Your Page</em>"},
+			{"class": "credit", "html": "in <em>Refugees</em> by Orla Barry"}
+		]
+	},
+	"e25": {
+		"title": "Across an Open Space",
+		"media": [
+			{"src": "media/escape/e25.jpg", "width": 500, "height": 400}
+		],
+		"caption": [
+			{"class": "caption", "html": "<em>Contact</em> response from <em>This is Your Page</em>"},
+			{"class": "credit", "html": "in <em>Refugees</em> by Orla Barry"}
+		]
+	},
+	"e27": {
+		"title": "Better Scenery",
+		"media": [
+			{"src": "media/escape/e27.jpg", "width": 500, "height": 500}
+		],
+		"caption": [
+			{"class": "caption", "html": "Adam Chodzko <em>Better Scenery</em>"},
+			{"class": "credit", "html": "photo: Andrew Whittuck"}
+		]
+	},
+	"e29": {
+		"title": "Better Scenery",
+		"media": [
+			{"src": "media/escape/e29.jpg", "width": 500, "height": 393}
+		],
+		"caption": [
+			{"class": "caption", "html": "The O<sub>2</sub> Centre, Finchley Road"},
+			{"class": "credit", "html": "photo: Wide Eye Photographic"}
+		]
+	},
+	"e30": {
+		"title": "Better Scenery",
+		"class": "bg-blue narrow f5 light flush",
+		"text": [
+			"<p><strong>From Flagstaff, Arizona take route 89 northeast then route 510 east then 505 northeast for 7 miles until you reach a left turn soon after passing Moon crater. Follow this dirt track (route 244A) for 6 miles northeast passing the volcanic formations of The Sprout and the Merriam Crater on your right. Half a mile beyond a small well take the track that heads north towards Little Roden Spring. After exactly 6.9 miles a rough overgrown cinder track leads off to the left. Head west along this for a quater of a mile until you reach a fence post. Then walk 100 yards 160 degrees southeast. At this point stop and face due east (visible on the horizon are the Roden Crater and the glow of pink rocks in the Painted Desert). Situated here in this place, is a sign which describes the location of this sign you have just been reading.</strong></p>",
+			"<p class=\"f3\">directions on the sign in the 02 Centre car park<br>Adam Chodzko <em>Better Scenery</em></p>"
+		]
+	},
+	"e38": {
+		"title": "Better Scenery",
+		"media": [
+			{"src": "media/escape/e38.jpg", "width": 300, "height": 298}
+		],
+		"caption": [
+			{"class": "caption", "html": "<em>Contact</em> audience research at the O<sub>2</sub> Centre"},
+			{"class": "credit", "html": "during <em>Better Scenery</em> by Adam Chodzko"}
+		]
+	},
+	"e39": {
+		"title": "Better Scenery",
+		"media": [
+			{"src": "media/escape/e39.jpg", "width": 500, "height": 502}
+		],
+		"caption": [
+			{"class": "caption", "html": "Adam Chodzko <em>Better Scenery</em>"},
+			{"class": "credit", "html": "photo: Andrew Whittuck"}
+		]
+	},
+	"e41": {
+		"title": "Better Scenery",
+		"media": [
+			{"src": "media/escape/e41.jpg", "width": 500, "height": 345}
+		],
+		"caption": [
+			{"class": "caption", "html": "Adam Chodzko <em>Better Scenery</em>"},
+			{"class": "credit", "html": "Arizona"}
+		]
+	},
+	"e42": {
+		"title": "Better Scenery",
+		"class": "bg-white sans f3 flush",
+		"text": [
+			"<p>Dear Amy,</p>",
+			"<p>Thanks so much for the text to Adam Chodzko's sign 'Better Scenery'. In fact, we have just arrived in Carefree (north of Phoenix). It is averaging over 100 degrees daily and the air conditioning wasn't working initially! A big change from London. I cannot promise when we will find our way to the sign but if ever I do, I will be sure to send visual evidence of me in the middle of the desert thinking thoughts of the O2 parking lot on Finchley Road.</p>",
+			"<p>All the best,</p>",
+			"<p>M. K.</p>"
+		]
+	},
+	"e43": {
+		"title": "Better Scenery",
+		"class": "bg-white sans f3 flush",
+		"text": [
+			"<p>Dear Amy,</p>",
+			"<p>Part of our research trip to the American deserts this summer brought us to Flagstaff to visit James Turrell's Roden Crater project. While we were in Flagstaff we searched for two days for Adam Chodzko's sign. Unfortunately we did not find it despite our concerted efforts.</p>",
+			"<p>On the first day we followed the instructions from the sign standing in the O2 centre. Our first problem was to find the highways, as they were not denoted by number but by destination on the signs. The Leupp road turned out to be the 510 and from there it was easy to find first turning. At this point the measurements became ambiguous; from which point should we measure? There were a number of turnings off the Leupp road but none corresponded to 7 miles from any point. After a few passes we saw that road 244A was marked at a distance closer to 9 miles from the junction. This was a cinder road, which constantly branched out into tracks leading to isolated shacks and houses. To the best of our ability we stayed on the 244A, however it led us in a north-westerly direction onto state property. As we were travelling in an estate car on these rough cinder tracks, and because of our fear of trespassing into a prohibited area we decided to turn back. In the process we sank into the cinders from which we had to push the car free.</p>",
+			"<p>That evening we decided not to trust the road numbers and navigate by landmarks all marked on the Ordnance Survey map we picked up at a camping store in Flagstaff. We also decided to hire a 4x4 to make the journey easier.</p>",
+			"<p>Driving on the cinder roads was much easier with the truck, and it did not take us long to find our way. We followed the 244A for about half a mile and then turned off in a north-easterly direction towards the Sproul (not Sprout, as spelt in the instructions). This led us to a newly conditioned road. We passed a number of small wells until we reached the one marked on the map. We also passed other noticeable landmarks, such as an alternative community. They were neither marked on the map nor mentioned in the instructions. The location of the well on the map was to the left of the road, however, in reality it lay to the right leaving us uncertain of the accuracy of the instructions. We finally arrived at Roden Springs, which marked the end of the public road going north. A locked gate prevented us following the road to Little Roden Springs. From this point we too could see the Painted Desert and the Roden Crater on the horizon.</p>",
+			"<p>Sadly we had to turn back and ended our two-day search for Better Scenery. On the return to the highway we discovered that this conditioned road was the construction access to the Roden Crater.</p>",
+			"<p>NB: We have images of the Roden Crater and of Roden Spring. Please contact us if interested.</p>",
+			"<p>Desert Fox</p>"
+		]
+	},
+	"e45": {
+		"title": "Journeys",
+		"class": "inset",
+		"mediaClass": "media center middle",
+		"media": [
+			{"src": "media/escape/e45.mp4", "width": 320, "height": 240, "framed": true}
+		],
+		"caption": [
+			{"class": "credit", "html": "<em>My Sister's Body</em> by Jaker Kahn"}
+		]
+	},
+	"e50": {
+		"title": "On Finchley Road",
+		"media": [
+			{"src": "media/escape/e50.jpg", "width": 500, "height": 310}
+		],
+		"caption": [
+			{"class": "caption", "html": "Maurice O'Connell <em>On Finchley Road - For Three Days Only</em>"},
+			{"class": "credit", "html": "photo: Andrew Whittuck"}
+		]
+	},
+	"e51": {
+		"title": "On Finchley Road",
+		"media": [
+			{"src": "media/escape/e51.jpg", "width": 500, "height": 362}
+		],
+		"caption": [
+			{"class": "caption", "html": "Maurice O'Connell <em>On Finchley Road - For Three Days Only</em>"},
+			{"class": "credit", "html": "proposal"}
+		]
+	},
+	"e54": {
+		"title": "On Finchley Road",
+		"media": [
+			{"src": "media/escape/e54.jpg", "width": 300, "height": 427}
+		]
+	},
+	"e55": {
+		"title": "On Finchley Road",
+		"media": [
+			{"src": "media/escape/e55.jpg", "width": 300, "height": 189}
+		],
+		"caption": [
+			{"class": "caption", "html": "Finchley Road"},
+			{"class": "credit", "html": "photo: Amy Plant"}
+		]
+	},
+	"jaker_face": {
+		"title": "Journeys",
+		"class": "inset",
+		"mediaClass": "media center middle",
+		"media": [
+			{"src": "media/escape/jaker_face.jpg", "width": 320, "height": 240, "framed": true}
+		],
+		"caption": [
+			{"html": "Jaker Khan <em>My Sister's Body</em> video still"}
+		]
+	},
+	"john_videos": {
+		"title": "Journeys",
+		"class": "inset",
+		"mediaClass": "media center middle",
+		"media": [
+			{"src": "media/escape/john_videos.jpg", "width": 320, "height": 240, "framed": true}
+		],
+		"caption": [
+			{"html": "John Palmer <em>Visit to the Library with Abigail</em> video still"}
+		]
+	},
+	"spiros_horizon": {
+		"title": "Journeys",
+		"class": "inset",
+		"mediaClass": "media center middle",
+		"media": [
+			{"src": "media/escape/spiros_horizon.jpg", "width": 320, "height": 240, "framed": true}
+		]
+	},
+	"m02": {
+		"title": "Across an Open Space",
+		"media": [
+			{"src": "media/memory/m02.jpg", "width": 300, "height": 329}
+		],
+		"caption": [
+			{"class": "credit", "html": "photo: Amy Plant"}
+		]
+	},
+	"m04": {
+		"title": "Across an Open Space",
+		"media": [
+			{"src": "media/memory/m04.jpg", "width": 300, "height": 374}
+		],
+		"caption": [
+			{"class": "caption", "html": "<em>Contact</em> response from <em>This is Your Page</em> in"},
+			{"class": "credit", "html": "<em>Refugees</em> by Orla Barry"}
+		]
+	},
+	"m06": {
+		"title": "Across an Open Space",
+		"media": [
+			{"src": "media/memory/m06.jpg", "width": 300, "height": 460}
+		],
+		"caption": [
+			{"class": "caption", "html": "<em>Contact</em> audience research at<br>South End Green Street Party"},
+			{"class": "credit", "html": "during <em>Across an Open Space</em> by Orla Barry<br>photo: Sophie Hope"}
+		]
+	},
+	"m09": {
+		"title": "Better Scenery",
+		"media": [
+			{"src": "media/memory/m09.jpg", "width": 300, "height": 223}
+		],
+		"caption": [
+			{"class": "caption", "html": "<em>Contact</em> audience research at<br>the O<sub>2</sub> Centre, Finchley Road"},
+			{"class": "credit", "html": "during <em>Better Scenery</em> by Adam Chodzko"}
+		]
+	},
+	"m15": {
+		"title": "Better Scenery",
+		"media": [
+			{"src": "media/memory/m15.jpg", "width": 300, "height": 220}
+		],
+		"caption": [
+			{"class": "caption", "html": "O<sub>2</sub> Centre under construction"},
+			{"class": "credit", "html": "photo: Wide Eye Photographic"}
+		]
+	},
+	"m17": {
+		"title": "Better Scenery",
+		"media": [
+			{"src": "media/memory/m17.jpg", "width": 500, "height": 329}
+		],
+		"caption": [
+			{"class": "caption", "html": "Adam Chodzko <em>Better Scenery</em>"},
+			{"class": "credit", "html": "O<sub>2</sub> Centre, Finchley Road"}
+		]
+	},
+	"m26": {
+		"media": [
+			{"src": "media/memory/m26.jpg", "width": 300, "height": 297}
+		],
+		"caption": [
+			{"class": "caption", "html": "<em>Contact</em> audience research on Lymington Road"},
+			{"class": "credit", "html": "during <em>Untitled (America)</em> 1994/5 by Felix Gonzalez-Torres<br>photo: Sophie Hope"}
+		]
+	},
+	"m35": {
+		"media": [
+			{"src": "media/memory/m35.jpg", "width": 300, "height": 469}
+		],
+		"caption": [
+			{"class": "caption", "html": "Felix Gonzalez-Torres <em>Untitled (America)</em> 1994/5<br>Lymington Road"},
+			{"class": "credit", "html": "photo: Amy Plant"}
+		]
+	},
+	"m36": {
+		"title": "On Finchley Road",
+		"media": [
+			{"src": "media/memory/m36.jpg", "width": 300, "height": 370}
+		],
+		"caption": [
+			{"class": "caption", "html": "O<sub>2</sub> Centre, Finchley Road"},
+			{"class": "credit", "html": "photo: Wide Eye Photographic"}
+		]
+	},
+	"m37": {
+		"title": "On Finchley Road",
+		"media": [
+			{"src": "media/memory/m37.jpg", "width": 500, "height": 335}
+		],
+		"caption": [
+			{"class": "caption", "html": "Maurice O'Connell<em>On Finchley Road - For Three Days Only</em>"},
+			{"class": "credit", "html": "Midland Crescent 'make-over' in progress<br>photo: Andrew Whittuck"}
+		]
+	},
+	"m38": {
+		"title": "On Finchley Road",
+		"media": [
+			{"src": "media/memory/m38.jpg", "width": 300, "height": 408}
+		],
+		"caption": [
+			{"class": "caption", "html": "O<sub>2</sub> Centre under construction"},
+			{"class": "credit", "html": "photo: Wide Eye Photographic"}
+		]
+	},
+	"m41": {
+		"title": "On Finchley Road",
+		"media": [
+			{"src": "media/memory/m41.jpg", "width": 500, "height": 330}
+		],
+		"caption": [
+			{"class": "caption", "html": "Maurice O'Connell <em>On Finchley Road - For Three Days Only</em>"},
+			{"class": "credit", "html": "Midland Crescent 'make over' in progress<br>photo: Andrew Whittuck"}
+		]
+	},
+	"m42": {
+		"title": "On Finchley Road",
+		"media": [
+			{"src": "media/memory/m42.jpg", "width": 300, "height": 201}
+		],
+		"caption": [
+			{"class": "caption", "html": "Maurice O'Connell<br><em>On Finchley Road - For Three Days Only</em>"},
+			{"class": "credit", "html": "photo: Andrew Whittuck"}
+		]
+	},
+	"m44": {
+		"title": "On Finchley Road",
+		"media": [
+			{"src": "media/memory/m44.jpg", "width": 400, "height": 452}
+		],
+		"caption": [
+			{"class": "caption", "html": "Maurice O'Connell <em>On Finchley Road</em>"}
+		]
+	},
+	"m45": {
+		"title": "On Finchley Road",
+		"media": [
+			{"src": "media/memory/m45.jpg", "width": 500, "height": 345}
+		],
+		"caption": [
+			{"class": "caption", "html": "Midland Cresent"}
+		]
+	},
+	"m47": {
+		"title": "We all peel the onions",
+		"media": [
+			{"src": "media/memory/m47.jpg", "width": 300, "height": 225}
+		],
+		"caption": [
+			{"class": "caption", "html": "Christine &amp; Irene Hohenbüchler<br>with participants from the Day Hospital<br><em>We all peel the onions</em>"},
+			{"class": "credit", "html": "work in progress<br>photo: participant from Fordwych House<br>taken for <em>Victorya</em> by Grant Watson"}
+		]
+	},
+	"m48": {
+		"title": "Thank You",
+		"class": "narrow f4",
+		"text": [
+			"<p>All of the quotes on <em>Contact</em> were generated by myself apart from many of the ones relating to <em>Mecca</em>. These were taken from <em>Talking Mecca</em> by Karen Stripp and Anna Best.</p>",
+			"<p><strong><em>The North London Link</em> gratefully acknowledges support from the following individuals and organisations:</strong></p>",
+			"<p><strong>Adam Chodzko <em>Better Scenery</em></strong></p>",
+			"<p>Homebase <br>02 Centre, Finchley Road, London NW3<br>Sainsbury's Supermarket<br>Silverlink Trains</p>",
+			"<p><strong>Claudia Kappenberg, Anthony O'Flaherty and Esther Sayers with members of the Deaf community <em>Journeys</em></strong></p>",
+			"<p>Artists in Sites for Learning Fund, the Arts Council of England<br>David Law at Camden Arts and Tourism <br>Swiss Cottage Central Library; Management and Deaf Services<br>Waves Video Editing Suite</p>",
+			"<p><strong>Anna Best <em>Mecca</em></strong></p>",
+			"<p>with:<br>Karen Stripp <br>Staff and members of the State Mecca Bingo Hall, Kilburn High Road, London NW3<br>Paul Whitty <br>Rupert Carey <br>Brendan Clark <br>LOOT newspaper<br>Middlesex University <br>The Rank Corporation<br>The Ronald Grant Picture Archive<br>Winchester School of Art</p>",
+			"<p><strong>Christine and Irene Hohenbüchler with Grant Watson and participants from a Day Hospital in Cricklewood, North London <em>We all peel the onions</em></strong></p>",
+			"<p>Paul Danvers<br>The Day Hospital<br>The Austrian Institute<br>The Royal Free NHS Trust<br>SPACEX, Exeter<br>Christine &amp; Irene Hohenbüchler would especially like to thank<br>Paul Danvers and Grant Watson for all thier support.<br>Without them the project would not have happened.</p>",
+			"<p><strong>Felix Gonzalez-Torres <em>Untitled (America)</em> 1994/5</strong></p>",
+			"<p>Andrea Rosen <br>Brendan Pollard Lighting Associates <br>Camden Council Engineering and Traffic Service<br>Edwin Cohen<br>The Lymington Road Residents Association<br>The Hampstead Cricket Club<br>The Serpentine Gallery</p>",
+			"<p><strong>Orla Barry <em>Across an Open Space</em></strong></p>",
+			"<p>Cultural Relations Committee (Republic of Ireland)<br>Heath Hands <br>Ruth Corney <br>Taz <br>The Corporation of London Management and Staff<br>The Flemish Arts Board<br>The Green Man (Dave Brookes)<br>The Kenwood Ladies Pond Swimmers Association<br>The United Swimmers Association</p>",
+			"<p><strong>Maurice O'Connell <em>On Finchley Road</em></strong></p>",
+			"<p>Neville Cousins <br>Environmental Services, Camden Council<br>Frognal Court Residents Association <br>John Grandoni <br>Newman's Lockshop <br>Niel and Emily <br>02 Centre (management staff and Tenants)<br>The Finchley Road Business Forum <br>The Manager, 3 Midland Crescent <br>Rail Property Ltd <br>Railtrack<br>Spacia <br>Smollensky's <br>Alan Watts<br>Dick Wendleigh<br>Special thanks to Paul Collett</p>",
+			"<p><strong><em>The North London Link</em> and Camden Arts Centre would like to thank</strong> the Visual Art Administration Course at the Royal College of Art, the MA in Creative Curating at Goldsmiths College, University of London and York University, Ontario, Canada for their support in providing invaluable assistance to Peter Cross, the project co-ordinator.</p>",
+			"<p>With Special Thanks to: Jennifer Anyan, Sophie Hope, Karen Narvey, Louise Trodden.</p>",
+			"<p><strong>Amy Plant would like to thank:</strong></p>",
+			"<p>The artists: Anna Best, Karen Stripp, Christine &amp; Irene Hohenbüchler, Grant Watson, Orla Barry, Maurice O'Connell, Anthony O'Flaherty, Esther Sayers, Claudia Kappenberg and Adam Chodzko.<br>Peter Cross, Sophie Hope, Louise Trodden and the staff at Camden Arts Centre<br>Simon Faithful, Peter Moore, Pete Edwards and Karen Martin of e-2<br>John Burton for the T-shirt logo design, technical support and sound preparation<br>Paul Danvers<br>Dave Brookes (The Green Man) for early morning bagpipes and coffee<br>Julie Plant, British Sign Language interpreter<br>Andrew Marsh for technical support<br>Space Studios<br>MJT</p>",
+			"<p>Warm thanks to Peter Cross, Sophie Hope, John Burton, Simon Faithful, Peter Moore, Grant Watson, Anna Best, Paul Collett, Ella Gibbs and Jeanne van Heeswijk for their advise and support.</p>",
+			"<p>Very special thanks to the <em>North London Link</em> audience members and participants who took time to help me create <em>Contact</em>, and to whom this web based project is dedicated. They include:</p>",
+			"<p>Wieyee Cheung,&nbsp; Jessica Boveri,&nbsp; Mark Hampson,&nbsp; Sally Child,&nbsp; Constantine,&nbsp; Susan Budnick,&nbsp; Anthony Whitlock,&nbsp; Johnny and Mirella,&nbsp; Marcel Bosch,&nbsp; Martine Dekeans,&nbsp; Robin Banerjee,&nbsp; Stephane Rabanowitz,&nbsp; Elke Einsmann,&nbsp; Daphne Bom,&nbsp; Miranda Sharp,&nbsp; Christine Hayward-Fooks,&nbsp; Rachel Steward,&nbsp; Chuan,&nbsp; Tom, Gal and mum,&nbsp; Mark Hadjipeteral,&nbsp; Giacomo Picca,&nbsp; Elan,&nbsp; Sara Lee,&nbsp; Sophie Lee,&nbsp; Inger Hermman,&nbsp; Faread Iranpour,&nbsp; Emma,&nbsp; Tyo,&nbsp; Nick Zangwill,&nbsp; Dick Maun,&nbsp; Helen Maun,&nbsp; Mrs M. Holton,&nbsp; Bernadette Reilly,&nbsp; Dayle Henderson,&nbsp; Vikki Laury,&nbsp; David Durgacharan,&nbsp; Carmen,&nbsp; Graham Titley,&nbsp; Janet Titley,&nbsp; Steve Beasley,&nbsp; Claudia Gronde,&nbsp; J. Williams,&nbsp; Roland and staff from Jesse's Cafe,&nbsp; Nigel W. Smith,&nbsp; John Hunt,&nbsp; L. L. Appiah,&nbsp; Valerie Kaye,&nbsp; Ruth Maxwell,&nbsp; Maya Vaughan,&nbsp; Felicity Lunn,&nbsp; Kevin Janis,&nbsp; Gaia,&nbsp; Ed,&nbsp; Dave Porrit,&nbsp; Maksad,&nbsp; Komidodou,&nbsp; Mrs S. Gilbride,&nbsp; Robin Kershaw,&nbsp; John Robson,&nbsp; Peggy Buntan,&nbsp; Sami Ferreira,&nbsp; Nick Hildebrand,&nbsp; Aaron Lawee,&nbsp; Rob Pollard,&nbsp; Diana Vrenco,&nbsp; Kumiko Mendl,&nbsp; Wilberforce,&nbsp; Mark Cobb,&nbsp; Eva Menulin,&nbsp; Marbys Guzman,&nbsp; Monique,&nbsp; Nigel Batting,&nbsp; Ahmad Tanueerbutt,&nbsp; Andrew Abbot,&nbsp; Carole Arnold,&nbsp; Jason Marco Skala,&nbsp; Monique Marco Skala,&nbsp; Sergio the hairdresser,&nbsp; John Grandoni of the Alcove Cafe,&nbsp; The man from Shelfstore,&nbsp; David Smith of 02 Centre,&nbsp; Tom Graham,&nbsp; Doreen Wilder,&nbsp; Janet Richardson,&nbsp; John M. Davis,&nbsp; Joy,&nbsp; Valerie Dunn,&nbsp; Jane Wisner,&nbsp; Clare Scurfield,&nbsp; Anna Ginsburg,&nbsp; Hillary Ratna,&nbsp; Phyllis J. Berry,&nbsp; Deborah Walsh,&nbsp; Pat Arrowsmith,&nbsp; N. Rishman,&nbsp; Paddy Boyce,&nbsp; Vicente Lou,&nbsp; J. Walter,&nbsp; Paul Christensen,&nbsp; Jean Byers,&nbsp; Rachel Douglas,&nbsp; Corinna Marlow,&nbsp; Les Swain,&nbsp; Thea Thompson,&nbsp; Miriam,&nbsp; Susan,&nbsp; Lis,&nbsp; Alan,&nbsp; Mr L. Abel,&nbsp; S. Wilkinson,&nbsp; Rachel White,&nbsp; Brigid Rowe,&nbsp; Catson Roberts,&nbsp; Mark le Russez,&nbsp; Guillion Dourne,&nbsp; Siobhan Wall,&nbsp; Sarah Laforet,&nbsp; Katie Harish,&nbsp; Simaite Ruez,&nbsp; Fang Fang,&nbsp; Beverly Nisbett,&nbsp; Jessa Leff,&nbsp; Prof. Julian Leff,&nbsp; Patsy Palmer,&nbsp; John Palmer,&nbsp; Jaker Kahn,&nbsp; Alice Muir,&nbsp; Anna Muir,&nbsp; Mark Osterfield of Swiss Cottage Library,&nbsp; Margaret Walsh and partipants from <em>We all peel the onions</em>,&nbsp; Paul Danvers of The Day Hospital,&nbsp; Mark of Mecca,&nbsp; Peter of Mecca,&nbsp; Desert Fox,</p>"
+		]
+	},
+	"m50": {
+		"title": "We all peel the onions",
+		"media": [
+			{"src": "media/memory/m50.jpg", "width": 500, "height": 328}
+		],
+		"caption": [
+			{"class": "caption", "html": "Christine &amp; Irene Hohenbüchler<br>with participants from the Day Hospital<br><em>We all peel the onions</em>"},
+			{"class": "credit", "html": "work in progress<br>photo: Christine &amp; Irene Hohenbüchler"}
+		]
+	},
+	"m51": {
+		"title": "Mecca",
+		"media": [
+			{"src": "media/memory/m51.jpg", "width": 300, "height": 206}
+		],
+		"caption": [
+			{"class": "caption", "html": "Anna Best <em>Mecca</em>"},
+			{"class": "credit", "html": "photo: Anna Best"}
+		]
+	},
+	"m53": {
+		"title": "Mecca",
+		"media": [
+			{"src": "media/memory/m53.jpg", "width": 300, "height": 464}
+		],
+		"caption": [
+			{"class": "caption", "html": "Mecca State Bingo Hall, Kilburn"},
+			{"class": "credit", "html": "photo: Amy Plant"}
+		]
+	},
+	"m54": {
+		"title": "Mecca",
+		"media": [
+			{"src": "media/memory/m54.jpg", "width": 300, "height": 462}
+		],
+		"caption": [
+			{"class": "caption", "html": "Anna Best <em>Mecca</em>"},
+			{"class": "credit", "html": "Karen Stripp calling<br>photo: Anna Best"}
+		]
+	},
+	"m55": {
+		"title": "Mecca",
+		"media": [
+			{"src": "media/memory/m55.jpg", "width": 300, "height": 448}
+		],
+		"caption": [
+			{"class": "caption", "html": "Anna Best <em>Mecca</em>"},
+			{"class": "credit", "html": "Paul Whitty performing on the Wurlitzer organ<br>photo: Anna Best"}
+		]
+	},
+	"m56": {
+		"title": "Mecca",
+		"media": [
+			{"src": "media/memory/m56.jpg", "width": 500, "height": 328}
+		],
+		"caption": [
+			{"class": "caption", "html": "Anna Best <em>Mecca</em>"},
+			{"class": "credit", "html": "photo: Anna Best"}
+		]
+	},
+	"m57": {
+		"title": "Journeys",
+		"class": "inset",
+		"mediaClass": "media center middle",
+		"media": [
+			{"src": "media/memory/m57.mp4", "width": 320, "height": 240, "framed": true}
+		],
+		"caption": [
+			{"class": "credit", "html": "<em>My House</em> by Anna Muir"}
+		]
+	},
+	"m58": {
+		"title": "Journeys",
+		"class": "inset",
+		"mediaClass": "media center middle",
+		"media": [
+			{"src": "media/memory/m58.mp4", "width": 320, "height": 240, "framed": true}
+		],
+		"caption": [
+			{"class": "credit", "html": "<em>My House</em> by Anna Muir"}
+		]
+	},
+	"m60a": {
+		"title": "Journeys",
+		"class": "inset",
+		"mediaClass": "media center middle",
+		"media": [
+			{"src": "media/memory/m60a.mp4", "width": 320, "height": 240, "framed": true}
+		],
+		"caption": [
+			{"class": "credit", "html": "by Spiros"}
+		]
+	},
+	"m62": {
+		"title": "Journeys",
+		"class": "inset",
+		"mediaClass": "media center middle",
+		"media": [
+			{"src": "media/memory/m62.mp4", "width": 320, "height": 240, "framed": true}
+		],
+		"caption": [
+			{"class": "credit", "html": "<em>Home to Home</em> by Patsy Palmer"}
+		]
+	},
+	"vikas_curtains": {
+		"title": "Journeys",
+		"class": "inset",
+		"mediaClass": "media center middle",
+		"media": [
+			{"src": "media/memory/vikas_curtains.jpg", "width": 320, "height": 240, "framed": true}
+		]
+	}
+}

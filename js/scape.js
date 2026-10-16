@@ -7,7 +7,8 @@
  *  - touch: the page is scrolled by hand and the box nearest the centre of the
  *    screen is zoomed; boxes around it are enlarged in proportion
  *  - links open in overlay "windows" instead of popups, one per window type,
- *    sized and positioned as the original popups were
+ *    sized and positioned as the original popups were; their content comes
+ *    from windows.json (built by Jekyll from _data/windows.json)
  */
 (function () {
 	'use strict';
@@ -283,6 +284,42 @@
 	var wins = {};
 	var zTop = 500;
 
+	// the content of every window, keyed by the boxes' href="#key"
+	var pages = null;
+	var pagesReady = fetch('windows.json').then(function (r) {
+		if (!r.ok) throw new Error(r.status + ' ' + r.url);
+		return r.json();
+	}).then(function (data) {
+		pages = data;
+	});
+
+	function attr(name, value) {
+		return value ? ' ' + name + '="' + value + '"' : '';
+	}
+
+	// build a window's content from its windows.json entry (see css/page.css)
+	function renderPage(entry) {
+		var html;
+		if (entry.text) {
+			html = entry.text.join('');
+		} else {
+			html = entry.media.map(function (m) {
+				var a = attr('src', m.src) + attr('width', m.width) + attr('height', m.height) + attr('class', m.framed && 'framed');
+				return /\.(mp4|mov)$/i.test(m.src) ?
+					'<video' + a + ' controls playsinline preload="metadata"></video>' :
+					'<img' + a + ' alt="">';
+			}).join('');
+			if (entry.mediaClass) html = '<div' + attr('class', entry.mediaClass) + '>' + html + '</div>';
+			if (entry.caption) {
+				html += '<figcaption' + attr('class', entry.captionClass) + '>' + entry.caption.map(function (p) {
+					return '<p' + attr('class', p['class']) + '>' + p.html + '</p>';
+				}).join('') + '</figcaption>';
+			}
+			html = '<figure>' + html + '</figure>';
+		}
+		return '<div class="page-body' + (entry['class'] ? ' ' + entry['class'] : '') + '">' + html + '</div>';
+	}
+
 	function createWin(type) {
 		var w = document.createElement('section');
 		w.className = 'win';
@@ -292,30 +329,15 @@
 			'<div class="win-body">' + (type === 'link' ?
 				'<div class="win-link"><p>This voice linked to a website, which you can visit as it was at the time:</p>' +
 				'<p><a class="win-link-url" target="_blank" rel="noopener"></a></p><p class="win-link-date"></p></div>' :
-				'<iframe></iframe>') + '</div>';
+				'<div class="page"></div>') + '</div>';
 		w._type = type;
-		w._iframe = w.querySelector('iframe');
+		w._page = w.querySelector('.page');
 		w._title = w.querySelector('.win-title');
 		w.querySelector('.win-close').addEventListener('click', function () { closeWin(w); });
 		w.addEventListener('pointerdown', function () { raise(w); });
 		w.addEventListener('mouseenter', stopScrolling);
 		makeDraggable(w);
 		document.body.appendChild(w);
-		if (!w._iframe) return w;
-		w._iframe.addEventListener('load', function () {
-			// over http(s) the pages are same-origin, so use their own titles
-			// and let the window grow a little if the page doesn't quite fit
-			try {
-				var doc = w._iframe.contentDocument;
-				var t = doc.title;
-				if (t && !/untitled/i.test(t)) w._title.textContent = t;
-				doc.documentElement.style.overflowX = 'hidden';
-				if (w._url) {
-					w._extraH = clamp(doc.documentElement.scrollHeight - TYPES[w._type][1], 0, 120);
-					if (w._extraH && w.classList.contains('is-open')) layoutWin(w);
-				}
-			} catch (err) {}
-		});
 		return w;
 	}
 
@@ -330,15 +352,15 @@
 		var bar = w.querySelector('.win-bar').offsetHeight;
 		var body = w.querySelector('.win-body');
 		var s, width, height;
-		if (w._iframe) {
+		if (w._page) {
 			s = Math.min(1, (vw - 16) / t[0], (vh - 16 - bar) / h);
 			width = Math.round(t[0] * s);
 			height = Math.round(h * s);
 			body.style.width = width + 'px';
 			body.style.height = height + 'px';
-			w._iframe.style.width = t[0] + 'px';
-			w._iframe.style.height = h + 'px';
-			w._iframe.style.transform = s < 1 ? 'scale(' + s + ')' : '';
+			w._page.style.width = t[0] + 'px';
+			w._page.style.height = h + 'px';
+			w._page.style.transform = s < 1 ? 'scale(' + s + ')' : '';
 		} else {
 			width = Math.min(t[0], vw - 16);
 			body.style.width = width + 'px';
@@ -367,8 +389,7 @@
 		w.style.top = Math.round(w._top) + 'px';
 	}
 
-	function openWin(url, type, title, colour, link) {
-		if (!TYPES[type]) return;
+	function prepareWin(type, title, colour) {
 		var w = wins[type] || (wins[type] = createWin(type));
 		// small screens: one window at a time
 		if (viewW() < 700) {
@@ -378,33 +399,57 @@
 		w._title.textContent = title;
 		w.setAttribute('aria-label', title);
 		w.style.setProperty('--c', colour);
-		if (link) {
-			var a = w.querySelector('.win-link-url');
-			var d = link.date;
-			a.href = url;
-			a.textContent = link.url;
-			w.querySelector('.win-link-date').textContent = 'Opens the Internet Archive\u2019s copy from ' +
-				(+d.slice(6, 8)) + ' ' + MONTHS[d.slice(4, 6) - 1] + ' ' + d.slice(0, 4) + ', in a new tab.';
-		} else if (w._url !== url) {
-			w._iframe.title = title;
-			w._url = url;
-			w._extraH = 0;
-			w._iframe.src = url;
-		}
+		return w;
+	}
+
+	function showWin(w) {
 		layoutWin(w);
 		raise(w);
 		w.classList.add('is-open');
 		stopScrolling();
 	}
 
+	// a window from windows.json; the title is the entry's own, or else the given one
+	function openPage(key, type, title, colour) {
+		if (!pages) {
+			pagesReady.then(function () { openPage(key, type, title, colour); });
+			return;
+		}
+		var entry = pages[key];
+		if (!entry || !TYPES[type]) return;
+		var w = prepareWin(type, entry.title || title, colour);
+		if (w._key !== key) {
+			w._key = key;
+			w._page.innerHTML = renderPage(entry);
+			w._page.scrollTop = 0;
+			// let the window grow a little if the page doesn't quite fit
+			w._extraH = 0;
+			layoutWin(w);
+			w._extraH = clamp(w._page.scrollHeight - TYPES[type][1], 0, 120);
+		}
+		showWin(w);
+	}
+
+	// an external website, linked to its Internet Archive copy
+	function openLink(url, title, colour, link) {
+		var w = prepareWin('link', title, colour);
+		var a = w.querySelector('.win-link-url');
+		var d = link.date;
+		a.href = url;
+		a.textContent = link.url;
+		w.querySelector('.win-link-date').textContent = 'Opens the Internet Archive\u2019s copy from ' +
+			(+d.slice(6, 8)) + ' ' + MONTHS[d.slice(4, 6) - 1] + ' ' + d.slice(0, 4) + ', in a new tab.';
+		showWin(w);
+	}
+
 	function closeWin(w) {
 		if (!w.classList.contains('is-open')) return;
 		w.classList.remove('is-open');
-		// unload the page once hidden, so that sound or video stops
-		if (!w._iframe) return;
+		// empty the window once hidden, so that video stops
+		if (!w._page) return;
 		w._blankTimer = setTimeout(function () {
-			w._url = null;
-			w._iframe.src = 'about:blank';
+			w._key = null;
+			w._page.innerHTML = '';
 		}, 300);
 	}
 
@@ -424,8 +469,6 @@
 			if (e.target.closest('button')) return;
 			start = { x: e.clientX - w._left, y: e.clientY - w._top };
 			bar.setPointerCapture(e.pointerId);
-			// stop the iframe swallowing pointer events while dragging
-			w._iframe.style.pointerEvents = 'none';
 		});
 		bar.addEventListener('pointermove', function (e) {
 			if (!start) return;
@@ -434,7 +477,6 @@
 		});
 		function end() {
 			start = null;
-			w._iframe.style.pointerEvents = '';
 		}
 		bar.addEventListener('pointerup', end);
 		bar.addEventListener('pointercancel', end);
@@ -454,9 +496,12 @@
 		}
 		if (el.tagName === 'A') {
 			e.preventDefault();
-			var type = el.dataset.type === 'link' ? 'link' : +el.dataset.type;
-			openWin(el.getAttribute('href'), type, themeOf(el), el.style.backgroundColor,
-				el.dataset.link && { url: el.dataset.link, date: el.dataset.date });
+			if (el.dataset.type === 'link') {
+				openLink(el.getAttribute('href'), themeOf(el), el.style.backgroundColor,
+					{ url: el.dataset.link, date: el.dataset.date });
+			} else {
+				openPage(el.getAttribute('href').slice(1), +el.dataset.type, themeOf(el), el.style.backgroundColor);
+			}
 		}
 	});
 
@@ -464,7 +509,7 @@
 		var a = e.target.closest('a[data-type]');
 		if (!a) return;
 		e.preventDefault();
-		openWin(a.getAttribute('href'), +a.dataset.type, a.textContent, getComputedStyle(a).backgroundColor);
+		openPage(a.getAttribute('href').slice(1), +a.dataset.type, a.textContent, getComputedStyle(a).backgroundColor);
 	});
 
 	document.addEventListener('keydown', function (e) {

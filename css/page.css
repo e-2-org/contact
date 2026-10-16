@@ -1,13 +1,24 @@
-/* Contact - window pages (replaces contact.css and the old table layouts) */
+/*
+ * Contact - window content
+ *
+ * The windows are built by scape.js from windows.json:
+ *   .page        the scrolling area, sized like the original popup (was <html>)
+ *   .page-body   the content, with the entry's classes (was <body>)
+ */
 
-html {
+.page {
+	position: absolute;
+	left: 0;
+	top: 0;
+	overflow: hidden auto;
+	background: #cccccc;
+	transform-origin: 0 0;
 	-webkit-text-size-adjust: 100%;
 	text-size-adjust: 100%;
-	overflow-x: hidden;
 }
-body {
+.page-body {
 	box-sizing: border-box;
-	min-height: 100vh;
+	min-height: 100%;
 	margin: 0;
 	padding: 8px;
 	background: #cccccc;
@@ -15,15 +26,15 @@ body {
 	font: 16px Arial, Helvetica, sans-serif;
 	overflow-wrap: break-word;
 }
-p {
+.page p {
 	margin: 0 0 1em;
 }
-h1 {
+.page h1 {
 	margin: 0 0 1em;
 	font-size: inherit;
 }
-img,
-video {
+.page img,
+.page video {
 	max-width: 100%;
 	height: auto;
 	vertical-align: top;
@@ -31,19 +42,19 @@ video {
 
 /* ---------- image and video pages: picture at the top, caption bottom right ---------- */
 
-body:has(> figure) {
+.page-body:has(> figure) {
 	display: flex;
 	flex-direction: column;
 	padding: 4px;
 }
 /* page margins carried over from the originals */
-body.flush {
+.page-body.flush {
 	padding: 0;
 }
-body.inset {
+.page-body.inset {
 	padding: 9px;
 }
-figure {
+.page figure {
 	display: flex;
 	flex: 1;
 	flex-direction: column;
@@ -51,69 +62,69 @@ figure {
 	gap: 4px;
 	margin: 0;
 }
-figcaption {
+.page figcaption {
 	align-self: stretch;
 	margin-top: auto;
 	text-align: right;
 }
-.media {
+.page .media {
 	display: flex;
 	flex-wrap: wrap;
 	align-self: stretch;
 }
 /* table cells centred their contents vertically unless told otherwise */
-.media.middle {
+.page .media.middle {
 	margin-block: auto;
 }
-.media.middle ~ figcaption {
+.page .media.middle ~ figcaption {
 	margin-top: 0;
 }
-figcaption.left {
+.page figcaption.left {
 	text-align: left;
 }
-figcaption p {
+.page figcaption p {
 	margin: 0;
 	font-size: 11.5pt;
 	line-height: 1.3;
 }
-.media.center {
+.page .media.center {
 	justify-content: center;
 }
-.framed {
+.page .framed {
 	border: 1px solid #000;
 	background: #000;
 }
 
 /* caption text (was .bodyblack and .bodysmall) */
-.caption,
-.credit,
-.big {
+.page .caption,
+.page .credit,
+.page .big {
 	line-height: 1.3;
 }
-.caption {
+.page .caption {
 	font-size: 11.5pt;
 }
-.credit {
+.page .credit {
 	font-size: 10pt;
 }
-.big {
+.page .big {
 	font-size: 14pt;
 }
 
 /* ---------- text pages: the old <font> settings ---------- */
 
-.narrow { font-family: 'Arial Narrow', 'Helvetica Narrow', Arial, sans-serif; }
-.sans { font-family: Arial, Helvetica, sans-serif; }
-.serif { font-family: 'Times New Roman', Times, serif; }
-.f2 { font-size: 13px; }
-.f3 { font-size: 16px; }
-.f4 { font-size: 18px; }
-.f5 { font-size: 24px; }
-.light { color: #fff; }
+.page .narrow { font-family: 'Arial Narrow', 'Helvetica Narrow', Arial, sans-serif; }
+.page .sans { font-family: Arial, Helvetica, sans-serif; }
+.page .serif { font-family: 'Times New Roman', Times, serif; }
+.page .f2 { font-size: 13px; }
+.page .f3 { font-size: 16px; }
+.page .f4 { font-size: 18px; }
+.page .f5 { font-size: 24px; }
+.page .light { color: #fff; }
 
-.center { text-align: center; }
-.right { text-align: right; }
+.page .center { text-align: center; }
+.page .right { text-align: right; }
 
-.bg-white { background: #ffffff; }
-.bg-pink { background: #ff99cc; }
-.bg-blue { background: #003399; }
+.page .bg-white { background: #ffffff; }
+.page .bg-pink { background: #ff99cc; }
+.page .bg-blue { background: #003399; }
