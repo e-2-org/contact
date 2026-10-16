@@ -92,7 +92,9 @@ a.box {
 	z-index: 100;
 	scale: 1;
 }
+/* above a box that is still shrinking back, whatever their order in the page */
 .box.is-zoomed {
+	z-index: 101;
 	box-shadow: 0 6px 24px rgba(0, 60, 80, .25);
 }
 .box:focus-visible {
