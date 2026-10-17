@@ -1,0 +1,130 @@
+/*
+ * Contact - window content
+ *
+ * The windows are built by scape.js from windows.json:
+ *   .page        the scrolling area, sized like the original popup (was <html>)
+ *   .page-body   the content, with the entry's classes (was <body>)
+ */
+
+.page {
+	position: absolute;
+	left: 0;
+	top: 0;
+	overflow: hidden auto;
+	background: #cccccc;
+	transform-origin: 0 0;
+	-webkit-text-size-adjust: 100%;
+	text-size-adjust: 100%;
+}
+.page-body {
+	box-sizing: border-box;
+	min-height: 100%;
+	margin: 0;
+	padding: 8px;
+	background: #cccccc;
+	color: #000;
+	font: 16px Arial, Helvetica, sans-serif;
+	overflow-wrap: break-word;
+}
+.page p {
+	margin: 0 0 1em;
+}
+.page h1 {
+	margin: 0 0 1em;
+	font-size: inherit;
+}
+.page img,
+.page video {
+	max-width: 100%;
+	height: auto;
+	vertical-align: top;
+}
+
+/* ---------- image and video pages: picture at the top, caption bottom right ---------- */
+
+.page-body:has(> figure) {
+	display: flex;
+	flex-direction: column;
+	padding: 4px;
+}
+/* page margins carried over from the originals */
+.page-body.flush {
+	padding: 0;
+}
+.page-body.inset {
+	padding: 9px;
+}
+.page figure {
+	display: flex;
+	flex: 1;
+	flex-direction: column;
+	align-items: flex-start;
+	gap: 4px;
+	margin: 0;
+}
+.page figcaption {
+	align-self: stretch;
+	margin-top: auto;
+	text-align: right;
+}
+.page .media {
+	display: flex;
+	flex-wrap: wrap;
+	align-self: stretch;
+}
+/* table cells centred their contents vertically unless told otherwise */
+.page .media.middle {
+	margin-block: auto;
+}
+.page .media.middle ~ figcaption {
+	margin-top: 0;
+}
+.page figcaption.left {
+	text-align: left;
+}
+.page figcaption p {
+	margin: 0;
+	font-size: 11.5pt;
+	line-height: 1.3;
+}
+.page .media.center {
+	justify-content: center;
+}
+.page .framed {
+	border: 1px solid #000;
+	background: #000;
+}
+
+/* caption text (was .bodyblack and .bodysmall) */
+.page .caption,
+.page .credit,
+.page .big {
+	line-height: 1.3;
+}
+.page .caption {
+	font-size: 11.5pt;
+}
+.page .credit {
+	font-size: 10pt;
+}
+.page .big {
+	font-size: 14pt;
+}
+
+/* ---------- text pages: the old <font> settings ---------- */
+
+.page .narrow { font-family: 'Arial Narrow', 'Helvetica Narrow', Arial, sans-serif; }
+.page .sans { font-family: Arial, Helvetica, sans-serif; }
+.page .serif { font-family: 'Times New Roman', Times, serif; }
+.page .f2 { font-size: 13px; }
+.page .f3 { font-size: 16px; }
+.page .f4 { font-size: 18px; }
+.page .f5 { font-size: 24px; }
+.page .light { color: #fff; }
+
+.page .center { text-align: center; }
+.page .right { text-align: right; }
+
+.page .bg-white { background: #ffffff; }
+.page .bg-pink { background: #ff99cc; }
+.page .bg-blue { background: #003399; }

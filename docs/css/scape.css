@@ -1,0 +1,398 @@
+/* Contact - single page scape (replaces the scapeframe.html frameset) */
+
+:root {
+	--nav-total: 40px; /* updated by scape.js to the names bar's height */
+	--ease: cubic-bezier(.2, .7, .2, 1);
+	--zoom-font: 15px;
+}
+@media (pointer: coarse) {
+	:root {
+		--zoom-font: 16px;
+	}
+}
+
+html {
+	-webkit-text-size-adjust: 100%;
+	text-size-adjust: 100%;
+}
+body {
+	margin: 0;
+	background: #ccffff;
+	font-family: Arial, Helvetica, sans-serif;
+	color: #000;
+}
+/* with a mouse the page scrolls from the edges (or wheel/trackpad), so hide the scrollbars */
+html.mode-pointer {
+	scrollbar-width: none;
+}
+html.mode-pointer::-webkit-scrollbar {
+	display: none;
+}
+
+/* ---------- the scape ---------- */
+
+.scape {
+	position: relative;
+	width: 6300px;
+	height: 2700px;
+	padding-bottom: var(--nav-total);
+}
+
+.theme {
+	position: absolute;
+	z-index: 0;
+	margin: 0;
+	font: normal 150pt 'Arial Narrow', 'Helvetica Narrow', 'sans-serif Narrow', sans-serif;
+	color: #fff;
+	cursor: default;
+	user-select: none;
+	pointer-events: none;
+}
+
+/*
+ * Zooming: the box's size animates, while the text is never re-flowed during
+ * the animation. The small text (.t) and a copy laid out at the zoomed size
+ * (.t-big, added by scape.js) are both scaled by the same ratio as the box
+ * width (--k) and cross-faded.
+ */
+.box {
+	--dx: 0px;
+	--p: 0;
+	--k: 1.75;
+	--dur: .4s;
+	position: absolute;
+	z-index: 1;
+	box-sizing: content-box;
+	width: 200px;
+	padding: 2px;
+	overflow: hidden;
+	font: 5px/1.15 Arial, Helvetica, sans-serif;
+	color: #000;
+	text-decoration: none;
+	cursor: default;
+	transform-origin: 50% 50%;
+	translate: var(--dx) 0;
+	scale: calc(1 + var(--p) * .6);
+	transition:
+		width var(--dur) var(--ease),
+		height var(--dur) var(--ease),
+		translate var(--dur) var(--ease),
+		scale .25s var(--ease),
+		box-shadow var(--dur) var(--ease);
+	-webkit-tap-highlight-color: transparent;
+}
+a.box {
+	cursor: pointer;
+}
+.box.is-near {
+	z-index: 2;
+}
+.box.is-zoomed,
+.box.is-unzooming {
+	z-index: 100;
+	scale: 1;
+}
+/* above a box that is still shrinking back, whatever their order in the page */
+.box.is-zoomed {
+	z-index: 101;
+	box-shadow: 0 6px 24px rgba(0, 60, 80, .25);
+}
+.box:focus-visible {
+	outline: 2px solid #000;
+	outline-offset: 2px;
+}
+.box .t,
+.box .t-big {
+	display: block;
+	transform-origin: 0 0;
+	transition:
+		transform var(--dur) var(--ease),
+		opacity calc(var(--dur) * .6) linear;
+}
+.box .t {
+	width: 200px;
+}
+.box .t-big {
+	position: absolute;
+	left: 2px;
+	top: 2px;
+	font-size: var(--zoom-font);
+	transform: scale(calc(1 / var(--k)));
+	opacity: 0;
+}
+.box.is-zoomed .t {
+	transform: scale(var(--k));
+	opacity: 0;
+}
+.box.is-zoomed .t-big {
+	transform: none;
+	opacity: 1;
+}
+
+/* ---------- names bar (was names.html) ---------- */
+
+.names {
+	position: fixed;
+	z-index: 1000;
+	left: 0;
+	right: 0;
+	bottom: 0;
+	display: flex;
+	padding-bottom: env(safe-area-inset-bottom, 0px);
+	background: #cccccc;
+	font: 15px/1.2 Arial, Helvetica, sans-serif;
+}
+.names .artists {
+	display: flex;
+	flex: 1;
+	flex-wrap: wrap;
+}
+.names a,
+.names button {
+	flex: 1 1 auto;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	min-height: 36px;
+	padding: 4px 8px;
+	border: 0;
+	background: var(--c, #ccc);
+	color: #000;
+	font: inherit;
+	text-align: center;
+	text-decoration: none;
+	white-space: nowrap;
+	cursor: pointer;
+	transition: filter .2s;
+}
+.names a:hover,
+.names button:hover,
+.names a:focus-visible,
+.names button:focus-visible {
+	filter: brightness(1.08) saturate(1.2);
+	outline: none;
+	box-shadow: inset 0 0 0 2px #000;
+}
+@media (pointer: coarse) {
+	.names a,
+	.names button { min-height: 44px; }
+}
+.names .tools {
+	display: flex;
+	flex: 0 0 auto;
+}
+/* phones: names three to a row, tools stacked down the right-hand side */
+@media (max-width: 700px) {
+	.names { font-size: 13px; line-height: 1.15; }
+	.names .artists a {
+		flex: 1 1 25%; /* 3 per row once padding is added */
+		min-width: 0;
+		min-height: 40px;
+		padding: 2px 6px;
+		white-space: normal;
+		text-wrap: balance;
+	}
+	.names .tools { flex-direction: column; }
+	.names .tool { flex: 1 1 0; min-height: 40px; border-left: 1px solid #999; }
+}
+.names .tool {
+	flex: 0 0 auto;
+	min-width: 44px;
+	padding: 0 8px;
+	border-left: 1px solid #999;
+	font-weight: bold;
+	font-size: 20px;
+}
+.names .tool[hidden] {
+	display: none;
+}
+.names .tool svg {
+	width: 22px;
+	height: 22px;
+	fill: none;
+	stroke: currentColor;
+	stroke-width: 2.4;
+	stroke-linecap: round;
+	stroke-linejoin: round;
+}
+#fullscreen .icon-exit,
+#fullscreen[aria-pressed="true"] .icon-enter {
+	display: none;
+}
+#fullscreen[aria-pressed="true"] .icon-exit {
+	display: block;
+}
+
+/* ---------- popup windows (were window.open) ---------- */
+
+.win {
+	position: fixed;
+	z-index: 500;
+	left: 0;
+	top: 0;
+	display: flex;
+	flex-direction: column;
+	background: #cccccc;
+	box-shadow: 0 12px 40px rgba(0, 40, 60, .35), 0 0 0 1px rgba(0, 0, 0, .25);
+	visibility: hidden;
+	opacity: 0;
+	scale: .96;
+	transition:
+		opacity .25s var(--ease),
+		scale .25s var(--ease),
+		visibility 0s linear .25s;
+}
+.win.is-open {
+	visibility: visible;
+	opacity: 1;
+	scale: 1;
+	transition-delay: 0s;
+}
+.win-bar {
+	display: flex;
+	align-items: center;
+	gap: 8px;
+	height: 24px;
+	padding: 0 0 0 8px;
+	background: var(--c, #ccccff);
+	font: 12px Arial, Helvetica, sans-serif;
+	cursor: move;
+	user-select: none;
+	touch-action: none;
+}
+.win-title {
+	flex: 1;
+	overflow: hidden;
+	white-space: nowrap;
+	text-overflow: ellipsis;
+}
+.win-close {
+	width: 32px;
+	height: 100%;
+	border: 0;
+	background: transparent;
+	font: bold 18px/1 Arial, Helvetica, sans-serif;
+	cursor: pointer;
+}
+.win-close:hover,
+.win-close:focus-visible {
+	background: rgba(0, 0, 0, .12);
+	outline: none;
+}
+@media (pointer: coarse) {
+	.win-bar { height: 40px; font-size: 14px; }
+	.win-close { width: 48px; font-size: 24px; }
+}
+.win-body {
+	position: relative;
+	overflow: hidden;
+}
+.win-link {
+	padding: 16px 18px;
+	font: 15px/1.4 Arial, Helvetica, sans-serif;
+}
+.win-link p {
+	margin: 0 0 10px;
+}
+.win-link p:last-child {
+	margin: 0;
+	font-size: 13px;
+	color: #444;
+}
+.win-link-url {
+	display: block;
+	padding: 8px 10px;
+	background: #fff;
+	color: #000;
+	font-size: 16px;
+	overflow-wrap: anywhere;
+	text-decoration-color: var(--c);
+	text-decoration-thickness: 2px;
+	text-underline-offset: 3px;
+	transition: background .2s;
+}
+.win-link-url:hover,
+.win-link-url:focus-visible {
+	background: var(--c, #fff);
+	outline: none;
+}
+
+/* ---------- intro overlay (was sign.html) ---------- */
+
+.intro {
+	box-sizing: border-box;
+	max-width: none;
+	max-height: none;
+	width: 100%;
+	height: 100%;
+	margin: 0;
+	padding: 24px 16px;
+	border: 0;
+	background: transparent;
+	overflow: auto;
+	opacity: 1;
+	cursor: pointer;
+	transition: opacity .6s var(--ease);
+}
+.intro::backdrop {
+	background: rgba(204, 255, 255, .82);
+	-webkit-backdrop-filter: blur(3px);
+	backdrop-filter: blur(3px);
+	transition: opacity .6s var(--ease);
+}
+@starting-style {
+	.intro[open],
+	.intro[open]::backdrop {
+		opacity: 0;
+	}
+}
+.intro.is-leaving,
+.intro.is-leaving::backdrop {
+	opacity: 0;
+}
+.intro-inner {
+	display: flex;
+	flex-wrap: wrap-reverse;
+	align-items: flex-end;
+	justify-content: center;
+	gap: 24px;
+	min-height: 100%;
+	align-content: center;
+}
+.intro-enter {
+	padding: 0;
+	border: 0;
+	background: none;
+	cursor: pointer;
+	transition: scale .3s var(--ease);
+}
+.intro-enter:hover,
+.intro-enter:focus-visible {
+	scale: 1.06;
+	outline: none;
+}
+.intro-enter img {
+	display: block;
+	width: 180px;
+	height: 180px;
+}
+.intro-text {
+	box-sizing: border-box;
+	width: 374px;
+	max-width: 100%;
+	padding: 12px;
+	background: #ccffcc;
+	font: 1.2em 'Arial Narrow', Arial, Helvetica, sans-serif;
+}
+.intro-text p:first-child { margin-top: 0; }
+.intro-text p:last-child { margin-bottom: 0; }
+
+@media (prefers-reduced-motion: reduce) {
+	*,
+	*::before,
+	*::after,
+	.intro::backdrop {
+		transition-duration: 0s !important;
+		transition-delay: 0s !important;
+	}
+}

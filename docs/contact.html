@@ -1,0 +1,72 @@
+---
+---
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1, viewport-fit=cover">
+	<title>Contact</title>
+	<link rel="stylesheet" href="css/scape.css">
+	<link rel="stylesheet" href="css/page.css">
+{% include icons.html %}
+</head>
+<body>
+	<main class="scape">
+		<!--headings-->
+{%- for theme in site.data.themes %}
+		<h2 class="theme" style="left:{{ theme.x }}px;top:{{ theme.y }}px;width:{{ theme.width }}px">{{ theme.name | escape }}</h2>
+{%- endfor %}
+		<!--boxes-->
+{%- for box in site.data.boxes %}
+{%- capture style %}left:{{ box.x }}px;top:{{ box.y }}px;background-color:{{ box.colour }}{% endcapture %}
+{%- if box.window %}
+		<a class="box" id="{{ box.id }}" href="#{{ box.window }}" data-type="{{ box.type }}" style="{{ style }}"><span class="t">{{ box.text | escape }}</span></a>
+{%- elsif box.link %}
+		<a class="box" id="{{ box.id }}" href="{{ box.archive }}" data-type="link" data-link="{{ box.link }}" data-date="{{ box.date }}" style="{{ style }}"><span class="t">{{ box.text | escape }}</span></a>
+{%- else %}
+		<div class="box" id="{{ box.id }}" style="{{ style }}"><span class="t">{{ box.text | escape }}</span></div>
+{%- endif %}
+{%- endfor %}
+	</main>
+
+	<!-- names (was names.html) -->
+	<nav class="names" aria-label="Artists">
+		<div class="artists">
+{%- for artist in site.data.names %}
+			<a href="#{{ artist.window }}" data-type="{{ artist.type }}" style="--c:{{ artist.colour }}">{{ artist.name | escape }}</a>
+{%- endfor %}
+		</div>
+		<div class="tools">
+			<button type="button" class="tool" id="about" aria-label="About Contact" title="About Contact">?</button>
+			<button type="button" class="tool" id="fullscreen" aria-label="Full screen" title="Full screen" hidden>
+				<svg class="icon-enter" viewBox="0 0 24 24" aria-hidden="true"><path d="M4 9V4h5M15 4h5v5M20 15v5h-5M9 20H4v-5"/></svg>
+				<svg class="icon-exit" viewBox="0 0 24 24" aria-hidden="true"><path d="M9 4v5H4M20 9h-5V4M15 20v-5h5M4 15h5v5"/></svg>
+			</button>
+			<a class="tool" href="index.html" aria-label="Close" title="Close">
+				<svg viewBox="0 0 24 24" aria-hidden="true"><path d="M6 6l12 12M18 6L6 18"/></svg>
+			</a>
+		</div>
+	</nav>
+
+	<!-- intro (was sign.html) -->
+	<dialog class="intro" id="intro" aria-label="Contact">
+		<div class="intro-inner">
+			<button type="button" class="intro-enter" id="enter" aria-label="Enter Contact"><img src="media/signanim7.gif" width="180" height="180" alt=""></button>
+			<div class="intro-text">
+				<p>As you stroll through Contact you will meet fragments of the North London
+				Link projects and its audience. These encounters are a condensed selection of
+				voices from a research based on conversations.</p>
+				<p>From street corners to street parties, from car parks to cricket grounds, as a
+				stranger handing out gifts, I captured and encouraged interpretations towards the
+				art works out in the field. I have arranged and rearranged, cut and cut and these
+				selected impressions now fall within seven themes which grew from my findings.</p>
+				<p>In any direction, you can read a dialogue between people who never met, revealing
+				some of the thoughts, dreams, concerns, frustrations and imaginations that
+				were and are the North London Link experience.</p>
+			</div>
+		</div>
+	</dialog>
+
+	<script src="js/scape.js"></script>
+</body>
+</html>

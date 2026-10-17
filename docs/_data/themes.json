@@ -1,0 +1,9 @@
+[
+	{"name": "fear & loathing", "x": 500, "y": 400, "width": 1000},
+	{"name": "sacred spaces", "x": 4700, "y": 400, "width": 1000},
+	{"name": "people power & participation", "x": 1200, "y": 1700, "width": 1500},
+	{"name": "people & public art", "x": 500, "y": 1000, "width": 1000},
+	{"name": "city life & sociability", "x": 2500, "y": 800, "width": 1000},
+	{"name": "escape routes & dreams", "x": 4000, "y": 1000, "width": 1500},
+	{"name": "memory & collectivity", "x": 3500, "y": 1800, "width": 1000}
+]
